@@ -1,0 +1,33 @@
+--- 
+title: "A FIELD GUIDE TO INSECTS AND DISEASES OF CALIFORNIA OAKS - online edition"
+author: "Tedmund J. Swiecki, Elizabeth A. Bernhardt, eds."
+date: "`r Sys.Date()`"
+knit: "bookdown::render_book"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: "Updated, multiauthor/multieditor online version of A Field Guide to Insects and Diseases of California Oaks"
+toc_depth: 3
+link-citations: yes
+github-repo: 
+---
+
+
+# (PART\*) A Field Guide to Insects and Diseases of California Oaks - Online Edition {-} 
+
+# Authors / Editors {- #frontmatter} 
+The original 2006 version of this document (PSW-GTR-197) was written by Tedmund J. Swiecki and Elizabeth A. Bernhardt. This online version is an ongoing project involving the work of multiple authors and editors listed.
+
+## Acknowledgements {-} 
+
+Financial support for the production of this publication was provided by the US Department of Agriculture Forest Service, Pacific Southwest Region, State and Private Forestry, with additional support provided by Phytosphere Research, .... .
+
+Images in this publication are under copyright by the photographers and may not be reproduced in any form without obtaining permission in writing from the photographers.
+
+
+
+
+
+

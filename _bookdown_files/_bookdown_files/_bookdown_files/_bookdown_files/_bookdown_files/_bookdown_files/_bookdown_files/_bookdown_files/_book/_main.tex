@@ -1,0 +1,515 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+]{book}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{5}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage[]{natbib}
+\bibliographystyle{plainnat}
+\usepackage{booktabs}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={A FIELD GUIDE TO INSECTS AND DISEASES OF CALIFORNIA OAKS - online edition},
+  pdfauthor={Tedmund J. Swiecki, Elizabeth A. Bernhardt, eds.},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{A FIELD GUIDE TO INSECTS AND DISEASES OF CALIFORNIA OAKS - online edition}
+\author{Tedmund J. Swiecki, Elizabeth A. Bernhardt, eds.}
+\date{2025-03-15}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\part*{A Field Guide to Insects and Diseases of California Oaks - Online Edition}\label{part-a-field-guide-to-insects-and-diseases-of-california-oaks---online-edition}
+\addcontentsline{toc}{part}{A Field Guide to Insects and Diseases of California Oaks - Online Edition}
+
+\chapter*{Authors / Editors}\label{authors-editors}
+\addcontentsline{toc}{chapter}{Authors / Editors}
+
+This online version is an ongoing project involving the work of multiple authors and editors. The original 2006 version of this document (PSW-GTR-197) was written by Tedmund J. Swiecki and Elizabeth A. Bernhardt.
+
+\section*{Acknowledgements}\label{acknowledgements}
+\addcontentsline{toc}{section}{Acknowledgements}
+
+Financial support for the production of this publication was provided by the US Department of Agriculture Forest Service, Pacific Southwest Region, State and Private Forestry, with additional support provided by Phytosphere Research, \ldots. .
+
+Images in this publication are under copyright by the photographers and may not be reproduced in any form without obtaining permission in writing from the photographers.
+
+\part*{Introduction}\label{part-introduction}
+\addcontentsline{toc}{part}{Introduction}
+
+\chapter*{Introduction}\label{introduction}
+\addcontentsline{toc}{chapter}{Introduction}
+
+\part{Insects and Mites}\label{part-insects-and-mites}
+
+\chapter*{Acorn feeders}\label{acorn-feeders}
+\addcontentsline{toc}{chapter}{Acorn feeders}
+
+\section{Filbert weevils}\label{filbert-weevils}
+
+\subsection*{\texorpdfstring{\emph{Curculio aurivestis}, \emph{C. occidentis}, \emph{C. pardus} (Curculionidae)}{Curculio aurivestis, C. occidentis, C. pardus (Curculionidae)}}\label{curculio-aurivestis-c.-occidentis-c.-pardus-curculionidae}
+\addcontentsline{toc}{subsection}{\emph{Curculio aurivestis}, \emph{C. occidentis}, \emph{C. pardus} (Curculionidae)}
+
+\subsection*{Distribution / Hosts}\label{distribution-hosts}
+\addcontentsline{toc}{subsection}{Distribution / Hosts}
+
+\emph{Curculio aurivestis} occurs from Victoria, British Columbia to southern California. It is reported on canyon live, Oregon white, and other oaks.
+\emph{C. occidentis} is widely distributed throughout the western U.S. and California. It is reported on a wide variety of oaks as well as tanoak and California hazelnut.
+\emph{C. pardus} occurs from Washington to Los Angeles County, California. It is reported from coast live, interior live, canyon live, blue, valley, and other oak species.
+
+\subsection*{Symptoms}\label{symptoms}
+\addcontentsline{toc}{subsection}{Symptoms}
+
+Pinhead size oviposition wounds on acorns are commonly surrounded by a discolored and/or raised area and may exude small amounts of sap. Round, open holes (about 1---2 mm diameter) are left in the acorn seed coat when larvae exit. When infested acorns are cut open, dark brown granular frass caused by larvae tunneling throughout the interior of the acorn is visible. One or more (up to at least eight) filbert weevil larvae may be found in a single acorn. Filbert weevil and filbertworm larvae may occur in the same acorn (fig.~4).
+
+knitr::include\_graphics(``images/Valley oak ACORN AND CONTENTS Vacaville Nov 1999\_Phytosphere.TIF'')
+
+\subsection*{Agent Description}\label{agent-description}
+\addcontentsline{toc}{subsection}{Agent Description}
+
+Larvae are white to cream-colored and about 6---8 mm long; the head is small and brown. They are legless, plump, and relatively sluggish, and assume a curved C-shape when removed from an acorn (fig.~6). Adults weevils are about 5.5---6.5 mm long, yellowish-brown, and have long slender snouts (fig.~7).
+
+\subsection*{Biology}\label{biology}
+\addcontentsline{toc}{subsection}{Biology}
+
+Adult weevils emerge from pupae in debris or soil beneath trees in summer. Oviposition occurs in summer and fall. The female weevil chews a small hole in the shell of a developing acorn and lays eggs in these holes. Larvae tunnel throughout the acorn. Heavily damaged acorns drop early, beginning in August or earlier. Larval feeding and development continues after the acorns have fallen. When the larva matures in the fall and winter, it bores an exit hole through the acorn seed coat and enters the ground, where it spends the winter. Larvae pupate in spring or summer.Only one generation occurs per year.
+
+\subsection*{Importance}\label{importance}
+\addcontentsline{toc}{subsection}{Importance}
+
+Severely damaged acorns are unable to sprout. Acorns without damage near the embryo axis at the pointed end of the acorn may still germinate, but seedling survivability may be reduced. Infestation levels can vary substantially with locality, year, oak species, and between individual trees at a particular locality. Infestation levels among acorns from a single tree can range up to at least 75\%.
+
+\section*{Filbertworm}\label{filbertworm}
+\addcontentsline{toc}{section}{Filbertworm}
+
+\subsection*{\texorpdfstring{\emph{Cydia latiferreana} (Tortricidae)}{Cydia latiferreana (Tortricidae)}}\label{cydia-latiferreana-tortricidae}
+\addcontentsline{toc}{subsection}{\emph{Cydia latiferreana} (Tortricidae)}
+
+\subsection*{Distribution / Hosts}\label{distribution-hosts-1}
+\addcontentsline{toc}{subsection}{Distribution / Hosts}
+
+Filbertworm is widely distributed throughout the U.S. and California. It attacks the acorns of most oak species as well as hazelnuts or filberts.
+
+\subsection*{Symptoms}\label{symptoms-1}
+\addcontentsline{toc}{subsection}{Symptoms}
+
+Larvae tunnel throughout the interior of acorns (fig.~3), leaving brown granular frass and sometimes silken webbing. Round open holes (about 1---2 mm diameter) are left in acorn seed coats when larvae exit.
+
+\subsection*{Agent Description}\label{agent-description-1}
+\addcontentsline{toc}{subsection}{Agent Description}
+
+Larvae are beige to light gray, about 18---20 mm long at maturity, with three pairs of true legs; the head is dark brown. Usually only a single filbertworm larva colonizes an infested acorn, but filbert weevil larvae may occur in the same acorn (fig.~4). Compared to the slow-moving larvae of the filbert weevil, filbertworm larvae are typically active when removed from an acorn and may drop down on a strand of silk when disturbed. Adults are small, stout-bodied moths with wingspans of 12---15 mm (fig.~5). They have rust-brown forewings with several irregular dark or metallic bands and dark hindwings.
+
+\subsection*{Biology}\label{biology-1}
+\addcontentsline{toc}{subsection}{Biology}
+
+Moths emerge from pupal cases in litter beneath trees in late spring and early summer, up to about two months before oviposition occurs. Female moths lay eggs throughout the summer on acorns that are still attached to the tree. Eggs are laid singly on the acorn surface. Larvae bore into acorns and feed internally. Heavily damaged acorns drop early, beginning in August or earlier. Insect development continues after the acorns have fallen. When the larva matures, in the fall or winter, it bores an exit hole through the acorn seed coat and pupates in plant debris on the ground. There is typically one generation per year, but two generations may be possible in some areas.
+
+\subsection*{Importance}\label{importance-1}
+\addcontentsline{toc}{subsection}{Importance}
+
+Heavily damaged acorns are unable to sprout. Acorns without damage near the embryo axis at the pointed end of the acorn may still germinate, but survivability may be reduced. Infestation levels can vary substantially with locality, year, oak species, and between individual trees at a particular locality. Infestation levels among acorns from a single tree can range up to at least 80\%.
+
+\chapter*{General foliar feeders}\label{general-foliar-feeders}
+\addcontentsline{toc}{chapter}{General foliar feeders}
+
+\section*{\texorpdfstring{California oakworm, California oakmoth - \emph{Phryganidia californica} (Dioptidae)}{California oakworm, California oakmoth - Phryganidia californica (Dioptidae)}}\label{california-oakworm-california-oakmoth---phryganidia-californica-dioptidae}
+\addcontentsline{toc}{section}{California oakworm, California oakmoth - \emph{Phryganidia californica} (Dioptidae)}
+
+\subsection*{Distribution / Hosts}\label{distribution-hosts-2}
+\addcontentsline{toc}{subsection}{Distribution / Hosts}
+
+\subsection*{Symptoms}\label{symptoms-2}
+\addcontentsline{toc}{subsection}{Symptoms}
+
+\subsection*{Agent Description}\label{agent-description-2}
+\addcontentsline{toc}{subsection}{Agent Description}
+
+\subsection*{Biology}\label{biology-2}
+\addcontentsline{toc}{subsection}{Biology}
+
+\subsection*{Importance}\label{importance-2}
+\addcontentsline{toc}{subsection}{Importance}
+
+\section*{\texorpdfstring{Tent caterpillars (Lasiocampidae): Western tent caterpillar - \emph{Malacosoma californicum}, Pacific tent caterpillar - \emph{M. constrictum}, Forest tent caterpillar - \emph{M. disstria}}{Tent caterpillars (Lasiocampidae): Western tent caterpillar - Malacosoma californicum, Pacific tent caterpillar - M. constrictum, Forest tent caterpillar - M. disstria}}\label{tent-caterpillars-lasiocampidae-western-tent-caterpillar---malacosoma-californicum-pacific-tent-caterpillar---m.-constrictum-forest-tent-caterpillar---m.-disstria}
+\addcontentsline{toc}{section}{Tent caterpillars (Lasiocampidae): Western tent caterpillar - \emph{Malacosoma californicum}, Pacific tent caterpillar - \emph{M. constrictum}, Forest tent caterpillar - \emph{M. disstria}}
+
+\subsection*{Distribution / Hosts}\label{distribution-hosts-3}
+\addcontentsline{toc}{subsection}{Distribution / Hosts}
+
+\subsection*{Symptoms}\label{symptoms-3}
+\addcontentsline{toc}{subsection}{Symptoms}
+
+\subsection*{Agent Description}\label{agent-description-3}
+\addcontentsline{toc}{subsection}{Agent Description}
+
+\subsection*{Biology}\label{biology-3}
+\addcontentsline{toc}{subsection}{Biology}
+
+\subsection*{Importance}\label{importance-3}
+\addcontentsline{toc}{subsection}{Importance}
+
+\section*{\texorpdfstring{Western tussock moth - \emph{Orgyia vetusta} (Lymantriidae)}{Western tussock moth - Orgyia vetusta (Lymantriidae)}}\label{western-tussock-moth---orgyia-vetusta-lymantriidae}
+\addcontentsline{toc}{section}{Western tussock moth - \emph{Orgyia vetusta} (Lymantriidae)}
+
+\subsection*{Distribution / Hosts}\label{distribution-hosts-4}
+\addcontentsline{toc}{subsection}{Distribution / Hosts}
+
+\subsection*{Symptoms}\label{symptoms-4}
+\addcontentsline{toc}{subsection}{Symptoms}
+
+\subsection*{Agent Description}\label{agent-description-4}
+\addcontentsline{toc}{subsection}{Agent Description}
+
+\subsection*{Biology}\label{biology-4}
+\addcontentsline{toc}{subsection}{Biology}
+
+\subsection*{Importance}\label{importance-4}
+\addcontentsline{toc}{subsection}{Importance}
+
+\section*{\texorpdfstring{Fruit tree leafroller - \emph{Archips argyrospila} (Tortricidae) and others}{Fruit tree leafroller - Archips argyrospila (Tortricidae) and others}}\label{fruit-tree-leafroller---archips-argyrospila-tortricidae-and-others}
+\addcontentsline{toc}{section}{Fruit tree leafroller - \emph{Archips argyrospila} (Tortricidae) and others}
+
+\subsection*{Distribution / Hosts}\label{distribution-hosts-5}
+\addcontentsline{toc}{subsection}{Distribution / Hosts}
+
+\subsection*{Symptoms}\label{symptoms-5}
+\addcontentsline{toc}{subsection}{Symptoms}
+
+\subsection*{Agent Description}\label{agent-description-5}
+\addcontentsline{toc}{subsection}{Agent Description}
+
+\subsection*{Biology}\label{biology-5}
+\addcontentsline{toc}{subsection}{Biology}
+
+\subsection*{Importance}\label{importance-5}
+\addcontentsline{toc}{subsection}{Importance}
+
+\section*{\texorpdfstring{Oak ribbed casemaker - \emph{Bucculatrix albertiella} (Lyonetiidae)}{Oak ribbed casemaker - Bucculatrix albertiella (Lyonetiidae)}}\label{oak-ribbed-casemaker---bucculatrix-albertiella-lyonetiidae}
+\addcontentsline{toc}{section}{Oak ribbed casemaker - \emph{Bucculatrix albertiella} (Lyonetiidae)}
+
+\subsection*{Distribution / Hosts}\label{distribution-hosts-6}
+\addcontentsline{toc}{subsection}{Distribution / Hosts}
+
+\subsection*{Symptoms}\label{symptoms-6}
+\addcontentsline{toc}{subsection}{Symptoms}
+
+\subsection*{Agent Description}\label{agent-description-6}
+\addcontentsline{toc}{subsection}{Agent Description}
+
+\subsection*{Biology}\label{biology-6}
+\addcontentsline{toc}{subsection}{Biology}
+
+\subsection*{Importance}\label{importance-6}
+\addcontentsline{toc}{subsection}{Importance}
+
+\chapter*{Gall formers}\label{gall-formers}
+\addcontentsline{toc}{chapter}{Gall formers}
+
+\section*{\texorpdfstring{Gall wasps (Cynipidae): over 100 species in about 20 genera including \emph{Andricus} spp., \emph{Antron} spp., \emph{Callirhytis} spp, \emph{Disholcaspis} spp., \emph{Dros} spp., \emph{Neuroterus} spp.}{Gall wasps (Cynipidae): over 100 species in about 20 genera including Andricus spp., Antron spp., Callirhytis spp, Disholcaspis spp., Dros spp., Neuroterus spp.}}\label{gall-wasps-cynipidae-over-100-species-in-about-20-genera-including-andricus-spp.-antron-spp.-callirhytis-spp-disholcaspis-spp.-dros-spp.-neuroterus-spp.}
+\addcontentsline{toc}{section}{Gall wasps (Cynipidae): over 100 species in about 20 genera including \emph{Andricus} spp., \emph{Antron} spp., \emph{Callirhytis} spp, \emph{Disholcaspis} spp., \emph{Dros} spp., \emph{Neuroterus} spp.}
+
+\subsection*{Distribution / Hosts}\label{distribution-hosts-7}
+\addcontentsline{toc}{subsection}{Distribution / Hosts}
+
+\subsection*{Symptoms}\label{symptoms-7}
+\addcontentsline{toc}{subsection}{Symptoms}
+
+\subsection*{Agent Description}\label{agent-description-7}
+\addcontentsline{toc}{subsection}{Agent Description}
+
+\subsection*{Biology}\label{biology-7}
+\addcontentsline{toc}{subsection}{Biology}
+
+\subsection*{Importance}\label{importance-7}
+\addcontentsline{toc}{subsection}{Importance}
+
+\section*{\texorpdfstring{Erineum mite - \emph{Eriophyes mackiei} (Eriophyidae)}{Erineum mite - Eriophyes mackiei (Eriophyidae)}}\label{erineum-mite---eriophyes-mackiei-eriophyidae}
+\addcontentsline{toc}{section}{Erineum mite - \emph{Eriophyes mackiei} (Eriophyidae)}
+
+\subsection*{Distribution / Hosts}\label{distribution-hosts-8}
+\addcontentsline{toc}{subsection}{Distribution / Hosts}
+
+\subsection*{Symptoms}\label{symptoms-8}
+\addcontentsline{toc}{subsection}{Symptoms}
+
+\subsection*{Agent Description}\label{agent-description-8}
+\addcontentsline{toc}{subsection}{Agent Description}
+
+\subsection*{Biology}\label{biology-8}
+\addcontentsline{toc}{subsection}{Biology}
+
+\subsection*{Importance}\label{importance-8}
+\addcontentsline{toc}{subsection}{Importance}
+
+\chapter*{Sap feeders}\label{sap-feeders}
+\addcontentsline{toc}{chapter}{Sap feeders}
+
+\section*{\texorpdfstring{Whiteflies (Aleyrodidae): Crown whitefly - \emph{Aleuroplatus coronatus}, Gelatinous whitefly -- \emph{A. gelatinosus}, Stanford's whitefly - \emph{Tetraleurodes stanfordi}}{Whiteflies (Aleyrodidae): Crown whitefly - Aleuroplatus coronatus, Gelatinous whitefly -- A. gelatinosus, Stanford's whitefly - Tetraleurodes stanfordi}}\label{whiteflies-aleyrodidae-crown-whitefly---aleuroplatus-coronatus-gelatinous-whitefly-a.-gelatinosus-stanfords-whitefly---tetraleurodes-stanfordi}
+\addcontentsline{toc}{section}{Whiteflies (Aleyrodidae): Crown whitefly - \emph{Aleuroplatus coronatus}, Gelatinous whitefly -- \emph{A. gelatinosus}, Stanford's whitefly - \emph{Tetraleurodes stanfordi}}
+
+\subsection*{Distribution / Hosts}\label{distribution-hosts-9}
+\addcontentsline{toc}{subsection}{Distribution / Hosts}
+
+\subsection*{Symptoms}\label{symptoms-9}
+\addcontentsline{toc}{subsection}{Symptoms}
+
+\subsection*{Agent Description}\label{agent-description-9}
+\addcontentsline{toc}{subsection}{Agent Description}
+
+\subsection*{Biology}\label{biology-9}
+\addcontentsline{toc}{subsection}{Biology}
+
+\subsection*{Importance}\label{importance-9}
+\addcontentsline{toc}{subsection}{Importance}
+
+\section*{\texorpdfstring{Obscure scale - \emph{Melanaspis obscura} (Diaspididae)}{Obscure scale - Melanaspis obscura (Diaspididae)}}\label{obscure-scale---melanaspis-obscura-diaspididae}
+\addcontentsline{toc}{section}{Obscure scale - \emph{Melanaspis obscura} (Diaspididae)}
+
+\subsection*{Distribution / Hosts}\label{distribution-hosts-10}
+\addcontentsline{toc}{subsection}{Distribution / Hosts}
+
+\subsection*{Symptoms}\label{symptoms-10}
+\addcontentsline{toc}{subsection}{Symptoms}
+
+\subsection*{Agent Description}\label{agent-description-10}
+\addcontentsline{toc}{subsection}{Agent Description}
+
+\subsection*{Biology}\label{biology-10}
+\addcontentsline{toc}{subsection}{Biology}
+
+\subsection*{Importance}\label{importance-10}
+\addcontentsline{toc}{subsection}{Importance}
+
+\section*{\texorpdfstring{Pit scales (Asterolecaniidae): Oak pit scale - \emph{Asterolecanium minus}, \emph{A. quercicola}; Golden oak scale - \emph{A. variolosum}}{Pit scales (Asterolecaniidae): Oak pit scale - Asterolecanium minus, A. quercicola; Golden oak scale - A. variolosum}}\label{pit-scales-asterolecaniidae-oak-pit-scale---asterolecanium-minus-a.-quercicola-golden-oak-scale---a.-variolosum}
+\addcontentsline{toc}{section}{Pit scales (Asterolecaniidae): Oak pit scale - \emph{Asterolecanium minus}, \emph{A. quercicola}; Golden oak scale - \emph{A. variolosum}}
+
+\subsection*{Distribution / Hosts}\label{distribution-hosts-11}
+\addcontentsline{toc}{subsection}{Distribution / Hosts}
+
+\subsection*{Symptoms}\label{symptoms-11}
+\addcontentsline{toc}{subsection}{Symptoms}
+
+\subsection*{Agent Description}\label{agent-description-11}
+\addcontentsline{toc}{subsection}{Agent Description}
+
+\subsection*{Biology}\label{biology-11}
+\addcontentsline{toc}{subsection}{Biology}
+
+\subsection*{Importance}\label{importance-11}
+\addcontentsline{toc}{subsection}{Importance}
+
+\section*{\texorpdfstring{Kuwana oak scale - \emph{Kuwania quercus} (Margarodidae)}{Kuwana oak scale - Kuwania quercus (Margarodidae)}}\label{kuwana-oak-scale---kuwania-quercus-margarodidae}
+\addcontentsline{toc}{section}{Kuwana oak scale - \emph{Kuwania quercus} (Margarodidae)}
+
+\subsection*{Distribution / Hosts}\label{distribution-hosts-12}
+\addcontentsline{toc}{subsection}{Distribution / Hosts}
+
+\subsection*{Symptoms}\label{symptoms-12}
+\addcontentsline{toc}{subsection}{Symptoms}
+
+\subsection*{Agent Description}\label{agent-description-12}
+\addcontentsline{toc}{subsection}{Agent Description}
+
+\subsection*{Biology}\label{biology-12}
+\addcontentsline{toc}{subsection}{Biology}
+
+\subsection*{Importance}\label{importance-12}
+\addcontentsline{toc}{subsection}{Importance}
+
+\section*{\texorpdfstring{Oak leaf phylloxera - \emph{Phylloxera} spp. (Phylloxeridae)}{Oak leaf phylloxera - Phylloxera spp. (Phylloxeridae)}}\label{oak-leaf-phylloxera---phylloxera-spp.-phylloxeridae}
+\addcontentsline{toc}{section}{Oak leaf phylloxera - \emph{Phylloxera} spp. (Phylloxeridae)}
+
+\subsection*{Distribution / Hosts}\label{distribution-hosts-13}
+\addcontentsline{toc}{subsection}{Distribution / Hosts}
+
+\subsection*{Symptoms}\label{symptoms-13}
+\addcontentsline{toc}{subsection}{Symptoms}
+
+\subsection*{Agent Description}\label{agent-description-13}
+\addcontentsline{toc}{subsection}{Agent Description}
+
+\subsection*{Biology}\label{biology-13}
+\addcontentsline{toc}{subsection}{Biology}
+
+\subsection*{Importance}\label{importance-13}
+\addcontentsline{toc}{subsection}{Importance}
+
+\section*{\texorpdfstring{Woolly oak aphids (Aphididae): \emph{Stegophylla querci}, \emph{S. quercifoliae}, \emph{S. essigi}}{Woolly oak aphids (Aphididae): Stegophylla querci, S. quercifoliae, S. essigi}}\label{woolly-oak-aphids-aphididae-stegophylla-querci-s.-quercifoliae-s.-essigi}
+\addcontentsline{toc}{section}{Woolly oak aphids (Aphididae): \emph{Stegophylla querci}, \emph{S. quercifoliae}, \emph{S. essigi}}
+
+\subsection*{Distribution / Hosts}\label{distribution-hosts-14}
+\addcontentsline{toc}{subsection}{Distribution / Hosts}
+
+\subsection*{Symptoms}\label{symptoms-14}
+\addcontentsline{toc}{subsection}{Symptoms}
+
+\subsection*{Agent Description}\label{agent-description-14}
+\addcontentsline{toc}{subsection}{Agent Description}
+
+\subsection*{Biology}\label{biology-14}
+\addcontentsline{toc}{subsection}{Biology}
+
+\subsection*{Importance}\label{importance-14}
+\addcontentsline{toc}{subsection}{Importance}
+
+\section*{\texorpdfstring{Treehoppers (Membracidae):\emph{Platycotis vittata}, \emph{P. vittata quadrivittata}}{Treehoppers (Membracidae):Platycotis vittata, P. vittata quadrivittata}}\label{treehoppers-membracidaeplatycotis-vittata-p.-vittata-quadrivittata}
+\addcontentsline{toc}{section}{Treehoppers (Membracidae):\emph{Platycotis vittata}, \emph{P. vittata quadrivittata}}
+
+\subsection*{Distribution / Hosts}\label{distribution-hosts-15}
+\addcontentsline{toc}{subsection}{Distribution / Hosts}
+
+\subsection*{Symptoms}\label{symptoms-15}
+\addcontentsline{toc}{subsection}{Symptoms}
+
+\subsection*{Agent Description}\label{agent-description-15}
+\addcontentsline{toc}{subsection}{Agent Description}
+
+\subsection*{Biology}\label{biology-15}
+\addcontentsline{toc}{subsection}{Biology}
+
+\subsection*{Importance}\label{importance-15}
+\addcontentsline{toc}{subsection}{Importance}
+
+\chapter{Sharing your book}\label{sharing-your-book}
+
+\section{Publishing}\label{publishing}
+
+HTML books can be published online, see: \url{https://bookdown.org/yihui/bookdown/publishing.html}
+
+\section{404 pages}\label{pages}
+
+By default, users will be directed to a 404 page if they try to access a webpage that cannot be found. If you'd like to customize your 404 page instead of using the default, you may add either a \texttt{\_404.Rmd} or \texttt{\_404.md} file to your project root and use code and/or Markdown syntax.
+
+\section{Metadata for sharing}\label{metadata-for-sharing}
+
+Bookdown HTML books will provide HTML metadata for social sharing on platforms like Twitter, Facebook, and LinkedIn, using information you provide in the \texttt{index.Rmd} YAML. To setup, set the \texttt{url} for your book and the path to your \texttt{cover-image} file. Your book's \texttt{title} and \texttt{description} are also used.
+
+This \texttt{gitbook} uses the same social sharing data across all chapters in your book- all links shared will look the same.
+
+Specify your book's source repository on GitHub using the \texttt{edit} key under the configuration options in the \texttt{\_output.yml} file, which allows users to suggest an edit by linking to a chapter's source file.
+
+Read more about the features of this output format here:
+
+\url{https://pkgs.rstudio.com/bookdown/reference/gitbook.html}
+
+Or use:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{?bookdown}\SpecialCharTok{::}\NormalTok{gitbook}
+\end{Highlighting}
+\end{Shaded}
+
+
+\bibliography{book.bib,packages.bib}
+
+\end{document}

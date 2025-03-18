@@ -1,0 +1,9 @@
+fig:CurCydQlPR
+fig:CupaQdPR
+fig:CurAdPR
+fig:CylaQlPR
+fig:CylaAdPuDO
+sharing-your-book
+publishing
+pages
+metadata-for-sharing
