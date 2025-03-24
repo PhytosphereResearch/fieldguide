@@ -12,6 +12,12 @@
 # Example code in package build process
 *-Ex.R
 
+#folder of original images unaltered
+/images-original-b4formatting/
+
+# Output files from R bookdown render/build book
+/_book/
+
 # Output files from R CMD build
 /*.tar.gz
 
