@@ -10,10 +10,35 @@ bookdown::gitbook:
     toc_depth: 3
     download: ["pdf", "epub"]
 bookdown::pdf_book:
+  toc: TRUE
+  number_sections: TRUE
+  fig_caption: TRUE
+  pandoc_args: NULL
+  base_format: rmarkdown::pdf_document
+  toc_unnumbered: TRUE
+  toc_appendix: TRUE
+  toc_bib: TRUE
+  quote_footer: NULL
+  highlight_bw: FALSE
   toc_depth: 3
   includes:
     in_header: preamble.tex
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
-bookdown::epub_book: default
+bookdown::epub_book:
+  fig_width: 5
+  fig_height: 4
+  dev: "png"
+  fig_caption: TRUE
+  number_sections: TRUE
+  toc: FALSE
+  toc_depth: 3
+  stylesheet: NULL
+  cover_image: NULL
+  metadata: NULL
+  chapter_level: 1
+  epub_version: "epub3"
+  md_extensions: NULL
+  pandoc_args: NULL
+  template: "default"

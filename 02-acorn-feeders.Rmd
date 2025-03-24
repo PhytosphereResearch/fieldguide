@@ -1,88 +1,85 @@
-# (PART) Insects and Mites {-}
-# Acorn feeders {- #Acorninsect}
+# (PART) Insects and Mites {.unnumbered}
 
-## Filbert weevils {- #Filberweevils}
+# Acorn feeders {#Acorninsect}
 
-### *Curculio aurivestis*, *C. occidentis*, *C. pardus* (Curculionidae){-}
+## Filbert weevils {#Filberweevils .unnumbered}
 
-### Distribution / Hosts {-}
+### *Curculio aurivestis*, *C. occidentis*, *C. pardus* (Curculionidae) {.unnumbered}
 
-*Curculio aurivestis* occurs from Victoria, British Columbia to southern California.  It is reported on canyon live, Oregon white, and other oaks.
-*C. occidentis* is widely distributed throughout the western U.S. and California.  It is reported on a wide variety of oaks as well as tanoak and California hazelnut. 
-*C. pardus* occurs from Washington to Los Angeles County, California.  It is reported from coast live, interior live, canyon live, blue, valley, and other oak species.
+### Distribution / Hosts {.unnumbered}
 
-### Symptoms {-}
+*Curculio aurivestis* occurs from Victoria, British Columbia to southern California. It is reported on canyon live, Oregon white, and other oaks. *C. occidentis* is widely distributed throughout the western U.S. and California. It is reported on a wide variety of oaks as well as tanoak and California hazelnut. *C. pardus* occurs from Washington to Los Angeles County, California. It is reported from coast live, interior live, canyon live, blue, valley, and other oak species.
+
+### Symptoms {.unnumbered}
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Pinhead size oviposition wounds on acorns are commonly surrounded by a discolored and/or raised area and may exude small amounts of sap.  Round, open holes (about 1—2 mm diameter) are left in the acorn seed coat when larvae exit.  When infested acorns are cut open, dark brown granular frass caused by larvae tunneling throughout the interior of the acorn is visible.  One or more (up to at least eight) filbert weevil larvae may be found in a single acorn.  Filbert weevil and filbertworm larvae may occur in the same acorn (figure \@ref(fig:CurCydQlPR)).
+Pinhead size oviposition wounds on acorns are commonly surrounded by a discolored and/or raised area and may exude small amounts of sap. Round, open holes (about 1—2 mm diameter) are left in the acorn seed coat when larvae exit. When infested acorns are cut open, dark brown granular frass caused by larvae tunneling throughout the interior of the acorn is visible. One or more (up to at least eight) filbert weevil larvae may be found in a single acorn. Filbert weevil and filbertworm larvae may occur in the same acorn (figure \@ref(fig:AcIns1)).
 
-(ref:CurCydQlPR) This valley oak acorn contained larvae of five filbert weevils and one filbertworm (second from left). The exit hole (right) indicates that at least one additional larva has already exited the acorn.
+(ref:AcIns1) This valley oak acorn contained larvae of five filbert weevils and one filbertworm (second from left). The exit hole (right) indicates that at least one additional larva has already exited the acorn.
 
-
-```{r CurCydQlPR, out.width='80%', fig.asp=.75, fig.align='center', fig.cap = "(ref:CurCydQlPR)"}
+```{r AcIns1, fig.align='center', fig.asp=.75, fig.cap="(ref:AcIns1)", out.width='80%'}
 knitr::include_graphics("images/Insect-acorn/CurCydlat_QL_PR_11-99.jpg")
 ```
 
-### Agent Description {-}
+### Agent Description {.unnumbered}
 
-Larvae are white to cream-colored and about 6—8 mm long; the head is small and brown.  They are legless, plump, and relatively sluggish, and assume a curved C-shape when removed from an acorn (figure \@ref(fig:CupaQdPR)). Adults weevils are about 5.5—6.5 mm long, yellowish-brown, and have long slender snouts (figure \@ref(fig:CurAdPR)).
+Larvae are white to cream-colored and about 6—8 mm long; the head is small and brown. They are legless, plump, and relatively sluggish, and assume a curved C-shape when removed from an acorn (figure \@ref(fig:AcIns2)). Adults weevils are about 5.5—6.5 mm long, yellowish-brown, and have long slender snouts (figure \@ref(fig:AcIns3)).
 
-(ref:CupaQdPR) Filbert weevil and associated damage to a blue oak acorn. 
+(ref:AcIns2) Filbert weevil and associated damage to a blue oak acorn.
 
-(ref:CurAdPR) Adult filbert weevil. 
-
-```{r CupaQdPR, out.width='80%', fig.asp=.75, fig.align='center', fig.cap = "(ref:CupaQdPR)"}
+```{r AcIns2, out.width='80%', fig.asp=.75, fig.align='center', fig.cap = "(ref:AcIns2)"}
 knitr::include_graphics("images/Insect-acorn/Curpar_QUDO_PR_9-89scan.jpg")
 ```
 
-```{r CurAdPR, out.width='80%', fig.asp=.75, fig.align='center', fig.cap = "(ref:CurAdPR)"}
+(ref:AcIns3) Adult filbert weevil.
+
+```{r AcIns3, out.width='80%', fig.asp=.75, fig.align='center', fig.cap = "(ref:AcIns3)"}
 knitr::include_graphics("images/Insect-acorn/Cur_ad_PR.jpg")
 ```
 
-### Biology {-}
+### Biology {.unnumbered}
 
-Adult weevils emerge from pupae in debris or soil beneath trees in summer.  Oviposition occurs in summer and fall.  The female weevil chews a small hole in the shell of a developing acorn and lays eggs in these holes. Larvae tunnel throughout the acorn.  Heavily damaged acorns drop early, beginning in August or earlier. Larval feeding and development continues after the acorns have fallen.  When the larva matures in the fall and winter, it bores an exit hole through the acorn seed coat and enters the ground, where it spends the winter. Larvae pupate in spring or summer.Only one generation occurs per year.
+Adult weevils emerge from pupae in debris or soil beneath trees in summer. Oviposition occurs in summer and fall. The female weevil chews a small hole in the shell of a developing acorn and lays eggs in these holes. Larvae tunnel throughout the acorn. Heavily damaged acorns drop early, beginning in August or earlier. Larval feeding and development continues after the acorns have fallen. When the larva matures in the fall and winter, it bores an exit hole through the acorn seed coat and enters the ground, where it spends the winter. Larvae pupate in spring or summer.Only one generation occurs per year.
 
-### Importance {-}
+### Importance {.unnumbered}
 
 Severely damaged acorns are unable to sprout. Acorns without damage near the embryo axis at the pointed end of the acorn may still germinate, but seedling survivability may be reduced. Infestation levels can vary substantially with locality, year, oak species, and between individual trees at a particular locality. Infestation levels among acorns from a single tree can range up to at least 75%.
 
-## Filbertworm {- #Filbertworm}
-### *Cydia latiferreana* (Tortricidae){-}
+## Filbertworm {#Filbertworm .unnumbered}
 
-### Distribution / Hosts {-}
+### *Cydia latiferreana* (Tortricidae) {.unnumbered}
 
-Filbertworm is widely distributed throughout the U.S. and California.  It attacks the acorns of most oak species as well as hazelnuts or filberts.
+### Distribution / Hosts {.unnumbered}
 
-### Symptoms {-}
+Filbertworm is widely distributed throughout the U.S. and California. It attacks the acorns of most oak species as well as hazelnuts or filberts.
 
-Larvae tunnel throughout the interior of acorns (figure \@ref(fig:CylaQlPR)), leaving brown granular frass and sometimes silken webbing.  Round open holes (about 1—2 mm diameter) are left in acorn seed coats when larvae exit.
+### Symptoms {.unnumbered}
 
-(ref:CylaQlPR) Filbertworm larva and damage to valley oak acorn. 
+Larvae tunnel throughout the interior of acorns (figure \@ref(fig:AcIns4)), leaving brown granular frass and sometimes silken webbing. Round open holes (about 1—2 mm diameter) are left in acorn seed coats when larvae exit.
 
-```{r CylaQlPR, out.width='80%', fig.asp=.75, fig.align='center', fig.cap = "(ref:CylaQlPR)"}
+(ref:AcIns4) Filbertworm larva and damage to valley oak acorn.
+
+```{r AcIns4, out.width='80%', fig.asp=.75, fig.align='center', fig.cap = "(ref:AcIns4)"}
 knitr::include_graphics("images/Insect-acorn/Cydlat_QL_PR_10-29-2003.JPG")
 ```
 
+### Agent Description {.unnumbered}
 
-### Agent Description {-}
+Larvae are beige to light gray, about 18—20 mm long at maturity, with three pairs of true legs; the head is dark brown. Usually only a single filbertworm larva colonizes an infested acorn, but filbert weevil larvae may occur in the same acorn (figure \@ref(fig:AcIns1)). Compared to the slow-moving larvae of the filbert weevil, filbertworm larvae are typically active when removed from an acorn and may drop down on a strand of silk when disturbed. Adults are small, stout-bodied moths with wingspans of 12—15 mm (figure \@ref(fig:AcIns5)). They have rust-brown forewings with several irregular dark or metallic bands and dark hindwings.
 
-Larvae are beige to light gray, about 18—20 mm long at maturity, with three pairs of true legs; the head is dark brown.  Usually only a single filbertworm larva colonizes an infested acorn, but filbert weevil larvae may occur in the same acorn (figure \@ref(fig:CurCydQlPR)).  Compared to the slow-moving larvae of the filbert weevil, filbertworm larvae are typically active when removed from an acorn and may drop down on a strand of silk when disturbed.  Adults are small, stout-bodied moths with wingspans of 12—15 mm (figure \@ref(fig:CylaAdPuDO)).  They have rust-brown forewings with several irregular dark or metallic bands and dark hindwings.
+(ref:AcIns5) Filbertworm larva and damage to valley oak acorn.
 
-(ref:CylaAdPuDO) Filbertworm larva and damage to valley oak acorn. 
-
-```{r CylaAdPuDO, out.width='80%', fig.asp=.75, fig.align='center', fig.cap = "(ref:CylaQlPR)"}
+```{r AcIns5, out.width='80%', fig.asp=.75, fig.align='center', fig.cap = "(ref:AcIns5)"}
 knitr::include_graphics("images/Insect-acorn/Cydlat-Ad-Pupcase-DOwens.jpg")
 ```
 
+### Biology {.unnumbered}
 
-### Biology {-}
+Moths emerge from pupal cases in litter beneath trees in late spring and early summer, up to about two months before oviposition occurs. Female moths lay eggs throughout the summer on acorns that are still attached to the tree. Eggs are laid singly on the acorn surface. Larvae bore into acorns and feed internally. Heavily damaged acorns drop early, beginning in August or earlier. Insect development continues after the acorns have fallen. When the larva matures, in the fall or winter, it bores an exit hole through the acorn seed coat and pupates in plant debris on the ground. There is typically one generation per year, but two generations may be possible in some areas.
 
-Moths emerge from pupal cases in litter beneath trees in late spring and early summer, up to about two months before oviposition occurs.  Female moths lay eggs throughout the summer on acorns that are still attached to the tree.  Eggs are laid singly on the acorn surface.  Larvae bore into acorns and feed internally.  Heavily damaged acorns drop early, beginning in August or earlier.  Insect development continues after the acorns have fallen.  When the larva matures, in the fall or winter, it bores an exit hole through the acorn seed coat and pupates in plant debris on the ground.  There is typically one generation per year, but two generations may be possible in some areas.
+### Importance {.unnumbered}
 
-### Importance {-}
-
-Heavily damaged acorns are unable to sprout.  Acorns without damage near the embryo axis at the pointed end of the acorn may still germinate, but survivability may be reduced.  Infestation levels can vary substantially with locality, year, oak species, and between individual trees at a particular locality.  Infestation levels among acorns from a single tree can range up to at least 80%.
+Heavily damaged acorns are unable to sprout. Acorns without damage near the embryo axis at the pointed end of the acorn may still germinate, but survivability may be reduced. Infestation levels can vary substantially with locality, year, oak species, and between individual trees at a particular locality. Infestation levels among acorns from a single tree can range up to at least 80%.
