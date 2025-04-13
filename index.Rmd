@@ -6,8 +6,8 @@ knit: "bookdown::render_book"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
+url: http://phytosphere.com/publications/Fieldguide.htm
+cover-image: images/Origcover.png
 description: "Updated, multiauthor/multieditor online version of A Field Guide to Insects and Diseases of California Oaks"
 toc_depth: 3
 link-citations: yes

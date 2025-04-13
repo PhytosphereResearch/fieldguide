@@ -2,10 +2,6 @@
 
 ## California oakworm, California oakmoth - *Phryganidia californica* (Dioptidae) {-}
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ### Distribution / Hosts {-}
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="California oakworm range", out.width='30%'}
