@@ -5,7 +5,7 @@
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-California has more than twenty-five native species, natural hybrids, and varieties of oaks (*Quercus* species). The form of these oaks ranges from large trees, up to about 25 m tall, to shrubs no taller than about 1.5 m. California’s native oaks include representatives of three oaks subgroups commonly referred to as white, black, and intermediate oaks. These groups are assigned to the infrageneric classifications (subgenera, sections, and subsections) shown in the Table 1 below [@Manos2021].  Hybridization only occurs between oaks in the same subgroup.  In addition, some insects, pathogens, and other agents may selectively colonize or damage oaks in certain subgroups.
+California has more than twenty-five native species, natural hybrids, and varieties of oaks (*Quercus* species). The form of these oaks ranges from large trees, up to about 25 m tall, to shrubs no taller than about 1.5 m. California’s native oaks include representatives of three oaks subgroups commonly referred to as white, black, and intermediate oaks. These groups are assigned to the infrageneric classifications (subgenera, sections, and subsections) shown in the Table 1.1 below [@Manos2021].  Hybridization only occurs between oaks in the same subgroup.  In addition, some insects, pathogens, and other agents may selectively colonize or damage oaks in certain subgroups.
 
 ```{r import}
 library(readr)
@@ -15,9 +15,12 @@ CA_Oak_species_table <- read_csv("CA Oak species table.csv")
 ```
 
 ```{r nice-tab, message=TRUE, warning=TRUE, tidy=FALSE}
-knitr::kable(CA_Oak_species_table)
-  caption = "Table 1. California native oak species"
-  booktabs = TRUE
+library(kableExtra)
+Oakspp <- CA_Oak_species_table
+kbl(Oakspp[1:28,2:6], booktabs = TRUE, caption = "California native oak species and varieties grouped by subspecies") %>% 
+  pack_rows("Subspecies Lobatae", 1, 8 ) %>%
+  pack_rows("Subspecies Quercus", 9, 28)
+
 ```
 
 Oak woodlands and other vegetation types dominated by oak trees cover about 3 million hectares in California or roughly 7.5% of the state’s land area (Bolsinger 1988).  California native oaks also occur as components in desert plant communities, chaparral, and conifer-dominated forest ecosystems (fig. 2).
