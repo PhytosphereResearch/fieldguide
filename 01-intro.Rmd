@@ -16,6 +16,8 @@ CA_Oak_species_table <- read_csv("CA Oak species table.csv")
 
 ```{r nice-tab, message=TRUE, warning=TRUE, tidy=FALSE}
 library(kableExtra)
+options(knitr.kable.NA = '')
+
 Oakspp <- CA_Oak_species_table
 kbl(Oakspp[1:28,2:6], booktabs = TRUE, caption = "California native oak species and varieties grouped by subspecies") %>% 
   pack_rows("Subspecies Lobatae", 1, 8 ) %>%
@@ -23,7 +25,14 @@ kbl(Oakspp[1:28,2:6], booktabs = TRUE, caption = "California native oak species 
 
 ```
 
-Oak woodlands and other vegetation types dominated by oak trees cover about 3 million hectares in California or roughly 7.5% of the state’s land area (Bolsinger 1988).  California native oaks also occur as components in desert plant communities, chaparral, and conifer-dominated forest ecosystems (fig. 2).
+Oak woodlands and other vegetation types dominated by oak trees cover about 3 million hectares in California or roughly 7.5% of the state’s land area (Bolsinger 1988).  California native oaks also occur as components in desert plant communities, chaparral, and conifer-dominated forest ecosystems (figure \@ref(fig:Oakrng)).
+
+(ref:Oakrng) Approximate range of native oak species in California compiled from multiple sources.
+
+```{r Oakrng, fig.align='center', fig.asp=.75, fig.cap="(ref:Oakrng)", out.width='60%'}
+knitr::include_graphics("images/distributions/CAoakrange.jpg")
+```
+
 
 Remnant native oaks have also become incorporated into developed areas within many California communities.  The importance of oaks in the California landscape is reflected in the large number of California cities, localities, and geographic features that include references to oaks in either English or Spanish (encina, roble).  In many urbanized landscapes, as in wildlands throughout much of California, individual oaks and oak woodlands are critical elements of the ecosystem.
 
