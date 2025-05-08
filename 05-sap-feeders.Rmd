@@ -1,6 +1,8 @@
 # Sap feeders {#sap}
 
-## Whiteflies (Aleyrodidae): Crown whitefly - *Aleuroplatus coronatus*, Gelatinous whitefly – *A. gelatinosus*, Stanford’s whitefly - *Tetraleurodes stanfordi* {-}
+## Whiteflies (Aleyrodidae) {-}
+
+### Crown whitefly - *Aleuroplatus coronatus*, Gelatinous whitefly – *A. gelatinosus*, Stanford’s whitefly - *Tetraleurodes stanfordi* {-}
 
 ### Distribution / Hosts {-}
 
@@ -40,7 +42,9 @@
 
 ### Importance {-}
 
-## Pit scales (Asterolecaniidae): Oak pit scale - *Asterolecanium minus*, *A. quercicola*; Golden oak scale - *A. variolosum* {-}
+## Pit scales (Asterolecaniidae) {-}
+
+### Oak pit scale - *Asterolecanium minus*, *A. quercicola*; Golden oak scale - *A. variolosum* {-}
 
 ### Distribution / Hosts {-}
 
@@ -100,7 +104,8 @@
 
 ### Importance {-}
 
-## Woolly oak aphids (Aphididae): *Stegophylla querci*, *S. quercifoliae*, *S. essigi*  {-}
+## Woolly oak aphids (Aphididae) {-}
+### *Stegophylla querci*, *S. quercifoliae*, *S. essigi*  {-}
 
 ### Distribution / Hosts {-}
 
@@ -120,7 +125,8 @@
 
 ### Importance {-}
 
-## Treehoppers (Membracidae):*Platycotis vittata*, *P. vittata quadrivittata* {-}
+## Treehoppers (Membracidae) {-}
+### *Platycotis vittata*, *P. vittata quadrivittata* {-}
 
 ### Distribution / Hosts {-}
 

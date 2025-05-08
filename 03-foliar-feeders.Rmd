@@ -23,11 +23,13 @@ knitr::include_graphics("images/distributions/oakworm.GIF")
 
 ### Importance {-}
 
-### Citation {.unnumbered}
+### Citation {-}
 
 Swiecki, T.J.; Bernhardt, E.A. 2006. California oakworm, California oakmoth - *Phryganidia californica* (Dioptidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-## Tent caterpillars (Lasiocampidae): Western tent caterpillar - *Malacosoma californicum*, Pacific tent caterpillar - *M. constrictum*, Forest tent caterpillar - *M. disstria* {-}
+## Tent caterpillars (Lasiocampidae) {-}
+
+### Western tent caterpillar - *Malacosoma californicum*, Pacific tent caterpillar - *M. constrictum*, Forest tent caterpillar - *M. disstria* {-}
 
 ### Distribution / Hosts {-}
 

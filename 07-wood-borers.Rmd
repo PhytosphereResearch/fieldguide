@@ -1,3 +1,171 @@
 # Bark and wood boring insects {#woodborer}
 
-# References
+## Ambrosia beetles (Curculionidae:Scolytinae) {-}
+
+### Invasive shothole borers *Euwallacea fornicatus*, *Euwallacea kuroshio* (Curculionidae) {-}
+
+### Distribution / Hosts {.unnumbered}
+
+### Symptoms {.unnumbered}
+
+### Agent Description {.unnumbered}
+
+### Biology {.unnumbered}
+
+### Importance {.unnumbered}
+
+### Citation {.unnumbered}
+
+_____________ 2025. Invasive shothole borers *Euwallacea fornicatus*, *Euwallacea kuroshio* (Curculionidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+
+### Mediterranean oak borer *Xyleborus monographus* (Curculionidae) {-}
+
+### Distribution / Hosts {-}
+
+### Symptoms {-}
+
+### Agent Description {-}
+
+### Biology {-}
+
+### Importance {-}
+
+### Citation {-}
+
+_____________ 2025. Mediterranean oak borer *Xyleborus monographus* (Curculionidae) . In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+### *Monarthrum dentiger*, *M. scutellare* (Curculionidae) {.unnumbered}
+
+### Distribution / Hosts {-}
+
+### Symptoms {-}
+
+### Agent Description {-}
+
+### Biology {-}
+
+### Importance {-}
+
+### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. *Monarthrum dentiger*, *M. scutellare* (Curculionidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Bark Beetles (Curculionidae: Scolytinae)
+
+### Western oak bark beetle - *Pseudopityophthorus pubipennis*, Oak bark beetles - *P. agrifoliae*, *P. pruinosus* {-}
+
+### Distribution / Hosts {-}
+
+### Symptoms {-}
+
+### Agent Description {-}
+
+### Biology {-}
+
+### Importance {-}
+
+### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Bark Beetles (Curculionidae-Scolytinae): Western oak bark beetle - *Pseudopityophthorus pubipennis* Oak bark beetles - *P. agrifoliae*, *P. pruinosus*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Carpenterworm - *Prionoxystus robiniae* (Cossidae) {.unnumbered}
+
+### Distribution / Hosts {-}
+
+### Symptoms {-}
+
+### Agent Description {-}
+
+### Biology {-}
+
+### Importance {-}
+
+### Citation {-}
+
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Carpenterworm - *Prionoxystus robiniae* (Cossidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Flatheaded borers / Metallic wood boring beetles (Buprestidae) {-}
+
+###Flatheaded appletree borer - *Chrysobothris femorata*, Pacific flatheaded borer - *Chrysobothris mali* {-}
+
+### Distribution / Hosts {-}
+
+### Symptoms {-}
+
+### Agent Description {-}
+
+### Biology {-}
+
+### Importance {-}
+
+### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Flatheaded borers / Metallic wood boring beetles (Buprestidae): Flatheaded appletree borer - *Chrysobothris femorata*, Pacific flatheaded borer - *Chrysobothris mali*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Lead cable borer - *Scobicia declivis* (Bostrichidae) {.unnumbered}
+ 
+The lead cable borer, *Scobicia declivis*, is common throughout California and southern Oregon. Larvae mine and completely destroy dead and seasoned wood, but also attack living hardwoods including oak. The larvae are heavy bodied, 10 mm long at maturity, white to pale yellow, C-shaped, and enlarged at the front end.  They have three pairs of true legs. Frass-filled tunnels produced by larvae are mostly aligned along the wood grain. Adult beetles are 5—6 mm long, cylindrical, and dark brown to black (fig. 78). Antennae and portions of the legs and mouthparts are reddish in color. The head is bent downward and completely hidden by the prothorax when viewed from above. Adults emerge from April through September, and are most common in July and August.  Adults sometimes bore through non-wood materials, including the sheathing of aerial telephone cables.   
+
+### Citation {-}
+Swiecki, T.J.; Bernhardt, E.A. 2025. *Scobicia declivis* (Bostrichidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Pigeon tremex - *Tremex columba* (Siricidae) {-}
+ 
+The Pigeon tremex, *Tremex columba*, is a wood-boring wasp found in the northern part of the U.S. from coast to coast and throughout California. Larvae bore almost perfectly round tunnels, 6—7 mm in diameter, through the heartwood of declining and dead hardwoods including oak, pear, apple, beech, sycamore, hickory, elm, and maple.  Tunnels are not open to the outside of the tree.  Larvae are up to about 50 mm long.  Adults are 25—38 mm long and have golden-yellow wings and a yellow abdomen with black bands (fig. 79).  The adult female pigeon tremex inserts her ovipositor into solid wood to a depth of 13 mm and deposits a single egg.  Often, the ovipositor cannot be extracted and the female dies on the tree.     
+
+### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Pigeon tremex - *Tremex columba* (Siricidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Roundheaded borers / Long-horned beetles (Cerambycidae) {-}
+
+### California prionus - *Prionus californicus* (Cerambycidae) {-}
+
+The California prionus, *Prionus californicus*, is found along the Pacific Coast from Alaska to Sonora, Baja California, and the Rocky Mountains south to New Mexico.  Larvae feed in the lower trunk and roots of oaks and many other hardwood trees, conifers, and woody shrubs.  Eggs are laid in the soil near host roots.  Larvae are large white grubs up to 60—75 mm long that tunnel in the wood and sometimes in the bark of roots.  Larvae attack living roots, but also feed in dead and decaying roots.  The mature larva leaves the root and constructs a pupation tunnel up to 1 m long in the soil.  Adult beetles are 40—60 mm long, shining, dark reddish brown, with three sharp teeth on each lateral margin of the prothorax (fig. 74).  Adults are active in twilight hours and at night, and are attracted to light.  The adult flight period is from June to September.  The life cycle takes three to five years.  Extensive feeding by larvae can completely girdle the bole of the host tree just below the ground.  Injury is greater among trees growing in light, well-drained soil.
+
+*Prionus lecontei* larvae also tunnel within living oak roots.  This species is found from British Columbia to Baja California.  *P. lecontei* adults fly from June to August and are sometimes captured with *P. californicus* adults.
+
+### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. California prionus - *Prionus californicus* (Cerambycidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+### Banded alder borer, California laurel borer - *Rosalia funebris* {-}
+
+The banded alder borer is found along the Pacific Coast from southern Alaska to southern California and the Rocky Mountains south to New Mexico.  The larvae bore in dead or declining hardwoods including oak, alder, willow, ash, and California bay.  Adults are 25—38 mm long, with alternating bands of black and light blue, gray, or white on their wing covers (elytra) and long antennae (fig. 75).  Adults are attracted to fresh paint and are also occasionally found in large numbers on alder or California bay.
+
+### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Banded alder borer, California laurel borer - *Rosalia funebris*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+### Nautical borer - *Xylotrechus nauticus* {-}
+
+The nautical borer is common throughout California on oaks and other hardwoods. This beetle colonizes dead or declining trunks and limbs but normally does not attack healthy trees.  Larvae, which grow to a length of about 18 mm, bore into the inner bark, producing an engraved pattern on the surface of the sapwood.  Tunnels differ from those of bark beetles in that no central egg gallery is formed, and the larval tunnels are longer, larger in diameter, and oval in cross-section.  Larvae also tunnel into heartwood and pack the tunnels with dry, powder-like frass.  Adult beetles may emerge in large numbers from infested wood.  Adults are about 8—15 mm long and dark gray (fig. 76).  The elytra (hard outer forewings) are crossed with three light-colored zigzag-shaped markings.  Antennae are relatively short.  Adult beetles are found in homes when they emerge from firewood stored indoors. 
+
+### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Nautical borer - *Xylotrechus nauticus*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+### *Neoclytus conjunctus* {-}
+
+This beetle is found along the Pacific Coast from British Columbia to southern California. Hosts of this borer include oak, eucalyptus, ash, pear, manzanita, and madrone. The larvae are common in freshly-cut deciduous trees and adults may emerge from firewood. The larvae initially tunnel under the bark before progressing to the sapwood and outer heartwood, which are extensively tunneled. The adult flight period is March to June. Adults have light-colored markings on the black elytra (fig. 77). The pronotum is broadly rounded with many elevated ridges.  Antennae are long and clubbed.  
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. *Neoclytus conjunctus*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Western sycamore borer - *Synanthedon resplendens* (Sesiidae) {-}
+
+### Distribution / Hosts {-}
+
+### Symptoms {-}
+
+### Agent Description {-}
+
+### Biology {-}
+
+### Importance {-}
+
+### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Western sycamore borer - *Synanthedon resplendens* (Sesiidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+

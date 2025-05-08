@@ -1,2 +1,42 @@
 # Twig borers {#twigborer}
 
+## Oak twig borer - *Styloxus fulleri californicus* (Cerambycidae) {.unnumbered}
+
+The California subspecies of oak twig borer (*Styloxus fulleri californicus*) is widespread in California and has been reported on coast live, interior live, and California black oak.  *S. fulleri californicus* makes a large, oval, frass-filled tunnel in the heartwood of twigs, particularly those that are 0.5—1.25 cm in diameter.  Larvae are yellowish roundheaded borers, 12.5—19 mm long.  Adult beetles (fig. 52) are slender and greenish brown.
+
+### Citation {.unnumbered}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak twig borer - *Styloxus fulleri californicus* (Cerambycidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Oak twig girdler - *Agrilus angelicus* (Buprestidae) {.unnumbered}
+
+### Distribution / Hosts {.unnumbered}
+
+### Symptoms {.unnumbered}
+
+### Agent Description {.unnumbered}
+
+### Biology {.unnumbered}
+
+### Importance {.unnumbered}
+
+### Citation {.unnumbered}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak twig girdler - *Agrilus angelicus* (Buprestidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+
+## *Aneflomorpha lineare* (Cerambycidae) {.unnumbered}
+
+*Aneflomorpha lineare* is a twig borer reported on coast live and scrub oak in southern California; it is also found in Oregon.  Other hosts of *A. lineare* include bitterbrush and chamise.  Larvae of *A. lineare* bore through small branches, making holes at frequent intervals through which frass is expelled.  Upon reaching the point where the branch diameter is about 2—4 cm in diameter, larvae construct tunnels that spiral outward from the center of the branch.  Adults are slender and brown (fig. 53).  Adults are present from July to September and are attracted to light. 
+
+### Citation {.unnumbered}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. *Aneflomorpha lineare* (Cerambycidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## *Scobicia suturalis* (Bostrichidae) {.unnumbered}
+
+*Scobicia suturalis*, a false powder post beetle, is reported from the San Francisco Bay Area.  It mines the small branches and twigs of coast live oak, California black oak, and acacia, as well as grape canes.  Adults of *S. suturalis* are cylindrical and 5 mm long.  The head and abdomen are black, the prothorax and posterior half of the elytra are dark reddish brown, and the antennae, legs, and front half of the elytra are pale amber in color.
+
+### Citation {.unnumbered}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. *Scobicia suturalis* (Bostrichidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
