@@ -48,6 +48,6 @@ The included range maps are approximate because the distributions of many agents
 
 Information on agent biology, host range, and importance provided in this publication will be helpful for determining whether management actions are likely to be necessary or practical. However, this publication does not provide specific recommendations for the management of the described pests and diseases. Readers interested in current management recommendations should consult the University of California Integrated Pest Management website (http://www.ipm.ucdavis.edu/) or their local University of California Cooperation Extension office.
 
-### Citation {.unnumbered}
+#### Citation {-}
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Introduction to the Field Guide. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.

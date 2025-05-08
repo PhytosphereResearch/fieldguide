@@ -1,43 +1,54 @@
 # Gall formers {#gall}
 
+## Erineum mite
+
+### *Eriophyes mackiei* (Eriophyidae) {-}
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Erineum mite. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
 ## Gall wasps (Cynipidae) {-}
 
 ### Over 100 species in about 20 genera including *Andricus* spp., *Antron* spp., *Callirhytis* spp, *Disholcaspis* spp., *Dros* spp., *Neuroterus* spp. {-}
 
-### Distribution / Hosts {-}
+#### Distribution / Hosts {-}
 
 
 
-### Symptoms {-}
+#### Symptoms {-}
 
 
 
-### Agent Description {-}
+#### Agent Description {-}
 
 
 
-### Biology {-}
+#### Biology {-}
 
 
 
-### Importance {-}
+#### Importance {-}
 
-## Erineum mite - *Eriophyes mackiei* (Eriophyidae) {-}
+#### Citation {-}
 
-### Distribution / Hosts {-}
+Swiecki, T.J.; Bernhardt, E.A. 2025. Gall wasps (Cynipidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-
-
-### Symptoms {-}
-
-
-
-### Agent Description {-}
-
-
-
-### Biology {-}
-
-
-
-### Importance {-}

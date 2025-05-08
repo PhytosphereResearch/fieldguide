@@ -1,111 +1,142 @@
 # General foliar feeders {#foliarfeeder}
 
-## California oakworm, California oakmoth - *Phryganidia californica* (Dioptidae) {-}
+## California oakworm, California oakmoth {-}
 
-### Distribution / Hosts {-}
+### *Phryganidia californica* (Dioptidae) {-}
+
+#### Distribution / Hosts {-}
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="California oakworm range", out.width='30%'}
 knitr::include_graphics("images/distributions/oakworm.GIF")
 ```
 
 
-### Symptoms {-}
+#### Symptoms {-}
 
 
 
-### Agent Description {-}
+#### Agent Description {-}
 
 
 
-### Biology {-}
+#### Biology {-}
 
 
 
-### Importance {-}
+#### Importance {-}
 
-### Citation {-}
+#### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2006. California oakworm, California oakmoth - *Phryganidia californica* (Dioptidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. California oakworm, California oakmoth. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Fruit tree leafroller {-}
+
+### *Archips argyrospila* (Tortricidae) and others {-}
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Fruit tree leafroller. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Oak ribbed casemaker {-}
+
+### *Bucculatrix albertiella* (Lyonetiidae) {-}
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak ribbed casemaker. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ## Tent caterpillars (Lasiocampidae) {-}
 
 ### Western tent caterpillar - *Malacosoma californicum*, Pacific tent caterpillar - *M. constrictum*, Forest tent caterpillar - *M. disstria* {-}
 
-### Distribution / Hosts {-}
+#### Distribution / Hosts {-}
 
 
 
-### Symptoms {-}
+#### Symptoms {-}
 
 
 
-### Agent Description {-}
+#### Agent Description {-}
 
 
 
-### Biology {-}
+#### Biology {-}
 
 
 
-### Importance {-}
+#### Importance {-}
 
-## Western tussock moth - *Orgyia vetusta* (Lymantriidae) {-}
+#### Citation {-}
 
-### Distribution / Hosts {-}
+Swiecki, T.J.; Bernhardt, E.A. 2025. Tent caterpillars (Lasiocampidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
+## Western tussock moth {-}
 
+### *Orgyia vetusta* (Lymantriidae) {-}
 
-### Symptoms {-}
-
-
-
-### Agent Description {-}
+#### Distribution / Hosts {-}
 
 
 
-### Biology {-}
+#### Symptoms {-}
 
 
 
-### Importance {-}
-
-## Fruit tree leafroller - *Archips argyrospila* (Tortricidae) and others {-}
-
-### Distribution / Hosts {-}
+#### Agent Description {-}
 
 
 
-### Symptoms {-}
+#### Biology {-}
 
 
 
-### Agent Description {-}
+#### Importance {-}
 
 
 
-### Biology {-}
+#### Citation {-}
 
+Swiecki, T.J.; Bernhardt, E.A. 2025. Western tussock moth. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-
-### Importance {-}
-
-## Oak ribbed casemaker - *Bucculatrix albertiella* (Lyonetiidae) {-}
-
-### Distribution / Hosts {-}
-
-
-
-### Symptoms {-}
-
-
-
-### Agent Description {-}
-
-
-
-### Biology {-}
-
-
-
-### Importance {-}
 
