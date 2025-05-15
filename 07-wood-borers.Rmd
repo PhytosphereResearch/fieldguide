@@ -54,7 +54,7 @@ _____________ 2025. Mediterranean oak borer *Xyleborus monographus* (Curculionid
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. *Monarthrum dentiger*, *M. scutellare*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-## Bark Beetles (Curculionidae: Scolytinae)
+## Bark Beetles (Curculionidae: Scolytinae) {-}
 
 ### Western oak bark beetle - *Pseudopityophthorus pubipennis*, Oak bark beetles - *P. agrifoliae*, *P. pruinosus* {-}
 
@@ -132,7 +132,8 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Flatheaded borers / Metallic wood boring be
 
 ### *Scobicia declivis* (Bostrichidae)  {-}
  
-The lead cable borer, *Scobicia declivis*, is common throughout California and southern Oregon. Larvae mine and completely destroy dead and seasoned wood, but also attack living hardwoods including oak. The larvae are heavy bodied, 10 mm long at maturity, white to pale yellow, C-shaped, and enlarged at the front end.  They have three pairs of true legs. Frass-filled tunnels produced by larvae are mostly aligned along the wood grain. Adult beetles are 5—6 mm long, cylindrical, and dark brown to black (fig. 78). Antennae and portions of the legs and mouthparts are reddish in color. The head is bent downward and completely hidden by the prothorax when viewed from above. Adults emerge from April through September, and are most common in July and August.  Adults sometimes bore through non-wood materials, including the sheathing of aerial telephone cables.   
+The lead cable borer, *Scobicia declivis*, is common throughout California and southern Oregon. Larvae mine and completely destroy dead and seasoned wood, but also attack living hardwoods including oak. The larvae are heavy bodied, 10 mm long at maturity, white to pale yellow, C-shaped, and enlarged at the front end.  They have three pairs of true legs. Frass-filled tunnels produced by larvae are mostly aligned along the wood grain. Adult beetles are 5—6 mm long, cylindrical, and dark brown to black (fig. 78). Antennae and portions of the legs and mouthparts are reddish in color. The head is bent downward and completely hidden by the prothorax when viewed from above. Adults emerge from April through September, and are most common in July and August.  Adults sometimes bore through non-wood materials, including the sheathing of aerial telephone cables.
+
 #### Citation {-}
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. *Scobicia declivis* (Bostrichidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.

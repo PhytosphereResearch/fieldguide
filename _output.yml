@@ -6,9 +6,10 @@ bookdown::gitbook:
         <li><a href="./">A Field Guide to Insects and Diseases of California Oaks - Online Edition</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+    edit: 
     toc_depth: 3
     download: ["pdf", "epub"]
+    
 bookdown::pdf_book:
   toc: TRUE
   number_sections: TRUE
