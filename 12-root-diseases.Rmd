@@ -1,8 +1,8 @@
-# Acorn diseases {#Acorndis}
+# Root diseases {#rootdis}
 
-## Drippy nut {-}
+## Armillaria root rot, oak root fungus  {-}
 
-### *Lonsdalea quercina quercina* {#Drippynut .unnumbered}
+### *Armillaria mellea* {-}
 
 
 #### Distribution / Hosts {-}
@@ -27,4 +27,4 @@
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Drippy nut. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Armillaria root rot, oak root fungus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.

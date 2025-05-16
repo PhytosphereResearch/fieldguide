@@ -6,32 +6,137 @@
 
 #### Distribution / Hosts {-}
 
-Early defoliation related to prolonged drought stress is most commonly seen in blue oak and can occur throughout its range. It is most common on drought-prone sites, such as areas with shallow or rocky soils.
+Early defoliation related to prolonged drought stress is most commonly seen in blue oak and can occur throughout its range. It is most common on drought-prone sites, such as areas with shallow or rocky soils. Other oak species can also be affected by severe drought stress, but early leaf drop is only commonly reported in blue oak.
 
 #### Symptoms {-}
 
-In low rainfall years, leaves of mature trees turn brown prematurely and begin to drop well in advance of the normal time for leaf fall (fig. 81). This drought–deciduous characteristic is seen in a more extreme form in California buckeye and is also common in chaparral and desert plants. Drought-induced defoliation can be differentiated from branch dieback by the fact that buds and twigs of drought-defoliated branches remain alive and normally leaf out the following spring. In 1987, following extreme drought conditions in the preceding rainy season, foliar browning and leaf drop in blue oak occurred by mid-August in
-affected areas. During droughts lasting multiple years, symptoms may be widespread. In less extreme drought years, only blue oaks growing in drought-prone areas may be affected, and defoliation may occur later in the season, but still earlier than the usual November-December leaf drop.
+In low rainfall years, leaves of mature trees turn brown prematurely and begin to drop well in advance of the normal November-December leaf drop period (fig. 81). This drought–deciduous characteristic is seen in a more extreme form in California buckeye and is also common in chaparral and desert plants. Drought-induced defoliation can be differentiated from branch dieback by the fact that buds and twigs of drought-defoliated branches remain alive and normally leaf out the following spring. In 1987, following extreme drought conditions in the preceding rainy season, foliar browning and leaf drop in blue oak occurred by mid-August in affected areas. During droughts lasting multiple years, symptoms may be widespread. In less extreme drought years, only blue oaks growing in drought-prone areas may be affected, and defoliation may occur later in the season, but still earlier than the usual late fall leaf drop.
 
-Defoliation in understory seedling advance regeneration (seedlings less than about 10–15 cm tall that are typically several to many years old) commonly occurs much earlier than in overstory trees. Drought-stressed seedling advance regeneration may begin losing leaves by June or July (fig. 82). The shoots may also die back partly or completely to ground level by midsummer in response to severe drought stress.
+Blue oak seedling advance regeneration also undergoes early defoliation in response to drought stress. Blue oak advance regeneration typically consists of persistent understory seedlings less than about 10–15 cm tall that range in age from a few years to decades. Drought-stressed seedlings may begin losing leaves by June or July (fig. 82) . Drought stress in seedlings is strongly influenced by competition with both overstory trees and non-native understory grasses and forbs. Young seedling shoots may also die back partly or completely to ground level by midsummer in response to severe drought stress.
 
 #### Biology {-}
 
-Blue oak may be the most drought-tolerant of California’s tree-sized oaks. Early defoliation in response to extreme drought reduces water loss to a minimum and presumably favors tree survival under these conditions. One year of early defoliation had no discernable effect on tree health in one study (McCreary 1991). Trees that defoliated early were among the earliest to leaf out the following spring. However, some trees that defoliated early in response to the extreme 1976–1977 drought (the most severe drought in California during the 20th century) were subsequently leafless for an entire growing season before
-leafing out in the following year. 
+Blue oak may be the most drought-tolerant of California’s tree-sized oaks. Early defoliation in response to extreme drought reduces water loss to a minimum and presumably favors tree survival under these conditions. One year of early defoliation had no discernable effect on tree health in one study [@mccreary1990blue]. Trees that defoliated early were among the earliest to leaf out the following spring. However, some trees that defoliated early in response to the extreme 1976–1977 drought (the most severe drought in California during the 20th century) were subsequently leafless for an entire growing season before leafing out in the following year. 
 
-The combination of longer hotter summers and drought conditions, can increase water stress to lethal levels. Excessive levels of blue oak mortality were documented in the southern Sierra Nevada in response to the megadrought that affected much of California from 2013 through 2016 [@Das2020]. Drought-related oak decline and mortality are most likely to occur in soils with low available water storage, on hotter slopes (south and west-facing), and where stand densities are high, creating greater competition for moisture. Drought stress can increase the effects of various oak pests and pathogens that may accelerate tree decline and mortality.  
+The combination of longer hotter summers and drought conditions, can increase water stress in blue oak and other oaks to lethal levels. Excessive levels of blue oak mortality were documented in the southern Sierra Nevada in response to the megadrought that affected much of California from 2013 through 2016 [@Das2020]. Drought-related oak decline and mortality are most likely to occur with low available water storage in surface soils and deeper subsoil or fractured rock layers, on hotter south and west-facingslopes, and where high stand densities create greater competition for moisture. Drought stress can also favor the activity and damage caused by various oak pests and pathogens, and these interactions may accelerate tree decline and mortality. 
 
-Well-established seedling advance regeneration can resprout from the base to produce new shoots if the previous season’s shoot has been drought-killed. However, successive years of early defoliation and shoot death are associated with reduced seedling survival.
+Early seasonal defoliation is one of the factors that suppress understory advance regeneration. Well-established seedling advance regeneration can resprout from the base to produce new shoots if the previous season’s shoot has been completely killed by drought. However, successive years of early defoliation and shoot death are associated with reduced seedling survival.
 
 #### Importance {-}
 
-Climate change has increased temperatures for longer periods during the growing season, which can causes severe drought stress to occur earlier in the season. When combined with multi-year droughts and poor site conditions, substantial negative effects on blue oak and other native oaks can occur. The degree of these effects are also affected by the availability and accessibility deep soil moisture reserves which can be reached by deep oak roots. Consequently, effects associated with drought-stress tend to vary both regionally and locally. 
+Climate change has increased temperatures for longer periods during the growing season, causing severe drought stress to occur progressively earlier in the season. When combined with multi-year droughts and poor site conditions, substantial negative effects on the health and survival of blue oak and other native oaks can occur. The magnitude of these effects can be lessened in more favorable sites, such as where deep soil or subsoil moisture reserves can be tapped by oak roots. Consequently, effects associated with drought-stress can vary both regionally and locally. 
 
-Historically, mature blue oaks have periodically endured periods of severe water stress, which have induced early defoliation. If the frequency and duration of these events increase, blue oak may not be sustainable in some portiosn of its historic range. Other impacts, such as root damage due to construction-
-related activity, will exacerbate drought-related effects and could accelerate tree decline. Drought-induced defoliation and shoot dieback reduce the
-survival of blue oak seedlings and are commonly a contributing factor to poor regeneration in blue oak stands.
+Historically, mature blue oaks have periodically endured periods of severe water stress, which have induced early defoliation. If the frequency and duration of these events increase, blue oak may not be sustainable in some portions of its historic range. Other impacts, such as root damage due to construction-related activity, exacerbate drought-related effects and can accelerate tree decline. Drought-induced defoliation and shoot dieback reduce the survival of blue oak seedlings and are commonly a contributing factor to poor regeneration in blue oak stands.
 
 #### Citation {-}
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Early defoliation and drought stress. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Oak anthracnose, twig blight, and leaf spots {-}
+### *Apiognomonia errabunda* (=*Discula umbrinella*), *Cryptocline cinerescens*,
+*Septoria quercicola* and other fungi  {-}
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak anthracnose, twig blight, and leaf spots. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Oak leaf blister {-}
+### *Taphrina caerulescens*  {-}
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak leaf blister. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Powdery mildews {-}
+### *Brasiliomyces trina*, *Cystotheca lanestris*, *Microsphaera extensa curta*, *Microsphaera penicillata* (wide sense), *Phyllactinia angulata*  {-}
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Powdery mildews. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## *Tubakia californica* {-}
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+
+#### Citation {-}
+
+------------. 2025. *Tubakia californica*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+

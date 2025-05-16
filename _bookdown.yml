@@ -1,7 +1,6 @@
 delete_merged_file: true
 bibliography: 
-cover-image:"images/Origcover.png"
-favicon:
+cover-image: "images/Origcover.png"
 language:
   ui:
     chapter_name:
