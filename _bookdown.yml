@@ -1,6 +1,6 @@
 delete_merged_file: true
 bibliography: 
-cover-image: "images/Origcover.png"
+cover-image: 
 language:
   ui:
     chapter_name:

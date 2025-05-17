@@ -1,8 +1,8 @@
-# Branch diseases {#branchdis}
+# Branch and trunk canker diseases {#branchdis}
 
-## Branch canker {-}
+## Bot cankers {-}
 
-### *Diplodia quercina* {-}
+### *Diplodia agrifolia*, D. corticola*, *D. quercina*, *Dothiorella iberica* {-}
 
 
 #### Distribution / Hosts {-}

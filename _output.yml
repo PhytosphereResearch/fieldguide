@@ -9,7 +9,6 @@ bookdown::gitbook:
     edit: 
     toc_depth: 3
     download: ["pdf", "epub"]
-    
 bookdown::pdf_book:
   toc: TRUE
   number_sections: TRUE

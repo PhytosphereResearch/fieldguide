@@ -1,0 +1,26 @@
+# (APPENDIX) Appendix  {-}
+
+# Glossary
+
+**μm (micrometer)** – A metric unit of length equal to one millionth of
+a meter, or one thousandth of a millimeter.
+
+**Acervulus** (pl. acervuli) – A small, saucer- or cushion-shaped mass of conidiophores and conidia (asexual spores) that forms beneath the epidermis of leaves or twigs and is eventually exposed as the host tissue ruptures; no fungal tissue encloses the conidiophores.
+
+**Aptera** (pl. apterae) – Wingless aphids.
+
+**Ascocarp** – Sexual fruiting body produced by fungi in the Ascomycotina. Common types of ascocarps are perithecia and cleistothecia. Sexual spores are produced in asci within or on the surface of the ascocarp.
+
+**Ascomycotina** – A taxonomic group (subdivision) of the true fungi which produce sexual spores in asci. Also known as the Ascomycota or Ascomycetes in other classification systems.
+
+**Ascus** (pl. asci) – A sac-like structure in which sexual spores develop, produced by fungi in the Ascomycotina.
+
+**Basidiocarp** – Sexual fruiting body produced by fungi in the Basidiomycotina. These vary widely in shape and size, and include mushrooms and conks. Sexual spores are produced on basidia within or on the surface of the basidiocarp.
+
+**Basidiomycotina** – A taxonomic group (subdivision) of the true fungi which produce sexual spores on basidia. Also known as the Basidiomycota or Basidiomycetes in other classification systems.
+
+**Basidium** (pl. basidia) – Microscopic club-shaped structures produced by fungi in the Basidiomycotina that produce sexual spores (basidiospores). Basidiospores are produced on the external surface of the basidium at the end of peg-like structures.
+
+**Brown rot** – A type of fungal wood decay in which cellulose and hemicellulose are preferentially decayed, leaving behind brown colored lignin.
+
+**Chlamydospore** – A thick-walled asexual spore. Chlamydospores are commonly resistant spores that are adapted for surviving adverse conditions.

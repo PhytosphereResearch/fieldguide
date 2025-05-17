@@ -6,17 +6,13 @@
 #### Distribution / Hosts {-}
 
 
-
 #### Symptoms {-}
-
 
 
 #### Agent Description {-}
 
 
-
 #### Biology {-}
-
 
 
 #### Importance {-}
@@ -84,6 +80,35 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. *Annulohypoxylon thouarsianum*. In Swiecki,
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Canker rots. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
+## Fusarium dieback {-}
+
+### *Fusarium*, *etc* {-}
+
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+
+#### Citation {-}
+
+------------ 2025. Fusarium canker. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
 ## Hedgehog fungus {-}
 
 ### *Hericium erinaceus* {-}
@@ -142,7 +167,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Hedgehog fungus. In Swiecki, T.J., et al. (
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Western sulfur shelf fungus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-## Other wood decay fungi affecting the trunk or branches {-}
+## Wood decay fungi affecting the trunk or branches {-}
 
 ### *Fomitiporia robusta*, *Phellinus gilvus* {-}
 
@@ -230,7 +255,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Sudden oak death and Phytophthora stem cank
 Swiecki, T.J.; Bernhardt, E.A. 2025. Sunscald. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 
-## Wetwood and alcoholic flux {-}
+## Wetwood {-}
 
 ### Various bacteria and fungi {-}
 
@@ -257,7 +282,36 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Sunscald. In Swiecki, T.J., et al. (Eds.) F
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Wetwood and alcoholic flux. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Wetwood. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Foamy bark canker {-}
+
+### *Geosmithia pallida* {-}
+
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Foamy bark canker. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ## "Acute oak decline" {-}
 
