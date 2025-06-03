@@ -7,7 +7,7 @@ bookdown::gitbook:
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: 
-    toc_depth: 3
+    toc_depth: 4
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   toc: TRUE

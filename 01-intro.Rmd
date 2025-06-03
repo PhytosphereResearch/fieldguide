@@ -20,8 +20,8 @@ options(knitr.kable.NA = '')
 
 Oakspp <- CA_Oak_species_table
 kbl(Oakspp[1:28,2:6], booktabs = TRUE, caption = "California native oak species and varieties grouped by subspecies") %>% 
-  pack_rows("Subspecies Lobatae", 1, 8 ) %>%
-  pack_rows("Subspecies Quercus", 9, 28)
+  pack_rows("Subgenus Lobatae", 1, 8 ) %>%
+  pack_rows("Subgenus Quercus", 9, 28)
 
 ```
 

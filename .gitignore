@@ -18,7 +18,7 @@
 # Output files from R bookdown render/build book
 /_book/
 /_bookdown_files/
-/_main.Rmd
+/_main.*
 
 # Output files from R CMD build
 /*.tar.gz

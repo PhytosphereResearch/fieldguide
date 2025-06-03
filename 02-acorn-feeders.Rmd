@@ -20,7 +20,7 @@ Pinhead size oviposition wounds on acorns are commonly surrounded by a discolore
 
 (ref:AcIns1) This valley oak acorn contained larvae of five filbert weevils and one filbertworm (second from left). The exit hole (right) indicates that at least one additional larva has already exited the acorn.
 
-```{r AcIns1, fig.align='center', fig.asp=.75, fig.cap="(ref:AcIns1)", out.width='80%'}
+```{r AcIns1, fig.align='center', fig.asp=.75, fig.cap="(ref:AcIns1)", out.width='75%'}
 knitr::include_graphics("images/Insect-acorn/CurCydlat_QL_PR_11-99.jpg")
 ```
 
@@ -30,13 +30,13 @@ Larvae are white to cream-colored and about 6—8 mm long; the head is small and
 
 (ref:AcIns2) Filbert weevil and associated damage to a blue oak acorn.
 
-```{r AcIns2, out.width='80%', fig.asp=.75, fig.align='center', fig.cap = "(ref:AcIns2)"}
+```{r AcIns2, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:AcIns2)"}
 knitr::include_graphics("images/Insect-acorn/Curpar_QUDO_PR_9-89scan.jpg")
 ```
 
 (ref:AcIns3) Adult filbert weevil.
 
-```{r AcIns3, out.width='80%', fig.asp=.75, fig.align='center', fig.cap = "(ref:AcIns3)"}
+```{r AcIns3, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:AcIns3)"}
 knitr::include_graphics("images/Insect-acorn/Cur_ad_PR.jpg")
 ```
 
@@ -70,7 +70,7 @@ Larvae tunnel throughout the interior of acorns (figure \@ref(fig:AcIns4)), leav
 
 (ref:AcIns4) Filbertworm larva and damage to valley oak acorn.
 
-```{r AcIns4, out.width='80%', fig.asp=.75, fig.align='center', fig.cap = "(ref:AcIns4)"}
+```{r AcIns4, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:AcIns4)"}
 knitr::include_graphics("images/Insect-acorn/Cydlat_QL_PR_10-29-2003.JPG")
 ```
 
@@ -80,7 +80,7 @@ Larvae are beige to light gray, about 18—20 mm long at maturity, with three pa
 
 (ref:AcIns5) Filbertworm larva and damage to valley oak acorn.
 
-```{r AcIns5, out.width='80%', fig.asp=.75, fig.align='center', fig.cap = "(ref:AcIns5)"}
+```{r AcIns5, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:AcIns5)"}
 knitr::include_graphics("images/Insect-acorn/Cydlat-Ad-Pupcase-DOwens.jpg")
 ```
 

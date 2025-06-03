@@ -1,63 +1,5 @@
 # Root diseases {#rootdis}
 
-## Armillaria root rot, oak root fungus  {-}
-
-### *Armillaria mellea* {-}
-
-
-#### Distribution / Hosts {-}
-
-
-
-#### Symptoms {-}
-
-
-
-#### Agent Description {-}
-
-
-
-#### Biology {-}
-
-
-
-#### Importance {-}
-
-
-
-#### Citation {-}
-
-Swiecki, T.J.; Bernhardt, E.A. 2025. Armillaria root rot, oak root fungus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
-
-## Ganoderma root rot {-}
-
-### *Ganoderma brownii*, *G. lucidum* {-}
-
-
-#### Distribution / Hosts {-}
-
-
-
-#### Symptoms {-}
-
-
-
-#### Agent Description {-}
-
-
-
-#### Biology {-}
-
-
-
-#### Importance {-}
-
-
-
-#### Citation {-}
-
-Swiecki, T.J.; Bernhardt, E.A. 2025. Ganoderma root rot. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
-
 ## Phytophthora root rot {-}
 
 ### *Phytophthora cactorum*, *P. cambivora*, *P. cinnamomi*, *P. mediterranea*, P. nicotianae*, *P. quercetorum*, *P. quercina*, and others {-}
@@ -87,9 +29,70 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Ganoderma root rot. In Swiecki, T.J., et al
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Phytophthora root rot. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-## Weeping conk {-}
+## Fungal root diseases {-}
 
-### *Pseudoinonotus dryadeus*{-}
+### Armillaria root rot or oak root fungus  {-}
+
+#### *Armillaria mellea* {-}
+
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Armillaria root rot or oak root fungus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+### Ganoderma root rot {-}
+
+#### *Ganoderma brownii*, *G. lucidum* {-}
+
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Ganoderma root rot. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+
+### Weeping conk {-}
+
+#### *Pseudoinonotus dryadeus*{-}
 
 
 #### Distribution / Hosts {-}
@@ -116,9 +119,9 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Phytophthora root rot. In Swiecki, T.J., et
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Weeping conk. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-## Western jack o’lantern fungus {-}
+### Western jack o’lantern fungus {-}
 
-### *Pseudoinonotus dryadeus*{-}
+#### *Omphalotus olivescens*{-}
 
 
 #### Distribution / Hosts {-}
@@ -144,3 +147,5 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Weeping conk. In Swiecki, T.J., et al. (Eds
 #### Citation {-}
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Western jack o’lantern fungus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+

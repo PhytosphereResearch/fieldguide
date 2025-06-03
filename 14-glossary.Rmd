@@ -3,7 +3,7 @@
 # Glossary
 
 **μm (micrometer)** – A metric unit of length equal to one millionth of
-a meter, or one thousandth of a millimeter.
+a meter or one thousandth of a millimeter.
 
 **Acervulus** (pl. acervuli) – A small, saucer- or cushion-shaped mass of conidiophores and conidia (asexual spores) that forms beneath the epidermis of leaves or twigs and is eventually exposed as the host tissue ruptures; no fungal tissue encloses the conidiophores.
 
@@ -19,8 +19,103 @@ a meter, or one thousandth of a millimeter.
 
 **Basidiomycotina** – A taxonomic group (subdivision) of the true fungi which produce sexual spores on basidia. Also known as the Basidiomycota or Basidiomycetes in other classification systems.
 
+
 **Basidium** (pl. basidia) – Microscopic club-shaped structures produced by fungi in the Basidiomycotina that produce sexual spores (basidiospores). Basidiospores are produced on the external surface of the basidium at the end of peg-like structures.
 
 **Brown rot** – A type of fungal wood decay in which cellulose and hemicellulose are preferentially decayed, leaving behind brown colored lignin.
 
 **Chlamydospore** – A thick-walled asexual spore. Chlamydospores are commonly resistant spores that are adapted for surviving adverse conditions.
+
+**Chlorosis** (adj.  chlorotic) – Yellowing of leaves or other normally-green plant parts
+
+**Cleistothecium** (pl. cleistothecia) – A globose fruiting body (ascocarp) that lacks a natural opening or pore; asci are entirely enclosed by the wall of the ascocarp 
+
+**Conidium** (pl. conidia) – An asexually (i.e., vegetatively) produced spore that is typically deciduous at maturity
+
+**Conidiophore** – A fungal hypha, often specialized in structure, that bears one or more conidia
+
+**Context** – The sterile tissue in a basidiocarp between the basidiospore-bearing tubes and the top surface (pileus).  In resupinate basidiocarps, which lack a pileus, the context is also referred to as the subiculum; the subiculum is attached directly to the substrate.
+
+**Crawler** – The young, mobile life stage of a scale insect
+
+**Elytra** – The thick, hardened forewings of beetles
+
+**Embryo axis** – Within a seed, the portion of the embryo that includes the two growing points that develop into the root and shoot.  In oaks, the embryo axis is at the pointed end of the acorn.
+
+**Flagellum** (pl. flagella) – A threadlike or whiplike projection on a cell that functions to propel the cell through fluids
+
+**Frass** – solid insect excrement, especially that produced by larvae.  For larvae which feed in wood and/or bark, frass also includes xylem and/or phloem fragments (boring dust).
+
+honeydew – a sweet liquid excreted by some insects that suck plant sap, including aphids and soft scales
+
+hypha – (pl. hyphae) - microscopic thread-like structures which are the simplest vegetative structures of most fungi (see also mycelium)
+
+instar – the life stage of an immature insect or mite between successive molts
+
+inoculum – units of a pathogen (such as viable spores or mycelium growing through soil) that can initiate infection of a susceptible host
+
+intermediate oak subgroup – Oaks in the subgenus *Quercus*, section Protobalanus of the , a taxonomic group between genus and species containing oaks that share characteristics including:  short flower styles; acorns that mature in two years, have a densely hairy inner shell, and are very bitter; leaf lobes, if present, are pointed 
+
+larva (pl. larvae) – the immature stage between the egg and the pupa in insects that undergo complete metamorphosis (i.e., egg, larva, pupa, adult)
+
+mycelium – a network or mass of vegetative fungal hyphae 
+
+necrosis (adj.  necrotic) – death of cells or tissues
+
+nymph – the immature stage of an insect which undergoes incomplete metamorphosis (i.e., egg, nymph, adult)
+
+obovate – inverted ovate or egg-shaped, with the wide end toward the tip and the narrow end toward the base
+
+oviparae – female aphids, typically wingless, which reproduce sexually and lay eggs
+
+oviposition – the process of laying or depositing eggs.  Oviposition wounds are damage symptoms that develop at a site where insect eggs are inserted directly into plant tissue.
+
+parthenogenic – capable of asexual reproduction, i.e., without mating or male fertilization
+
+papillate – having a small rounded process (papillum); in Phytophthora sporangia, the papillum is located at the apex from which zoospores are discharged; semipapillate sporangia have a smaller, less distinct apical protrusion; nonpapillate sporangia lack a papillum, but may appear somewhat thickened apically
+
+parasite – an organism that lives on or in another living organism (host) and obtains its food from the host without providing any benefit to it
+
+pathogen – an organism that causes disease in another organism; pathogens may function as parasites or may kill host tissues and obtain food from the killed tissues
+
+pectinate – with branches or elements like the teeth of a comb
+
+perithecium (pl. perithecia) – a globose to flask-shaped ascocarp with a defined pore (ostiole) at the apex through which ascospores are disseminated
+
+pocket rot – wood decay that occurs in discrete localized zones or pockets, usually in the heartwood
+
+pronotum – a hardened plate on the dorsal (back) surface of the prothorax in insects; in some insects the pronotum is enlarged or otherwise modified
+
+prothorax – the first segment of the thorax of an insect, which contains the attachment points for the front pair of legs
+
+pycnidium (pl. pycnidia) – a flask-shaped fungal fruiting body containing conidiophores that produce conidia (asexual spores)
+
+red/black oak subgroup – Oaks in the subgenus *Lobatae* (formerly Erythrobalanus) that  share characteristics including:  long flower styles; acorns that mature in two years (except for in coast live oak), have a densely hairy inner shell, and are very bitter; leaf lobes, if present, are pointed; bark is dark gray or blackish bark; reddish brown wood.
+
+resupinate – (referring to basidiocarp) growing flat on the substrate with the spore-bearing surface on the outside surface, lacking ancillary structures such as a stalk or a cap
+
+rhizomorph – an elongate, root-like aggregation of fungal hyphae, often differentiated into a dark outer rind and a lighter interior
+
+saprophyte – an organism that obtains food from dead organic material, such as dead leaves, bark, or wood; some parasitic organisms can also survive and grow saprophytically.
+
+sooty mold – black, superficial mycelial mats that grow on honeydew deposited on plant surfaces by sap-feeding insects; the epiphytic fungi that produce sooty mold are mostly in the family Capnodiaceae
+
+sporangium (pl. sporangia) – a sac-like structure in which asexual spores are produced through the conversion of the sporangium’s contents into spores
+
+stroma (pl. stromata) – a compact mycelial structure which contains or supports fungal fruiting bodies 
+
+sympodial – a branching pattern in which each successive branch develops behind and to one side of the previous apex where growth has ceased
+
+thorax – the middle segment of an insect body, between the head and the abdomen, to which the wings and legs attach
+
+μm (micrometer) – a metric unit of length equal to one millionth of a meter, or one thousandth 
+of a millimeter
+
+webbing – silken threads produced by an insect, usually used to form a cocoon or other molting structure
+
+white oak subgroup – also known as the section Quercus or Lepidobalanus of the subgenus Quercus, a taxonomic group between genus and species containing oaks that share characteristics including:  short flower styles; acorns that mature in one year, have a hairless inner shell, and are sweet or slightly bitter; leaves lobes, if present, are mostly rounded; light gray or brown bark; light brown or yellowish wood
+white rot – a type of fungal wood decay in which the three major wood components (cellulose, hemicellulose, and lignin) are decayed at the same rate; the wood becomes white as it decays
+
+
+
+

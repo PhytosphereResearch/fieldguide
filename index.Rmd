@@ -18,15 +18,16 @@ github-repo:
 # (PART\*) A Field Guide to Insects and Diseases of California Oaks - Online Edition {-} 
 
 # Authors / Editors {- #frontmatter} 
-The original 2006 version of this document (PSW-GTR-197) was written by Tedmund J. Swiecki and Elizabeth A. Bernhardt. This online version is an ongoing project involving the work of multiple authors and editors listed.
-- Tedmund J. Swiecki
-- Elizabeth A. Bernhardt
+The original 2006 version of this document (PSW-GTR-197) was written by Tedmund J. Swiecki and Elizabeth A. Bernhardt. This online version is an ongoing project involving the work of multiple authors and editors listed below..
+
+* Tedmund J. Swiecki
+* Elizabeth A. Bernhardt
 
 ## Acknowledgements {-} 
 
 Financial support for the production of this publication was provided by the US Department of Agriculture Forest Service, Pacific Southwest Region, State and Private Forestry, with additional support provided by Phytosphere Research, .... .
 
-Images in this publication are under copyright by the photographers and may not be reproduced in any form without obtaining permission in writing from the photographers.
+The photographs and illustrations in this publication are under copyright by the photographers or illustrators and may not be reproduced in any form without obtaining permission in writing from them.
 
 
 

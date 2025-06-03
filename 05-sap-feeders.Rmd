@@ -1,33 +1,5 @@
 # Sap feeders {#sap}
 
-## Kuwana oak scale {-}
-
-### *Kuwania quercus* (Margarodidae) {-}
-
-#### Distribution / Hosts {-}
-
-
-
-#### Symptoms {-}
-
-
-
-#### Agent Description {-}
-
-
-
-#### Biology {-}
-
-
-
-#### Importance {-}
-
-
-
-#### Citation {-}
-
-Swiecki, T.J.; Bernhardt, E.A. 2025. Kuwana oak scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
-
 ## Oak leaf phylloxera {-}
 
 ### *Phylloxera* spp. (Phylloxeridae) {-}
@@ -56,39 +28,8 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Kuwana oak scale. In Swiecki, T.J., et al. 
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Oak leaf phylloxera. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-## Oak lecanium scale  {-}
-
-### *Parthenolecanium quercifex* (Coccidae) {-}
-
-#### Distribution / Hosts {-}
-
-Oak lecanium scale is found on oaks in many parts of the eastern U.S.  In California, it is reported on coast live and valley oak from the Sacramento Valley and the San Francisco Bay Area to southern California.  Other reported hosts include other oak species, sycamore, pecan, chestnut, birch, persimmon, and pricklyash.
-
-The very similar and related European fruit lecanium, *P. corni*, is reported on California black oak in the northern Sierra Nevada.  *P. corni* is common throughout California and the U.S. on many hosts.
-
-#### Symptoms {-}
-
-Globose brown scale insects occur on twigs and produce honeydew.  Black sooty mold grows on the honeydew that drips on leaves and twigs.  Very heavy infestations can cause twig dieback and stunted leaves.
-
-#### Agent Description {-}
-
-Mobile nymphs (crawlers) are flat and orangish and occur on leaves or twigs.  Adult scales are immobile and occur on twigs.  Adults are hemispherical, 4—6 mm long, brown, and have a smooth, shiny surface that may include some white powdery material (fig. 32-33).Females have a pair of lateral bumps. 
-
-#### Biology {-}
-
-Nymphs overwinter and mature into adults in the spring.  Winged adult males mate with wingless females.  Eggs are laid beneath the female in late spring.  First-instar nymphs emerge from beneath the female and crawl to the leaves where they feed.  After settling they retain their tiny legs and antennae and are able to move very slowly.  The second-instar nymphs migrate back to twigs in late summer, where they overwinter.  This insect has one generation per year.
-
-#### Importance {-}
-
-Honeydew dripping and subsequent sooty mold growth may become a nuisance.  Greatest impacts of this insect reportedly occur on coast live oak in southern California.
-
-#### Citation {-}
-
-Swiecki, T.J.; Bernhardt, E.A. 2025. Oak lecanium scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
-
-## Obscure scale {-}
-
-### *Melanaspis obscura* (Diaspididae) {-}
+## Woolly oak aphids (Aphididae) {-}
+### *Stegophylla querci*, *S. quercifoliae*, *S. essigi*  {-}
 
 #### Distribution / Hosts {-}
 
@@ -112,62 +53,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Oak lecanium scale. In Swiecki, T.J., et al
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Obscure scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
-
-
-## Pit scales (Asterolecaniidae) {-}
-
-### Oak pit scale - *Asterolecanium minus*, *A. quercicola*; Golden oak scale - *A. variolosum* {-}
-
-#### Distribution / Hosts {-}
-
-
-
-#### Symptoms {-}
-
-
-
-#### Agent Description {-}
-
-
-
-#### Biology {-}
-
-
-
-#### Importance {-}
-
-#### Citation {-}
-
-Swiecki, T.J.; Bernhardt, E.A. 2025. Pit scales (Asterolecaniidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
-
-
-## Treehoppers (Membracidae) {-}
-### *Platycotis vittata*, *P. vittata quadrivittata* {-}
-
-#### Distribution / Hosts {-}
-
-
-
-#### Symptoms {-}
-
-
-
-#### Agent Description {-}
-
-
-
-#### Biology {-}
-
-
-
-#### Importance {-}
-
-
-
-#### Citation {-}
-
-Swiecki, T.J.; Bernhardt, E.A. 2025. Treehoppers (Membracidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Woolly oak aphids (Aphididae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ## Whiteflies (Aleyrodidae) {-}
 
@@ -197,8 +83,8 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Treehoppers (Membracidae). In Swiecki, T.J.
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Whiteflies (Aleyrodidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-## Woolly oak aphids (Aphididae) {-}
-### *Stegophylla querci*, *S. quercifoliae*, *S. essigi*  {-}
+## Treehoppers (Membracidae) {-}
+### *Platycotis vittata*, *P. vittata quadrivittata* {-}
 
 #### Distribution / Hosts {-}
 
@@ -222,5 +108,125 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Whiteflies (Aleyrodidae). In Swiecki, T.J.,
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Woolly oak aphids (Aphididae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Treehoppers (Membracidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Pit scales (Asterolecaniidae) {-}
+
+### Oak pit scale - *Asterolecanium minus*, *A. quercicola*; Golden oak scale - *A. variolosum* {-}
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Pit scales (Asterolecaniidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+
+## Oak lecanium scale  {-}
+
+### *Parthenolecanium quercifex* (Coccidae) {-}
+
+#### Distribution / Hosts {-}
+
+Oak lecanium scale is found on oaks in many parts of the eastern U.S.  In California, it is reported on coast live and valley oak from the Sacramento Valley and the San Francisco Bay Area to southern California.  Other reported hosts include other oak species, sycamore, pecan, chestnut, birch, persimmon, and pricklyash.
+
+The very similar and related European fruit lecanium, *P. corni*, is reported on California black oak in the northern Sierra Nevada.  *P. corni* is common throughout California and the U.S. on many hosts.
+
+```{r, fig.align='center', fig.asp=.75, fig.cap="Oak lecanium scale range", out.width='30%'}
+knitr::include_graphics("images/distributions/lecanium.gif")
+```
+
+#### Symptoms {-}
+
+Globose brown scale insects occur on twigs and produce honeydew.  Black sooty mold grows on the honeydew that drips on leaves and twigs.  Very heavy infestations can cause twig dieback and stunted leaves.
+
+#### Agent Description {-}
+
+Mobile nymphs (crawlers) are flat and orangish and occur on leaves or twigs.  Adult scales are immobile and occur on twigs.  Adults are hemispherical, 4—6 mm long, brown, and have a smooth, shiny surface that may include some white powdery material (fig. 32-33).Females have a pair of lateral bumps. 
+
+#### Biology {-}
+
+Nymphs overwinter and mature into adults in the spring.  Winged adult males mate with wingless females.  Eggs are laid beneath the female in late spring.  First-instar nymphs emerge from beneath the female and crawl to the leaves where they feed.  After settling they retain their tiny legs and antennae and are able to move very slowly.  The second-instar nymphs migrate back to twigs in late summer, where they overwinter.  This insect has one generation per year.
+
+#### Importance {-}
+
+Honeydew dripping and subsequent sooty mold growth may become a nuisance.  Greatest impacts of this insect reportedly occur on coast live oak in southern California.
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak lecanium scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+
+
+## Kuwana oak scale {-}
+
+### *Kuwania quercus* (Margarodidae) {-}
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Kuwana oak scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Obscure scale {-}
+
+### *Melanaspis obscura* (Diaspididae) {-}
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Obscure scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 

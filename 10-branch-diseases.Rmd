@@ -1,8 +1,8 @@
-# Branch and trunk canker diseases {#branchdis}
+# Branch diseases {#branchdis}
 
-## Bot cankers {-}
+## Botryosphaeria cankers {-}
 
-### *Diplodia agrifolia*, D. corticola*, *D. quercina*, *Dothiorella iberica* {-}
+### *Diplodia agrifolia*, *D. corticola*, *D. quercina*, *Dothiorella iberica* and others {-}
 
 
 #### Distribution / Hosts {-}
@@ -27,7 +27,7 @@
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Branch canker. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+----------------- 2025. Botryosphaeria cankers. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ## Orange hobnail canker {-}
 
