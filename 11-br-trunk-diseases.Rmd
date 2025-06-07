@@ -1,40 +1,10 @@
 # Branch and trunk diseases {#branchtrunkdis}
 
-## Diseases affecting bark and sapwood {-}
-
-### Sudden oak death and Phytophthora stem cankers {-}
-
-#### *Phytophthora ramorum*, *P. nemorosa*, *P. pseudosyringae* {-}
-
-
-#### Distribution / Hosts {-}
-
-
-
-#### Symptoms {-}
-
-
-
-#### Agent Description {-}
-
-
-
-#### Biology {-}
-
-
-
-#### Importance {-}
-
-
-
-#### Citation {-}
-
-Swiecki, T.J.; Bernhardt, E.A. 2025. Sudden oak death and Phytophthora stem cankers. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
-
+## Insect-pathogen complexes {-}
 
 ### Foamy bark canker {-}
 
-#### *Geosmithia pallida* {-}
+#### *Geosmithia* sp. 42 {-}
 
 
 #### Distribution / Hosts {-}
@@ -90,8 +60,9 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Sudden oak death and Phytophthora stem cank
 
 ------------ 2025. Fusarium dieback. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
+## Diseases affecting bark and sapwood {-}
 
-### "Acute oak decline" {-}
+### Bacterial canker of oak / "Acute oak decline" {-}
 
 #### *Brennaria*, *Lonsdalea* , ... species  {-}
 
@@ -118,11 +89,11 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Sudden oak death and Phytophthora stem cank
 
 #### Citation {-}
 
---------------. 2025. "Acute oak decline". In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+--------------. 2025. Bacterial canker of oak / "Acute oak decline". In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-### Wetwood {-}
+## Botryosphaeria cankers {-}
 
-#### Various bacteria and fungi {-}
+### *Diplodia agrifolia*, *D. corticola*, *D. quercina*, *Dothiorella iberica*, and others {-}
 
 
 #### Distribution / Hosts {-}
@@ -147,8 +118,37 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Sudden oak death and Phytophthora stem cank
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Wetwood. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+----------------- 2025. Botryosphaeria cankers. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
+
+### Sudden oak death and Phytophthora stem cankers {-}
+
+#### *Phytophthora ramorum*, *P. nemorosa*, *P. pseudosyringae* {-}
+
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Sudden oak death and Phytophthora stem cankers. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ### Sunscald {-}
 
@@ -178,6 +178,37 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Wetwood. In Swiecki, T.J., et al. (Eds.) Fi
 #### Citation {-}
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Sunscald. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+
+
+### Wetwood {-}
+
+#### Various bacteria and fungi {-}
+
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Wetwood. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 
 ## Canker-associated wood decay fungi {-}
@@ -261,6 +292,35 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. *Annulohypoxylon thouarsianum*. In Swiecki,
 #### Citation {-}
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Canker rots. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Orange hobnail canker {-}
+
+### *Cryphonectria gyrosa* {-}
+
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Orange hobnail canker. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 
 ## Other wood decay fungi {-}
@@ -379,6 +439,38 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. *Fomitiporia robusta*. In Swiecki, T.J., et
 #### Citation {-}
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. *Phellinus gilvus*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+## Parasitic vascular plants {-}
+
+### Oak mistletoe  {-}
+
+#### *Phoradendron villosum* {-}
+
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak mistletoe.  In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
 
 
 

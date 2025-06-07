@@ -2,7 +2,7 @@
 
 ## Ambrosia and bark beetles (Curculionidae:Scolytinae) {-}
 
-### Invasive shothole borers {-}
+### Invasive shot hole borers (ISHB) {-}
 
 #### *Euwallacea fornicatus*, *E. kuroshio* {-}
 
@@ -18,9 +18,9 @@
 
 #### Citation  {-}
 
-_____________ 2025. Invasive shothole borers. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+_____________ 2025. Invasive shot hole borers (ISHB). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-### Mediterranean oak borer {-}
+### Mediterranean oak borer (MOB) {-}
 
 #### *Xyleborus monographus* {-}
 
@@ -36,9 +36,9 @@ _____________ 2025. Invasive shothole borers. In Swiecki, T.J., et al. (Eds.) Fi
 
 #### Citation {-}
 
-_____________ 2025. Mediterranean oak borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+_____________ 2025. Mediterranean oak borer (MOB). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-### *Monarthrum dentiger* and  *M. scutellare* {-}
+### *Monarthrum dentiger*, *M. scutellare* {-}
 
 #### Distribution / Hosts {-}
 
@@ -52,7 +52,7 @@ _____________ 2025. Mediterranean oak borer. In Swiecki, T.J., et al. (Eds.) Fie
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. *Monarthrum dentiger* and  *M. scutellare*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. *Monarthrum dentiger*,  *M. scutellare*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ### Western oak bark beetle and other oak bark beetles {-}
 
@@ -82,7 +82,6 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. *Monarthrum dentiger* and  *M. scutellare*.
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Western oak bark beetle and other oak bark beetles. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-
 ## Flatheaded borers / Metallic wood boring beetles (Buprestidae) {-}
 
 ### Flatheaded appletree borer and Pacific flatheaded borer {-}
@@ -103,7 +102,35 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Western oak bark beetle and other oak bark 
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Flatheaded appletree borer and Pacific flatheaded borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
+### Goldspotted oak borer (GSOB) {-}
+
+#### *Agrilus auroguttatus*{-}
+
+#### Distribution / Hosts {-}
+
+#### Symptoms {-}
+
+#### Agent Description {-}
+
+#### Biology {-}
+
+#### Importance {-}
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Goldspotted oak borer (GSOB). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
 ## Roundheaded borers / Long-horned beetles (Cerambycidae) {-}
+
+### Banded alder borer or California laurel borer {-}
+
+#### *Rosalia funebris* {-}
+
+The banded alder borer is found along the Pacific Coast from southern Alaska to southern California and the Rocky Mountains south to New Mexico.  The larvae bore in dead or declining hardwoods including oak, alder, willow, ash, and California bay.  Adults are 25—38 mm long, with alternating bands of black and light blue, gray, or white on their wing covers (elytra) and long antennae (fig. 75).  Adults are attracted to fresh paint and are also occasionally found in large numbers on alder or California bay.
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Banded alder borer / California laurel borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ### California prionus {-}
 
@@ -117,16 +144,6 @@ The California prionus, *Prionus californicus*, is found along the Pacific Coast
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. California prionus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-### Banded alder borer or California laurel borer {-}
-
-#### *Rosalia funebris* {-}
-
-The banded alder borer is found along the Pacific Coast from southern Alaska to southern California and the Rocky Mountains south to New Mexico.  The larvae bore in dead or declining hardwoods including oak, alder, willow, ash, and California bay.  Adults are 25—38 mm long, with alternating bands of black and light blue, gray, or white on their wing covers (elytra) and long antennae (fig. 75).  Adults are attracted to fresh paint and are also occasionally found in large numbers on alder or California bay.
-
-#### Citation {-}
-
-Swiecki, T.J.; Bernhardt, E.A. 2025. Banded alder borer or California laurel borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
-
 ### Nautical borer {-}
 
 #### *Xylotrechus nauticus* {-}
@@ -139,33 +156,13 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Nautical borer - *Xylotrechus nauticus*. In
 
 ### *Neoclytus conjunctus* {-}
 
-This beetle is found along the Pacific Coast from British Columbia to southern California. Hosts of this borer include oak, eucalyptus, ash, pear, manzanita, and madrone. The larvae are common in freshly-cut deciduous trees and adults may emerge from firewood. The larvae initially tunnel under the bark before progressing to the sapwood and outer heartwood, which are extensively tunneled. The adult flight period is March to June. Adults have light-colored markings on the black elytra (fig. 77). The pronotum is broadly rounded with many elevated ridges.  Antennae are long and clubbed.  
+This beetle is found along the Pacific Coast from British Columbia to southern California. Hosts of this borer include oak, eucalyptus, ash, pear, manzanita, and madrone. The larvae are common in freshly-cut deciduous trees and adults may emerge from firewood. The larvae initially tunnel under the bark before progressing to the sapwood and outer heartwood, which are extensively tunneled. The adult flight period is March to June. Adults have light-colored markings on the black elytra (fig. 77). The pronotum is broadly rounded with many elevated ridges. Antennae are long and clubbed.  
 
 #### Citation {-}
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. *Neoclytus conjunctus*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ## Other wood borers {-}
-
-### Lead cable borer {-}
-
-#### *Scobicia declivis* (Bostrichidae)  {-}
- 
-The lead cable borer, *Scobicia declivis*, is common throughout California and southern Oregon. Larvae mine and completely destroy dead and seasoned wood, but also attack living hardwoods including oak. The larvae are heavy bodied, 10 mm long at maturity, white to pale yellow, C-shaped, and enlarged at the front end.  They have three pairs of true legs. Frass-filled tunnels produced by larvae are mostly aligned along the wood grain. Adult beetles are 5—6 mm long, cylindrical, and dark brown to black (fig. 78). Antennae and portions of the legs and mouthparts are reddish in color. The head is bent downward and completely hidden by the prothorax when viewed from above. Adults emerge from April through September, and are most common in July and August.  Adults sometimes bore through non-wood materials, including the sheathing of aerial telephone cables.
-
-#### Citation {-}
-
-Swiecki, T.J.; Bernhardt, E.A. 2025. Lead cable borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
-
-### Pigeon tremex {-}
-
-#### *Tremex columba* (Siricidae) {-}
- 
-The Pigeon tremex, *Tremex columba*, is a wood-boring wasp found in the northern part of the U.S. from coast to coast and throughout California. Larvae bore almost perfectly round tunnels, 6—7 mm in diameter, through the heartwood of declining and dead hardwoods including oak, pear, apple, beech, sycamore, hickory, elm, and maple.  Tunnels are not open to the outside of the tree.  Larvae are up to about 50 mm long.  Adults are 25—38 mm long and have golden-yellow wings and a yellow abdomen with black bands (fig. 79).  The adult female pigeon tremex inserts her ovipositor into solid wood to a depth of 13 mm and deposits a single egg.  Often, the ovipositor cannot be extracted and the female dies on the tree.     
-
-#### Citation {-}
-
-Swiecki, T.J.; Bernhardt, E.A. 2025. Pigeon tremex. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ### Carpenterworm  {-}
 
@@ -195,6 +192,25 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Pigeon tremex. In Swiecki, T.J., et al. (Ed
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Carpenterworm. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
+## Lead cable borer {-}
+
+#### *Scobicia declivis* (Bostrichidae)  {-}
+ 
+The lead cable borer, *Scobicia declivis*, is common throughout California and southern Oregon. Larvae mine and completely destroy dead and seasoned wood, but also attack living hardwoods including oak. The larvae are heavy bodied, 10 mm long at maturity, white to pale yellow, C-shaped, and enlarged at the front end.  They have three pairs of true legs. Frass-filled tunnels produced by larvae are mostly aligned along the wood grain. Adult beetles are 5—6 mm long, cylindrical, and dark brown to black (fig. 78). Antennae and portions of the legs and mouthparts are reddish in color. The head is bent downward and completely hidden by the prothorax when viewed from above. Adults emerge from April through September, and are most common in July and August.  Adults sometimes bore through non-wood materials, including the sheathing of aerial telephone cables.
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Lead cable borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+### Pigeon tremex {-}
+
+#### *Tremex columba* (Siricidae) {-}
+ 
+The Pigeon tremex, *Tremex columba*, is a wood-boring wasp found in the northern part of the U.S. from coast to coast and throughout California. Larvae bore almost perfectly round tunnels, 6—7 mm in diameter, through the heartwood of declining and dead hardwoods including oak, pear, apple, beech, sycamore, hickory, elm, and maple.  Tunnels are not open to the outside of the tree.  Larvae are up to about 50 mm long.  Adults are 25—38 mm long and have golden-yellow wings and a yellow abdomen with black bands (fig. 79).  The adult female pigeon tremex inserts her ovipositor into solid wood to a depth of 13 mm and deposits a single egg.  Often, the ovipositor cannot be extracted and the female dies on the tree.     
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Pigeon tremex. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ### Western sycamore borer {-}
 

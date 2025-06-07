@@ -1,11 +1,10 @@
-# (PART\*) Introduction to the Field Guide {-}
 # Introduction {#Intro}
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-California has at least 29 native species and varieties of oaks (*Quercus* species), as well as many natural interspecies hybrids. California native oaks ranges from large trees, up to about 25 m tall, to shrubs no taller than about 1.5 m. Traditionally, California native oaks have been assigned to three subgroups commonly referred to as white oaks (including *Q. douglasii*, *Q. engelmanii*, *Q. lobata*, *Q. garryana* and various scrub oaks), black oaks (including *Q. agrifolia*, *Q. kelloggii*, *Q. parvula*, and *Q. wislizeni*), and intermediate oaks (including *Q. chrysolepis* and *Q. vaccinifolia*). More recent infrageneric classifications of oaks (subgenera, sections, and subsections) has reshuffled some of these groups as shown in the Table 1.1 below [@Manos2021]. These subgeneric classifications are significant because hybridization only occurs between oaks in the same subgroups. Furthermore, some insects, pathogens, and other agents may selectively colonize or damage oaks in certain subgroups.
+California has at least 29 native species and varieties of oaks (*Quercus* species), as well as many natural interspecies hybrids. California native oaks ranges from large trees, up to about 25 m tall, to shrubs no taller than about 1.5 m. Traditionally, California native oaks have been assigned to three subgroups commonly referred to as white oaks (including *Q. douglasii*, *Q. engelmanii*, *Q. lobata*, *Q. garryana* and various scrub oaks), black oaks (including *Q. agrifolia*, *Q. kelloggii*, *Q. parvula*, and *Q. wislizeni*), and intermediate oaks (including *Q. chrysolepis* and *Q. vaccinifolia*). More recent infrageneric classifications of oaks (subgenera, sections, and subsections) has reshuffled some of these groups as shown in the Table 1.1 below [@Manos2021]. These subgeneric classifications are significant because hybridization only occurs between oaks in the same subgroups. Furthermore, some insects, pathogens, and other agents selectively colonize or damage oaks in certain subgroups.
 
 ```{r import}
 library(readr)

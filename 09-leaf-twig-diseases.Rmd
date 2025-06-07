@@ -1,8 +1,35 @@
 # Leaf and twig diseases {#Lftwigdis}
 
+## Frosty mildew {-}
+
+### *Microstroma album*  {-}
+
+#### Distribution / Hosts {-}
+
+
+
+#### Symptoms {-}
+
+
+
+#### Agent Description {-}
+
+
+
+#### Biology {-}
+
+
+
+#### Importance {-}
+
+
+#### Citation {-}
+
+---------------- 2025. Frosty mildew.  In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
 ## Powdery mildews {-}
 
-### *Brasiliomyces trina*, *Cystotheca lanestris*, *Microsphaera extensa curta*, *Microsphaera* species, *Phyllactinia angulata*  {-}
+### *Brasiliomyces trina*, *Cystotheca lanestris*, *Microsphaera* species, *Phyllactinia angulata*  {-}
 
 #### Distribution / Hosts {-}
 
@@ -56,10 +83,9 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Powdery mildews. In Swiecki, T.J., et al. (
 Swiecki, T.J.; Bernhardt, E.A. 2025. Oak leaf blister. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 
-## Oak anthracnose, twig blight, and leaf spots {-}
+## Oak anthracnose, leaf spot, and twig blight {-}
 
-### *Apiognomonia errabunda*, *Cryptocline cinerescens*,
-*Septoria quercicola* and other fungi  {-}
+### *Apiognomonia errabunda*, *Cryptocline cinerescens*, *Cylindrosporium kelloggii*, *Septoria quercicola*, and other fungi {-}
 
 #### Distribution / Hosts {-}
 
@@ -83,7 +109,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Oak leaf blister. In Swiecki, T.J., et al. 
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Oak anthracnose, twig blight, and leaf spots. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak anthracnose, leaf spot, and twig blight. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 
 ## *Tubakia californica* {-}

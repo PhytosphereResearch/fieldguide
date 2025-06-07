@@ -1,6 +1,6 @@
 # General foliar feeders {#foliarfeeder}
 
-## California oakworm, California oakmoth {-}
+## California oakworm / California oakmoth {-}
 
 ### *Phryganidia californica* (Dioptidae) {-}
 
@@ -27,9 +27,9 @@ knitr::include_graphics("images/distributions/oakworm.GIF")
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. California oakworm, California oakmoth. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. California oakworm / California oakmoth. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-## Fruit tree leafroller {-}
+## Fruit tree leafroller and similar insects {-}
 
 ### *Archips argyrospila* (Tortricidae) and others {-}
 
@@ -55,7 +55,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. California oakworm, California oakmoth. In 
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Fruit tree leafroller. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Fruit tree leafroller and similar insects. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ## Oak ribbed casemaker {-}
 
@@ -85,9 +85,9 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Fruit tree leafroller. In Swiecki, T.J., et
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Oak ribbed casemaker. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-## Tent caterpillars (Lasiocampidae) {-}
+## Tent caterpillars {-}
 
-### Western tent caterpillar - *Malacosoma californicum*, Pacific tent caterpillar - *M. constrictum*, Forest tent caterpillar - *M. disstria* {-}
+### Western tent caterpillar - *Malacosoma californicum*, Pacific tent caterpillar - *M. constrictum*, Forest tent caterpillar - *M. disstria* (Lasiocampidae) {-}
 
 #### Distribution / Hosts {-}
 
@@ -109,7 +109,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Oak ribbed casemaker. In Swiecki, T.J., et 
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Tent caterpillars (Lasiocampidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Tent caterpillars. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ## Western tussock moth {-}
 

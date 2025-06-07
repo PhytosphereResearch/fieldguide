@@ -1,4 +1,4 @@
-# (PART) Insects and Mites {.unnumbered}
+# (PART) Insects and Mites {-}
 
 # Acorn feeders {#Acorninsect}
 

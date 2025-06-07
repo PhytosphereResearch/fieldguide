@@ -26,9 +26,9 @@
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Erineum mite. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-## Gall wasps (Cynipidae) {-}
+## Gall wasps {-}
 
-### Over 100 species in about 20 genera including *Andricus* spp., *Antron* spp., *Callirhytis* spp, *Disholcaspis* spp., *Dros* spp., *Neuroterus* spp. {-}
+### Over 100 species in about 20 genera including *Andricus*, *Antron*, *Callirhytis*, *Disholcaspis*, *Dros*, *Neuroterus* (Cynipidae) {-}
 
 #### Distribution / Hosts {-}
 
@@ -50,5 +50,5 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Erineum mite. In Swiecki, T.J., et al. (Eds
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Gall wasps (Cynipidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Gall wasps. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
