@@ -155,7 +155,7 @@ knitr::include_graphics("images/distributions/early browning.gif")
 
 In low rainfall years, leaves of mature trees turn brown prematurely and begin to drop well in advance of the normal November-December leaf drop period (figure \@ref(fig:LfDis1)). This drought–deciduous characteristic is seen in a more extreme form in California buckeye and is also common in chaparral and desert plants. Drought-induced defoliation can be differentiated from branch dieback by the fact that buds and twigs of drought-defoliated branches remain alive and normally leaf out the following spring. In 1987, following extreme drought conditions in the preceding rainy season, foliar browning and leaf drop in blue oak occurred by mid-August in affected areas. During droughts lasting multiple years, symptoms may be widespread. In less extreme drought years, only blue oaks growing in drought-prone areas may be affected, and defoliation may occur later in the season, but still earlier than the usual late fall leaf drop.
 
-(ref:LfDis1) Early leaf browning and defoliation associated with drought stress in a stand of blue oaks.
+(ref:LfDis1) Early leaf browning and defoliation associated with drought stress in a stand of blue oaks. Photo: Phytosphere Research.
 
 ```{r LfDis1, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis1)"}
 knitr::include_graphics("images/Disease-leaftwig/Defol-QDtree2-Phytosphere.jpg")
@@ -164,7 +164,7 @@ knitr::include_graphics("images/Disease-leaftwig/Defol-QDtree2-Phytosphere.jpg")
 Blue oak seedling advance regeneration also undergoes early defoliation in response to drought stress. Blue oak advance regeneration typically consists of persistent understory seedlings less than about 10–15 cm tall that range in age from a few years to decades. Drought-stressed seedlings may begin losing leaves by June or July (figure \@ref(fig:LfDis2)). Drought stress in seedlings is strongly influenced by competition with both overstory trees and non-native understory grasses and forbs. Young seedling shoots may also die back partly or completely to ground level by midsummer in response to severe drought stress.
 
 
-(ref:LfDis2) Early leaf browning and defoliation associated with drought stress in a stand of blue oaks.
+(ref:LfDis2) Early leaf browning and defoliation associated with drought stress in a stand of blue oaks. Photo: Phytosphere Research.
 
 ```{r LfDis2, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis2)"}
 knitr::include_graphics("images/Disease-leaftwig/Defol-QDseedling-Phytosphere.jpg")
