@@ -2,9 +2,9 @@
 
 # Acorn feeders {#Acorninsect}
 
-## Filbert weevils {#Filberweevils .unnumbered}
+## Filbert weevils  {#Filberweevils .unnumbered}
 
-### *Curculio aurivestis*, *C. occidentis*, *C. pardus* (Curculionidae) {.unnumbered}
+### *Curculio aurivestis*, *C. occidentis*, *C. pardus* (Curculionidae) {-}
 
 #### Distribution / Hosts {-}
 

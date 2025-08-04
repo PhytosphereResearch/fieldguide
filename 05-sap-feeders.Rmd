@@ -55,9 +55,9 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Oak leaf phylloxera. In Swiecki, T.J., et a
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Woolly oak aphids. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-## Whiteflies: Crown whitefly, Gelatinous whitefly, Stanford’s whitefly {-}
+## Whiteflies {-}
 
-### *Aleuroplatus coronatus*, *A. gelatinosus*, *Tetraleurodes stanfordi*  (Aleyrodidae) {-}
+### Crown whitefly - *Aleuroplatus coronatus*, Gelatinous whitefly - *A. gelatinosus*, Stanford’s whitefly - *Tetraleurodes stanfordi* (Aleyrodidae) {-}
 
 #### Distribution / Hosts {-}
 
@@ -81,7 +81,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Woolly oak aphids. In Swiecki, T.J., et al.
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Whiteflies: Crown whitefly, Gelatinous whitefly, Stanford’s whitefly. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Whiteflies. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ## Treehoppers {-}
 ### *Platycotis vittata*, *P. vittata quadrivittata*, *P. minax* (Membracidae) {-}
@@ -138,7 +138,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Treehoppers. In Swiecki, T.J., et al. (Eds.
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Kuwana oak scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-## Oak lecanium scale  {-}
+## Oak lecanium scale {-}
 
 ### *Parthenolecanium quercifex* (Coccidae) {-}
 
@@ -170,7 +170,7 @@ Honeydew dripping and subsequent sooty mold growth may become a nuisance.  Great
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Oak lecanium scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak lecanium scale (Coccidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 
 ## Obscure scale {-}
@@ -201,9 +201,9 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Oak lecanium scale. In Swiecki, T.J., et al
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Obscure scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-## Pit scales: Oak pit scale, Golden oak scale {-}
+## Pit scales {-}
 
-### *Asterolecanium minus*, *A. quercicola*, *A. variolosum* (Asterolecaniidae) {-}
+### Oak pit scale - *Asterolecanium minus*, *A. quercicola*, Golden oak scale - *A. variolosum* (Asterolecaniidae) {-}
 
 #### Distribution / Hosts {-}
 
@@ -226,6 +226,6 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Obscure scale. In Swiecki, T.J., et al. (Ed
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Pit scales: Oak pit scale, Golden oak scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Pit scales. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 

@@ -8,6 +8,16 @@
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. *Aneflomorpha lineare* (Cerambycidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
+## Oak twig borer {-}
+
+### *Styloxus fulleri californicus* (Cerambycidae) {-}
+
+The California subspecies of oak twig borer (*Styloxus fulleri californicus*) is widespread in California and has been reported on coast live, interior live, and California black oak.  *S. fulleri californicus* makes a large, oval, frass-filled tunnel in the heartwood of twigs, particularly those that are 0.5—1.25 cm in diameter.  Larvae are yellowish roundheaded borers, 12.5—19 mm long.  Adult beetles (fig. 52) are slender and greenish brown.
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak twig borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
 ## Oak twig girdler {-}
 
 ### *Agrilus angelicus* (Buprestidae) {-}
@@ -25,16 +35,6 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. *Aneflomorpha lineare* (Cerambycidae). In S
 #### Citation {-}
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Oak twig girdler. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
-
-## Oak twig borer {-}
-
-### *Styloxus fulleri californicus* (Cerambycidae) {-}
-
-The California subspecies of oak twig borer (*Styloxus fulleri californicus*) is widespread in California and has been reported on coast live, interior live, and California black oak.  *S. fulleri californicus* makes a large, oval, frass-filled tunnel in the heartwood of twigs, particularly those that are 0.5—1.25 cm in diameter.  Larvae are yellowish roundheaded borers, 12.5—19 mm long.  Adult beetles (fig. 52) are slender and greenish brown.
-
-#### Citation {-}
-
-Swiecki, T.J.; Bernhardt, E.A. 2025. Oak twig borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ## *Scobicia suturalis* (Bostrichidae) {-}
 
