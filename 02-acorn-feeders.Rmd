@@ -10,8 +10,8 @@
 
 *Curculio aurivestis* occurs from Victoria, British Columbia to southern California. It is reported on canyon live, Oregon white, and other oaks. *C. occidentis* is widely distributed throughout the western U.S. and California. It is reported on a wide variety of oaks as well as tanoak and California hazelnut. *C. pardus* occurs from Washington to Los Angeles County, California. It is reported from coast live, interior live, canyon live, blue, valley, and other oak species.
 
-```{r, fig.align='center', fig.asp=.75, fig.cap="Filbert weevil range", out.width='30%'}
-knitr::include_graphics("images/distributions/statewide.gif")
+```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of filbert weevil (orange shading) and native oak species (green) in California.", out.width='30%'}
+knitr::include_graphics("images/distributions/statewide.png")
 ```
 
 #### Symptoms {-}
@@ -59,8 +59,8 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Filbert weevils. In Swiecki, T.J., et al. (
 
 Filbertworm is widely distributed throughout the U.S. and California. It attacks the acorns of most oak species as well as hazelnuts or filberts.
 
-```{r, fig.align='center', fig.asp=.75, fig.cap="Filbertworm range", out.width='30%'}
-knitr::include_graphics("images/distributions/statewide.gif")
+```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of filbertworm (orange shading) and native oak species (green) in California.", out.width='30%'}
+knitr::include_graphics("images/distributions/statewide.png")
 ```
 
 

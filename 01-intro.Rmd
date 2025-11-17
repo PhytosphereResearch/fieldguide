@@ -29,7 +29,7 @@ Oak woodlands and other vegetation types dominated by oak trees cover about 3 mi
 (ref:Oakrng) Approximate range of native oak species in California compiled from multiple sources.
 
 ```{r Oakrng, fig.align='center', fig.asp=.75, fig.cap="(ref:Oakrng)", out.width='60%'}
-knitr::include_graphics("images/distributions/CAoakrange.jpg")
+knitr::include_graphics("images/distributions/CAoakrange.png")
 ```
 
 

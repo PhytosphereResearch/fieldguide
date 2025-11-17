@@ -70,13 +70,13 @@ Rounded, wrinkled blisters develop on the upper surface of young leaves (figure 
 (ref:LfDis2A) Oak leaf blister symptoms on the upper surfaces of Oracle oak leaves. Photo: Phytosphere Research.
 
 ```{r LfDis2A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis2A)"}
-knitr::include_graphics("images/Disease-leaftwig/Phytosphere Taphrina caerulescens QxM VV 20230523-1.jpg")
+knitr::include_graphics("images/Disease-leaftwig/Tapcae-QxM-Phytosphere-1.jpg")
 ```
 
 (ref:LfDis2B) Oak leaf blister symptoms on the lower surfaces of Oracle oak leaves. Photo: Phytosphere Research.
 
 ```{r LfDis2B, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis2B)"}
-knitr::include_graphics("images/Disease-leaftwig/Phytosphere Taphrina caerulescens QxM VV 20230523-4.jpg")
+knitr::include_graphics("images/Disease-leaftwig/Tapcae-QxM-Phytosphere-2.jpg")
 ```
 
 #### Agent Description {-}
@@ -130,28 +130,62 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Oak anthracnose, leaf spot, and twig blight
 ## *Tubakia californica* {-}
 
 #### Distribution / Hosts {-}
+*Tubakia californica* is widespread and likely native to California.  As of 2025  it had not been reported outside the state. Reported hosts are all in the plant family Fagaceae, and include California black oak, coast live oak, interior live oak, and valley oak, as well as tanoak, and golden chinquapin. 
 
+
+```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of *Tubakia californica* (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+knitr::include_graphics("images/distributions/Tubcal.png")
+```
 
 
 #### Symptoms {-}
+Symptoms of leaf spots, which begin either at the edge of the leaf or at the base of the petiole, appear in late summer to early fall depending on the climatic zone and elevation. Spots coalesce to form larger areas along the leaf margin or spread along the leaf veins, blackening the veins and eventually killing the leaf (figure \@ref(fig:LfDis5A)). Infections may spread into the subtending twig (figure \@ref(fig:LfDis5C)) 
+
+(ref:LfDis5A) Symptoms of *Tubakia californica* on California black oak leaves. Photo: Suzanne Rooney-Latham and Cheryl Blomquist, CDFA.
+
+```{r LfDis5A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis5A)"}
+knitr::include_graphics("images/Disease-leaftwig/TubCal-QK-Rooney-Latham-and-Blomquist.jpg")
+```
+
+(ref:LfDis5C) Twig infection by *Tubakia californica* on California black oak. Photo: Phytosphere Research.
+
+```{r LfDis5C, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis5C)"}
+knitr::include_graphics("images/Disease-leaftwig/TubCal-QK-Phytosphere-Research-2.jpg")
+```
+On the deciduous California black oak, dead leaves remain attached and hanging from branches throughout the winter and through the next  year (figure \@ref(fig:LfDis5B)). Defoliation on the evergreen tanoak appears most severe in early spring before new leaves emerge. Severely affected trees can sometimes lose enough leaves in the lower three-quarters of the crowns for the lower crown to appear noticeably sparse.
+
+(ref:LfDis5B) Persistent previous year dead leaves (marcescence) infected by *Tubakia californica* on  California black oak in August. Photo: Phytosphere Research.
+
+```{r LfDis5B, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis5B)"}
+knitr::include_graphics("images/Disease-leaftwig/TubCal-QK-Phytosphere-Research.jpg")
+```
 
 
+On coast live oak symptoms appear low in the tree crown and are more severe in topographically low or humid areas (figure \@ref(fig:LfDis5D)). Symptoms can also be severe along road corridors, especially those that follow canyon bottoms.
 
+(ref:LfDis5D) Lower crown leaf necrosis (death) caused by *Tubakia californica* in coast live oak. Photo: Chris Lee, CalFire.
+
+```{r LfDis5D, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis5D)"}
+knitr::include_graphics("images/Disease-leaftwig/TubCal-QA-Chris_Lee_Picture2.jpg")
+```
 #### Agent Description {-}
 
+Most *Tubakia* species are characterized by the production of rounded shield-shaped asexual fungal fruiting structures (pycnothyria) where asexual spores (conidia) are formed.  When *T. californica* was originally described, these pycnothyria had not been found and were not described [@braun2018tubakia]. Small pycnothyria have since been found on petioles in a single location in Sonoma Co. The conidia producing fungal structures that were observed on affected leaves and petioles were tiny, black, and crustose, usually (50–)80–200(–220) μm diam (about the width of a human hair) and resemble pycnidia (a flask shaped fruiting body with a narrow opening). The pycnidia-like structures of *T. californica*  release conidia through irregular fissures. The conidia are ellipsoid to ellipsoid-oval. Under a microscope conidia initially appear not quite clear (subhyaline) and as they age they become greenish. They range in size from 8-15 x 4.5-7µm [@braun2018tubakia].   
+
+Other fungi in the genus *Tubakia* that are well-known foliar and twig pathogens of oaks include *T. dryina* and *T. iowensis*.  Although *T. californica* appears to be common and widespread in California, it was not described until 2018 [@braun2018tubakia]. This may be because it was thought to be *T. dryina* or other fungal pathogens such as *Apiognomonia errabunda*, which can occur together with *T. californica* on the same leaf tissue. Conidia of *A. errabunda* are similar in length as *T. californica* but usually more narrow (3-5µm) and remain hyaline.
 
 
 #### Biology {-}
 
-
+*T. californica* most likely lives endophytically (inside of without causing disease) in twig and leaf tissues. What causes it to emerge as a pathogen of these tissues is unknown. It is likely that disease incidence and severity is correlated with microclimatic conditions that increase the frequency and duration of leaf wetness and promote pathogen persistence and spread. In California black oak, infections often result in trees not fully defoliating in late fall. These infected leaves with asexual fruiting structures overwinter and likely provide the primary inoculum (spores that initiate new infections) when new leaves emerge the following spring in years with plentiful spring rainfall.
 
 #### Importance {-}
 
-
+Trees stressed by repeated or severe infection may be more susceptible to various opportunistic agents that may contribute to tree decline and mortality.
 
 #### Citation {-}
 
-------------. 2025. *Tubakia californica*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Lee, C., Rooney-Latham, S., Blomquist, C.L. 2025. *Tubakia californica*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ## Early defoliation due to drought stress {-}
 
