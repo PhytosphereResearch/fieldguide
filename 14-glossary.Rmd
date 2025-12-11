@@ -57,6 +57,8 @@ a meter or one thousandth of a millimeter.
 
 **larva** (pl. larvae) – the immature stage between the egg and the pupa in insects that undergo complete metamorphosis (i.e., egg, larva, pupa, adult)
 
+**lignification** – a process whereby lignin is deposited into plant cell walls
+
 **mycelium** – a network or mass of vegetative fungal hyphae 
 
 **necrosis** (adj.  necrotic) – death of cells or tissues
@@ -81,11 +83,15 @@ a meter or one thousandth of a millimeter.
 
 **perithecium** (pl. perithecia) – a globose to flask-shaped ascocarp with a defined pore (ostiole) at the apex through which ascospores are disseminated
 
+**peritrichous** flagella that are distributed over the entire cell surface 
+
 **pocket rot** – wood decay that occurs in discrete localized zones or pockets, usually in the heartwood
 
 **pronotum** – a hardened plate on the dorsal (back) surface of the prothorax in insects; in some insects the pronotum is enlarged or otherwise modified
 
 **prothorax** – the first segment of the thorax of an insect, which contains the attachment points for the front pair of legs
+
+**pubsecent** – covered with fine hairs
 
 **pycnidium** (pl. pycnidia) – a flask-shaped fungal fruiting body containing conidiophores that produce conidia (asexual spores)
 
@@ -96,6 +102,8 @@ a meter or one thousandth of a millimeter.
 **rhizomorph** – an elongate, root-like aggregation of fungal hyphae, often differentiated into a dark outer rind and a lighter interior
 
 **saprophyte** – an organism that obtains food from dead organic material, such as dead leaves, bark, or wood; some parasitic organisms can also survive and grow saprophytically.
+
+**senesce** - loss of function ending in mortality
 
 **sooty mold** – black, superficial mycelial mats that grow on honeydew deposited on plant surfaces by sap-feeding insects; the epiphytic fungi that produce sooty mold are mostly in the family Capnodiaceae
 

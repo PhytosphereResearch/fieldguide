@@ -29,26 +29,112 @@
 
 ## Powdery mildews {-}
 
-### *Brasiliomyces trina*, *Cystotheca lanestris*, *Microsphaera* species, *Phyllactinia angulata*  {-}
+### *Erisyphe trina*, *Cystotheca lanestris*, *Erysiphe* species, *Phyllactinia angulata*  {-}
 
 #### Distribution / Hosts {-}
 
+Powdery mildews are widespread and occur on most oaks throughout California.  The taxonomy of the powdery mildews has undergone multiple revisions, with the most recent changes resulting in the rolling back of some previous name changes among those species affecting oaks. 
+
+*Erisyphe trina* (formerly *Brasiliomyces trina*) is relatively uncommon and has been reported from coast live oak, canyon live oak, and tanoak. 
+
+*Cystotheca lanestris* (previously *Sphaerotheca lanestris*) is widespread and has been reported from most oaks in California.
+
+*Microsphaera penicillata* (current name *E. penicillata*) was split into four species,   all of which have been reassigned to *Erysiphe* (*Erysiphe alphitoides*, *E. abbreviata*, *E. calocladophora*, and *E. densissima* (Braun, U; Takamatsu, S. 2000. Phylogeny of *Erysiphe*, *Microsphaera*, *Uncinula* (Erysipheae) and *Cystotheca*, *Podosphaera*, *Sphaerotheca* (Cystotheceae) inferred from rDNA ITS sequences- some taxonomic consequences. Schlechtendalia. 4:1-33)).  As noted below, at least some of the records previously reported as *M. penicillata* were reassigned to *M. extensa* var. *curta*, now *E. densissima*.  However, most of the host/distribution reports based on  older names cannot be reassigned to one of the four new species without microscopic examination of the original specimens.  *M. penicillata* was reported on a wide variety of native oaks in California, including coast live, interior live, blue, valley, leather, Engelmann, Oregon white, California black, and various scrub oaks.  It was also reported on several cultivated non-native oaks in California, including English oak.
+
+*Microsphaera extensa* var. *curta*, previously included within *M. penicillata*, is now *E. densissima*. *E. densissima* occurs on a wide variety of oak species in North America.  In California, it has been confirmed on blue, valley, Oregon white, and California black oak, but may occur on other species. 
+
+*Phyllactinia angulata*  (= *Phyllactinia corylea*, *P. guttata*) is distributed throughout North America on trees in the families Fagaceae (includes oak, chestnut, beech) and Ulmaceae (includes elm, hackberry) and is reported in California on coast live, California black, and valley oak.  According to Braun (1987), the species of *Phyllactinia* previously identified as *P. corylea* on oaks in California should be assigned to this species. 
 
 
 #### Symptoms {-}
 
+All of the powdery mildews on California oaks produce dry, whitish fungal growth (mycelium) on leaf surfaces.  Young leaves are often affected more than mature leaves.  High infection levels may cause leaf distortion and discoloration.  Symptom location and appearance varies somewhat among the powdery mildew species:
+B. trina produces well defined, grayish to brownish-white, rounded to irregular colonies on the upper leaf surface (figure \@ref(fig:LfDisPm1),  \@ref(fig:LfDisPm2)).
 
+
+(ref:LfDisPm1) Brasiliomyces trina on coast live oak.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfDisPm1, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDisPm1)"}
+knitr::include_graphics("images/Disease-leaftwig/B trina QA china Camp 4-5-05d_Phytosphere.jpg")
+```
+
+
+(ref:LfDisPm2) Brasiliomyces trina on coast live oak.  Masses of brown cleistothecia give a mottled brown or grayish appearance to the fungal mycelium.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfDisPm2, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDisPm2)"}
+knitr::include_graphics("images/Disease-leaftwig/B trina QA china Camp 4-5-05b_Phytosphere.jpg")
+```
+
+
+*C. lanestris* mycelium primarily grows on the lower leaf surface  (figure \@ref(fig:LfDisPm3,  \@ref(fig:LfDisPm4)).  The white mycelium turns tan to brown with age.  The fungus can cause systemic infections that induce the formation of witches' brooms (abnormal clusters of shoots that are thickened, elongated, and highly branched).  Leaves on witches' brooms are small and senesce early (figure \@ref(fig:LfDisPm5)).  The entire broom becomes white when the fungus sporulates, and may either die out over the winter or produce either more brooms or normal shoots the following season. 
+
+
+(ref:LfDisPm3) *Cystotheca lanestris* on lower surfaces of valley oak leaves.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfDisPm3, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDisPm3)"}
+knitr::include_graphics("images/Disease-leaftwig/Cystotheca lanestris valley oak underside Vacaville June 2004PICT0036_Phytosphere.jpg")
+```
+
+
+(ref:LfDisPm4) *Cystotheca lanestris* symptoms on upper surfaces of valley oak leaves; note leaf chlorosis and distortion.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfDisPm4, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDisPm4)"}
+knitr::include_graphics("images/Disease-leaftwig/Cystotheca lanestris on valley oak top side Vacaville June 2004_Phytosphere.jpg")
+```
+
+
+(ref:LfDisPm5) *Cystotheca lanestris* witches’ broom symptom on coast live oak.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfDisPm5, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDisPm5)"}
+knitr::include_graphics("images/Disease-leaftwig/Cystotheca lanestris on QA MMWD3 9-03f_Phytosphere.jpg")
+```
+
+
+
+
+*M. extensa* var. *curta* mycelium is normally present on the upper leaf surface.  It commonly forms a persistent thin whitish film over the entire leaf ((figure \@ref(fig:LfDisPm6,  \@ref(fig:LfDisPm7)).
+
+
+(ref:LfDisPm6) Microsphaera extensa var. curta on valley oak .  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfDisPm6, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDisPm6)"}
+knitr::include_graphics("images/Disease-leaftwig/powdery mildew valley oak Vacaville Nov 18 2003 b_Phytosphere.jpg")
+```
+
+
+(ref:LfDisPm7) Microsphaera extensa var. curta on blue oak.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfDisPm7, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDisPm7)"}
+knitr::include_graphics("images/Disease-leaftwig/Microsphaera extensa curta on Q douglasii Nov 18 2003 d_Phytosphere.jpg")
+```
+
+
+*P. angulata* mycelium primarily occurs on the lower leaf surface but is also found on the upper surface. 
 
 #### Agent Description {-}
+
+Powdery mildew fungi on California oaks are differentiated primarily on the basis of their sexual fruiting bodies (cleistothecia), which are just large enough to see without magnification, and to a lesser degree on their microscopic asexual spores (conidia).  
+B. trina cleistothecia are abundant, yellow-brown, somewhat transparent, small (60 μm diameter) and lack appendages.  Each cleistothecium contains two to three saclike structures (asci), each of which contains two spores (ascospores).  B. trina produces almost no conidia.  
+
+
+(ref:LfDisPm8) Micrograph of M. extensa var. curta cleistothecia with hyaline, dichotomously branched appendages; developing appendages are unbranched.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfDisPm8, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDisPm8)"}
+knitr::include_graphics("images/Disease-leaftwig/Microsphaera extensa curta from QL Nov-14-2003c_Phytosphere.jpg")
+```
 
 
 
 #### Biology {-}
 
+Powdery mildew fungi derive nutrition from living host cells, so infected host tissues are generally not directly killed by these parasitic fungi.  Most powdery mildew leaf infections affect only the outermost layer of leaf cells (epidermis), but the systemic infections caused by C. lanestris affect multiple cell layers.
+
+Powdery mildew fungi overwinter as cleistothecia or, in the case of C. lanestris, as mycelium in infected buds.  Cleistothecia may be less likely to form on evergreen oaks than on deciduous oaks.  In spring, ascospores are released from the cleistothecia and are blown or splashed onto host leaves.  After ascospores germinate, they form swollen structures (appressoria) on the leaf surface.  Hyphal pegs formed under the appressoria penetrate host epidermal cells.  Fungal structures (haustoria) are formed within living host cells and absorb nutrients that the fungus uses for growth and reproduction.  Most of the fungal mycelium grows on the outer surface of infected leaves and produces dry conidia.  Conidia are blown to young succulent shoots and initiate new infections throughout the growing season.  Powdery mildew infection is favored by warm days and cool nights and is inhibited by wet conditions.  Vigorous new growth produced late in the growing season, such as stump sprouts and epicormic shoots produced after heavy pruning, may develop severe powdery mildew infections.  Unlike the other powdery mildew infections, which are most noticeable in late summer and fall, infections by B. trina can be found in the spring
 
 
 #### Importance {-}
 
+Levels of infection are not normally severe enough to substantially affect plant health, except possibly in small seedlings.  Symptoms, including mycelium, witches’ brooms, and leaf distortion, may be unsightly.
 
 #### Citation {-}
 
@@ -62,6 +148,12 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Powdery mildews. In Swiecki, T.J., et al. (
 
 *Taphrina caerulescens* is reported to affect more than 50 species of oaks in the North America, Mexico, Europe, and Asia. In California, this pathogen is reported on native blue, valley, Engelmann, California black, and coast live
 oak and on some non-native oaks. Oaks in the subsection Lobatae (red/black oaks) are generally more susceptible than those in subsection Quercus (white oaks).
+
+
+```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of *Tubakia californica* (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+knitr::include_graphics("images/distributions/Tapcae.png")
+```
+
 
 #### Symptoms {-}
 
@@ -139,13 +231,21 @@ knitr::include_graphics("images/distributions/Tubcal.png")
 
 
 #### Symptoms {-}
-Leaf spots, which begin either at the edge of the leaf or at the base of the petiole, appear in late summer to early fall depending on the climate zone and elevation. Spots coalesce to form larger necrotic areas along the leaf margins or veins, eventually killing the leaf.  Affected leaf veins become dark brown or black (figure \@ref(fig:LfDis5A)). Infections may spread into the subtending twig, causing tip dieback (figure \@ref(fig:LfDis5C)).
+Leaf spots, which begin either at the edge of the leaf or at the base of the petiole, appear in late summer to early fall depending on the climate zone and elevation. Spots coalesce to form larger necrotic areas along the leaf margins or veins, eventually killing the leaf.  Affected leaf veins become dark brown or black (figure \@ref(fig:LfDis5A), \@ref(fig:LfDis5A-1)). Infections may spread into the subtending twig, causing tip dieback (figure \@ref(fig:LfDis5C)).
 
 (ref:LfDis5A) Symptoms of *Tubakia californica* on California black oak leaves. Photo: Suzanne Rooney-Latham and Cheryl Blomquist, CDFA.
 
 ```{r LfDis5A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis5A)"}
 knitr::include_graphics("images/Disease-leaftwig/TubCal-QK-Rooney-Latham-and-Blomquist.jpg")
 ```
+
+(ref:LfDis5A-1) Symptoms of *Tubakia californica* on interior live oak leaf.  Photo: Suzanne Rooney-Latham and Cheryl Blomquist, CDFA.
+
+```{r LfDis5A-1, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis5A-1)"}
+knitr::include_graphics("images/Disease-leaftwig/TubCal-QW_1029 Tubakia leaf spot Suzanne Latham.jpg")
+```
+
+
 
 (ref:LfDis5C) Shoot tip dieback caused by *Tubakia californica* on California black oak. Photo: Phytosphere Research.
 

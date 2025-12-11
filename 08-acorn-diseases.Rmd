@@ -9,23 +9,45 @@
 
 #### Distribution / Hosts {-}
 
+Drippy nut is reported on both coast live and interior live oak.  The disease may occur throughout the ranges of these species but is especially common in the San Francisco Bay Area counties.  It has also been reported on holly oak and *Quercus pyrenaica* in Spain.
+
+
+
+```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of *Tubakia californica* (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+knitr::include_graphics("images/distributions/drippynutmap.gif")
+```
 
 
 #### Symptoms {-}
 
+The most obvious symptom is copious oozing of frothy, sticky sap from affected acorns (figure \@ref(fig:AcDis1)).  Sap may continue to drip from acorn caps attached to the tree after acorns have dropped.  The ooze is more watery under humid conditions.  In affected trees, the total amount of dripping sap tends to increase with the size of the acorn crop.  Affected acorns may show discoloration at insect oviposition wounds and evidence of internal decay.  In Spain, the bacterium is reportedly associated with bark cankers and oozing buds in addition to oozing acorns.
+
+
+(ref:AcDis1) Frothy sap oozing from coast live oak acorns affected by drippy nut.. Photo: TedmundJ. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r AcDis1, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:AcDis1)"}
+knitr::include_graphics("images/Disease-acorn/drippy nut QA buckeye CCSP 9-15-03 a_Phytosphere.jpg")
+```
+
+
+(ref:AcDis2) Frothy sap oozing from coast live oak acorns affected by drippy nut. Photo: TedmundJ. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r AcDis2, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:AcDis2)"}
+knitr::include_graphics("images/Disease-acorn/drippy nut QA buckeye CCSP 9-15-03 d_Phytosphere.jpg")
+```
 
 
 #### Agent Description {-}
 
-
+The agent is visible only with a high-magnification microscope. The causal bacterium, originally described under the name *Erwinia quercina*, is a non-spore forming, gram negative rod with flagella distributed over the entire cell surface (i.e., peritrichous flagella).
 
 #### Biology {-}
 
-
+Bacteria apparently enter the acorn through insect oviposition wounds, including those caused by acorn weevils, filbertworms, and some cynipid wasps.  The disease is typically more severe during warm weather.  Drippy nut disease severity varies from year to year, but the disease is more likely to recur in trees that have shown symptoms in previous years
 
 #### Importance {-}
 
-
+In California, this disease has not been associated with any obvious damage to trees, although the seed crop is reduced.  The sticky sap can be abundant and can pose a substantial nuisance, especially around dwellings
 
 #### Citation {-}
 

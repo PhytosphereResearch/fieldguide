@@ -6,21 +6,35 @@
 
 #### Distribution / Hosts {-}
 
+*Eriophyes mackiei* is distributed through much of California.  It is reported on evergreen oaks in the red/black oak subgroup (coast live and interior live oak) and intermediate oak subgroup (canyon live and huckleberry oak).
+
+
+```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of Erineum mite (orange shading) and native oak species (green) in California.", out.width='30%'}
+knitr::include_graphics("images/distributions/Eriophyesmackei.GIF")
+```
 
 
 #### Symptoms {-}
 
+The mites cause blisterlike swellings, 1—12 mm long, that protrude from the upper leaf surface (figure  \@ref(fig:LfGalls1A)). On the lower leaf surface, the blisters appear as depressions filled with mats of rusty brown hairs (erinea).  The blisters are initially green but later become brown. Leaves may become distorted if large populations of mites are present.
 
+(ref:LfGalls1A) Symptoms of erineum mite on coast live oak. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfGalls1A, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls1A)", out.width="75%"}
+knitr::include_graphics("images/Insect-galls/EriMac-QA Sonoma county Nov 1988_Phytosphere.jpg")
+```
 
 #### Agent Description {-}
 
-
+Mites are 0.2 mm long and difficult to see without magnification. They are whitish or yellowish , slender and wormlike, and have two pairs of legs. 
 
 #### Biology {-}
 
-
+Erineum mites overwinter in leaf blisters or in leaf buds.  They establish new colonies on the underside of spring foliage.  The mites induce the host leaf to produce the characteristic erinea in the blisterlike depressions that form on the underside of leaves.  Mites feed and reproduce within the blisters
 
 #### Importance {-}
+
+The damage caused by erineum mites is generally limited and of little or no consequence to affected trees.
 
 #### Citation {-}
 
@@ -32,21 +46,67 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Erineum mite. In Swiecki, T.J., et al. (Eds
 
 #### Distribution / Hosts {-}
 
+Many gall wasp species are found throughout the range of their hosts, whereas others are more limited in distribution.  Virtually all native California oak species are hosts to one or more gall wasp species.  Most gall wasp species can colonize several to many oak species within a given subgroup such as the white oaks, red/black oaks, or intermediate oaks.  *Andricus californicus*, the California gallfly, produces galls known as oak apples on at least eight species in the white oak subgroup (figure  \@ref(fig:LfGalls2)).  Others, such as *Andricus chrysobalani*, which causes galls on canyon live oak acorns, are reported only from a single host species.
 
+```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of wasps  (orange shading) and native oak species (green) in California.", out.width='30%'}
+knitr::include_graphics("images/distributions/statewide.png")
+```
+
+(ref:LfGalls2) Oak apple galls on valley oak produced by *Andricus californicus*. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfGalls2, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls2)", out.width="75%"}
+knitr::include_graphics("images/Insect-galls/AndCal-QL_Andricus-californicus_Phytosphere.JPG")
+```
+
+(ref:LfGalls3) *Andricus crystallinus* galls on blue oak leaves. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfGalls3, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls3)", out.width="75%"}
+knitr::include_graphics("images/Insect-galls/AndCry-QD_Andricus crystallinus QUDO_Phytosphere.JPG")
+```
+
+(ref:LfGalls4) *Andricus fullawayi* galls on leaves of valley oak. Photo: Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfGalls4, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls4)", out.width="75%"}
+knitr::include_graphics("images/Insect-galls/AndFul-QL_Andricus fullawayi Quercus lobata 9-5-2003b_Phytosphere.JPG")
+```
+
+
+(ref:LfGalls5) Stem galls produced by *Andricus chrysolepidicola* on blue oak. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfGalls5, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls5)", out.width="75%"}
+knitr::include_graphics("images/Insect-galls/AndChr-QD_andricus chrysolepidicola_Phytosphere.JPG")
+```
+
+(ref:LfGalls6) *Disholcaspis plumbella gall* on a scrub oak twig. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfGalls6, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls6)", out.width="75%"}
+knitr::include_graphics("images/Insect-galls/DIPLUQUBE1_Disholcaspis plumbella_Phytosphere.JPG")
+```
 
 #### Symptoms {-}
 
-
+Galls may be produced on catkins, acorns, leaves, petioles, or twigs (figures  \@ref(fig:LfGalls2) - \@ref(fig:LfGalls6)).  They appear as simple swellings, amorphous growths, or unique, highly organized structures, often with strange shapes and bright coloration.  Galls may be detachable (distinct structures that are readily removable from underlying tissues) or integral (swellings or distortions of the plant part itself that cannot be removed without cutting or breaking the affected part).  Galls range from 1 mm to more than 50 mm across.  Some galls are associated with localized chlorosis or necrosis of underlying host tissue.  Galls affecting branches or major leaf veins may interfere with water and food transport within the branch or leaf, causing tissues beyond the gall to decline or die.
 
 #### Agent Description {-}
 
+Adults are small wasps, typically no more than about 4 mm long (figure  \@ref(fig:LfGalls7)).  Larvae are small, whitish, and legless and develop completely inside larval chambers that form within the galls.  Depending on the wasp species, each gall may have either one (monothalamous galls) or many (polythalamous galls) larval chambers.
 
+(ref:LfGalls7) Adult gall wasps (large divisions one-eight inch). Photo: Don Owen, CalFire, retired.
+
+```{r LfGalls7, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls7)", out.width="75%"}
+knitr::include_graphics("images/Insect-galls/DON OWEN  CYNIPID GALL WASPS LARGE DIVISION ONE EIGHTH INCH.jpg")
+```
 
 #### Biology {-}
 
+Gall wasp larvae can apparently only induce galls in undifferentiated meristematic or cambial cells, so female wasps must lay eggs in specific host tissues (buds, leaves, etc.) when the tissues are at the correct growth stage.  Developing larvae produce substances that induce the plant to form a larval chamber of a structure that is unique to the wasp species and generation.  The gall wasp larvae typically remain small while they induce the gall to grow rapidly.  As the gall nears its mature size, larvae feed on nutritive tissue produced in the center of the gall and begin to grow rapidly.  As the larvae mature, they induce lignification of the gall.  In detachable galls, lignification may induce the gall to fall off the plant.  Larvae pupate within the gall and adult wasps emerge from the galls to initiate the next generation. 
+
+Many oak gall wasp species have two alternating generations; a sexual generation with females and males followed by an asexual generation with only females, which can lay fertile eggs without mating.  Each of these generations produces a unique gall, often on different parts of an oak.  Galls produced by the sexual generation are usually found during winter on permanent parts of the tree, such as twigs.  The asexual generation typically is produced during spring and summer, and galls are often on leaves and catkins.  Some oak gall wasps are known to produce only a single generation, which is typically asexual.
 
 
 #### Importance {-}
+
+Most wasp galls, especially foliar galls, cause little or no lasting damage to oaks. However, a few galls cause limited leaf or twig dieback by blocking the vascular tissue.
 
 #### Citation {-}
 
