@@ -35,6 +35,13 @@
 
 Powdery mildews are widespread and occur on most oaks throughout California.  The taxonomy of the powdery mildews has undergone multiple revisions, with the most recent changes resulting in the rolling back of some previous name changes among those species affecting oaks. 
 
+
+```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of *Tubakia californica* (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+knitr::include_graphics("images/distributions/Tapcae.png")
+```
+
+
+
 *Erisyphe trina* (formerly *Brasiliomyces trina*) is relatively uncommon and has been reported from coast live oak, canyon live oak, and tanoak. 
 
 *Cystotheca lanestris* (previously *Sphaerotheca lanestris*) is widespread and has been reported from most oaks in California.
