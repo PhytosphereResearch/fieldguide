@@ -203,23 +203,83 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Oak leaf blister. In Swiecki, T.J., et al. 
 
 #### Distribution / Hosts {-}
 
+A number of fungi cause necrotic spotting of leaves and/or twig dieback symptoms on oaks. The fruiting bodies of these fungi are minute, making them difficult to distinguish from each other.
+
+*Apiognomonia errabunda* (asexual stage= *Discula umbrinella*, synonyms include *Discula quercina*, *Gnomonia errabunda*, *G. quercina*, *G. veneta*, *Gleosporium nervisequum*, *G. quercinum*, *G. quercuum*, and many others) is widely distributed across temperate North America and Europe and occurs on oaks, beech, and sycamore.  In California, it attacks both white oaks, including valley, Oregon white, and blue oak, and red/black oaks, including California black, coast live, and interior live oak.
+
+*Cryptocline cinerescens* occurs on oaks in North America and Europe, and in California is reported on valley, coast live, and interior live oak.  Susceptibility varies across species and among individual plants.  In general, interior live oak may show less severe symptoms than valley, blue, California black, and coast live oak.
+
+*Septoria quercicola* is distributed throughout temperate regions on oaks and is reported on 
+California black, coast live, interior live, and canyon live oak.
+
+Other leaf spotting fungi reported on native oaks in California include *Cercospora polytricha* on canyon live oak; *Colletotrichum gloeosporioides* on California black oak; *Cylindrosporium kelloggii* on coast live, California black, and Oregon white oak; *Dicarpella bina* on coast live oak; *Marssonina martinii* on blue and coast live oak; *Pseudomassaria agrifolia* on coast live oak; *Septoria dryina* on California black and possibly other oaks; and several other described fungi that may or may not be distinct from other species reported above.
+
+
+```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of anthracnose fungi (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+knitr::include_graphics("images/distributions/Tapcae.png")
+```
 
 
 #### Symptoms {-}
+
+Oak anthracnose is a term used to describe diseases caused by fungi that produce dark, pinpoint-sized asexual fruiting bodies and cause localized necrotic spots or lesions on leaves and young shoots (fig. 90, 91).  Some of these fungi may completely kill young leaves and twigs under certain conditions.  Dead leaves may remain attached to killed twigs.  *C. cinerescens* has been associated primarily with twig dieback (fig. 92).  Symptoms are usually scattered throughout the canopy, and can resemble those caused by twig boring insects.  *C. cinerescens* symptoms are reported to be more severe in twigs colonized by oak pit scale.  *S. quercicola* produces small, circular to angular necrotic leaf spots visible on both leaf surfaces.  It may cause defoliation if disease levels are severe.
+
+
+(ref:LfDis3A) Anthracnose symptoms on California black oak. Photo:  Bruce Hagen, CalFire, retired.
+
+```{r LfDis3A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis3A)"}
+knitr::include_graphics("images/Disease-leaftwig/APIOGNOMA B HAGEN.jpg")
+```
+
+
+(ref:LfDis3B) Anthracnose symptoms on coast live oak. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfDis3B, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis3B)"}
+knitr::include_graphics("images/Disease-leaftwig/LEAFSPOT 2 QW_Phytosphere.jpg")
+```
+
+
+(ref:LfDis2C) Branch dieback of coast live oak caused by *Cryptocline cinerescens*. Photo:  Bruce Hagen, CalFire, retired
+
+```{r LfDis2C, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis2C)"}
+knitr::include_graphics("images/Disease-leaftwig/CRYPTOCLINE B HAGEN.jpg")
+```
+
+
+(ref:LfDis2D) Branch dieback of coast live oak caused by *Cryptocline cinerescens*. Photo:  Bruce Hagen, CalFire, retired
+
+```{r LfDis2D, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis2D)"}
+knitr::include_graphics("images/Disease-leaftwig/CRYPTOCLINE3 B HAGEN.jpg")
+```
 
 
 
 #### Agent Description {-}
 
+The sexual stages of these anthracnose and leafspot fungi are in the Ascomycotina, which contains fungi that produce spores in microscopic saclike structures (asci).  For some anthracnose fungi (e.g., *C. cinerescens*) the sexual stage has not been observed.  Most anthracnose fungi produce asexual spores in acervuli (spore-bearing structures without distinct walls that arise beneath the epidermis) or in pycnidia (minute globose or flask-shaped fruiting bodies).  Active lesions usually show only asexual fruiting bodies.
+
+*A. errabunda* is the sexual stage of *D. umbrinella*.  Asci are formed in long-necked black perithecia (nearly globose or flask-shaped fruiting bodies) that are 130—440 μm in diameter.  Ascospores are colorless and have two unequal sized cells.
+
+*D. umbrinella* is the asexual stage of *A. errabunda* and forms acervuli in lesions on leaves, most commonly near major veins, or on dead twigs.  Acervuli on leaves appear as small (about 250 μm diameter) raised brown flecks.  On twigs they are orange-brown, turning dark with age.  Conidia (asexual spores) produced in acervuli are single celled, colorless, and elliptical (9—14 by 3.5—5 μm).  Microconidia half the size of these conidia are also produced. 
+
+*C. cinerescens* acervuli occur within discolored areas of leaves and twigs.  They are round in outline, approximately 100—180 μm in diameter and rupture through the epidermis and cuticle.  Acervuli appear black on twigs (fig. 93) and yellowish to light brown on leaves.  Conidia are elliptical to clavate with a truncate base, 10—25 by 3.5—5 μm, single-celled, clear, smooth-walled, and have internal oil droplets.
+
+*S. quercicola* produces small, black pycnidia that are embedded in host tissue within lesions.  Conidia have several cells, and are colorless and narrowly elongate to filiform (thread-like). 
 
 
 #### Biology {-}
+
+Symptom severity and appearance can vary with host, time of season, and weather.  Spores of anthracnose and leaf spot fungi are primarily dispersed by splashing and wind-blown rain.  Wet conditions are required for infection to occur.  Immature host tissue is most susceptible, so disease severity is greatest if rains occur during spring growth flushes.  Prolonged periods of rain throughout the spring provide the optimum conditions for disease development.  Because such weather patterns are uncommon in California, severe disease levels rarely develop. 
+
+For *A. errabunda/D. umbrinella*, perithecia of the sexual stage (*A. errabunda*) form in fallen leaves.  In cold winter areas, perithecia mature in spring and release ascospores during spring rains.  The fungus can also overwinter within lesions in infected twigs.  New infections occur when leaves and twigs remain wet for several hours.  Temperatures suitable for infection range from 15—27 C.  Wet conditions at 15—20 C are most favorable for infection and disease development.  Spores produced in acervuli initiate new infections and multiple disease cycles continue as long as moisture conditions are favorable.  Some acervuli produced on newly-infected tissue in spring do not produce mature spores until the following fall.
+
+*C. cinerescens* and *S. quercicola* have similar disease cycles but do not produce the sexual perithecial stage.  In *S. quercicola*, asexual spores are produced in pycnidia rather than acervuli.  
 
 
 
 #### Importance {-}
 
-
+Anthracnose and leafspot diseases are generally of minor importance to California native oaks, but can cause substantial amounts of defoliation and dieback in years with frequent and abundant rainfall that continues through late spring.  Unless several wet years occur in succession, long-term impacts of a severe disease year are minimal.
 
 #### Citation {-}
 
