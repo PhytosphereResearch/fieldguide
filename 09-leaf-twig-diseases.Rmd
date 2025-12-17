@@ -36,8 +36,8 @@
 Powdery mildews are widespread and occur on most oaks throughout California.  The taxonomy of the powdery mildews has undergone multiple revisions, with the most recent changes resulting in the rolling back of some previous name changes among those species affecting oaks. 
 
 
-```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of *Tubakia californica* (orange shading) and approximate range of native oak species (green).", out.width='30%'}
-knitr::include_graphics("images/distributions/Tapcae.png")
+```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of  powdery mildew  (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+knitr::include_graphics("images/distributions/statewide.png")
 ```
 
 
@@ -216,20 +216,25 @@ Other leaf spotting fungi reported on native oaks in California include *Cercosp
 
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of anthracnose fungi (orange shading) and approximate range of native oak species (green).", out.width='30%'}
-knitr::include_graphics("images/distributions/Tapcae.png")
+knitr::include_graphics("images/distributions/statewide.png")
 ```
 
 
 #### Symptoms {-}
 
-Oak anthracnose is a term used to describe diseases caused by fungi that produce dark, pinpoint-sized asexual fruiting bodies and cause localized necrotic spots or lesions on leaves and young shoots (fig. 90, 91).  Some of these fungi may completely kill young leaves and twigs under certain conditions.  Dead leaves may remain attached to killed twigs.  *C. cinerescens* has been associated primarily with twig dieback (fig. 92).  Symptoms are usually scattered throughout the canopy, and can resemble those caused by twig boring insects.  *C. cinerescens* symptoms are reported to be more severe in twigs colonized by oak pit scale.  *S. quercicola* produces small, circular to angular necrotic leaf spots visible on both leaf surfaces.  It may cause defoliation if disease levels are severe.
+Oak anthracnose is a term used to describe diseases caused by fungi that produce dark, pinpoint-sized asexual fruiting bodies and cause localized necrotic spots or lesions on leaves and young shoots (figure \@ref(fig:LfDis3AA), \@ref(fig:LfDis3B)).  Some of these fungi may completely kill young leaves and twigs under certain conditions.  Dead leaves may remain attached to killed twigs.  *C. cinerescens* has been associated primarily with twig dieback (figure \@ref(fig:LfDis3C)).  Symptoms are usually scattered throughout the canopy, and can resemble those caused by twig boring insects.  *C. cinerescens* symptoms are reported to be more severe in twigs colonized by oak pit scale.  *S. quercicola* produces small, circular to angular necrotic leaf spots visible on both leaf surfaces.  It may cause defoliation if disease levels are severe.
 
 
-(ref:LfDis3A) Anthracnose symptoms on California black oak. Photo:  Bruce Hagen, CalFire, retired.
+(ref:LfDis3AA) Anthracnose symptoms on California black oak. Photo:  Bruce Hagen, CalFire, retired.
 
-```{r LfDis3A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis3A)"}
+```{r LfDis3AA, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis3AA)"}
 knitr::include_graphics("images/Disease-leaftwig/APIOGNOMA B HAGEN.jpg")
 ```
+
+
+
+
+
 
 
 (ref:LfDis3B) Anthracnose symptoms on coast live oak. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
@@ -239,18 +244,14 @@ knitr::include_graphics("images/Disease-leaftwig/LEAFSPOT 2 QW_Phytosphere.jpg")
 ```
 
 
-(ref:LfDis2C) Branch dieback of coast live oak caused by *Cryptocline cinerescens*. Photo:  Bruce Hagen, CalFire, retired
 
-```{r LfDis2C, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis2C)"}
+
+(ref:LfDis3C) Branch dieback of coast live oak caused by *Cryptocline cinerescens*. Photo:  Bruce Hagen, CalFire, retired.
+
+```{r LfDis3C, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis3C)"}
 knitr::include_graphics("images/Disease-leaftwig/CRYPTOCLINE B HAGEN.jpg")
 ```
 
-
-(ref:LfDis2D) Branch dieback of coast live oak caused by *Cryptocline cinerescens*. Photo:  Bruce Hagen, CalFire, retired
-
-```{r LfDis2D, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis2D)"}
-knitr::include_graphics("images/Disease-leaftwig/CRYPTOCLINE3 B HAGEN.jpg")
-```
 
 
 
@@ -262,7 +263,18 @@ The sexual stages of these anthracnose and leafspot fungi are in the Ascomycotin
 
 *D. umbrinella* is the asexual stage of *A. errabunda* and forms acervuli in lesions on leaves, most commonly near major veins, or on dead twigs.  Acervuli on leaves appear as small (about 250 μm diameter) raised brown flecks.  On twigs they are orange-brown, turning dark with age.  Conidia (asexual spores) produced in acervuli are single celled, colorless, and elliptical (9—14 by 3.5—5 μm).  Microconidia half the size of these conidia are also produced. 
 
-*C. cinerescens* acervuli occur within discolored areas of leaves and twigs.  They are round in outline, approximately 100—180 μm in diameter and rupture through the epidermis and cuticle.  Acervuli appear black on twigs (fig. 93) and yellowish to light brown on leaves.  Conidia are elliptical to clavate with a truncate base, 10—25 by 3.5—5 μm, single-celled, clear, smooth-walled, and have internal oil droplets.
+*C. cinerescens* acervuli occur within discolored areas of leaves and twigs.  They are round in outline, approximately 100—180 μm in diameter and rupture through the epidermis and cuticle.  Acervuli appear black on twigs (figure \@ref(fig:LfDis3D) and yellowish to light brown on leaves.  Conidia are elliptical to clavate with a truncate base, 10—25 by 3.5—5 μm, single-celled, clear, smooth-walled, and have internal oil droplets.
+
+
+(ref:LfDis3D) Branch dieback of coast live oak caused by *Cryptocline cinerescens*. Photo:  Bruce Hagen, CalFire, retired
+
+```{r LfDis3D, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis3D)"}
+knitr::include_graphics("images/Disease-leaftwig/CRYPTOCLINE3 B HAGEN.jpg")
+```
+
+
+
+
 
 *S. quercicola* produces small, black pycnidia that are embedded in host tissue within lesions.  Conidia have several cells, and are colorless and narrowly elongate to filiform (thread-like). 
 

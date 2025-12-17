@@ -98,23 +98,52 @@
 
 #### Distribution / Hosts {-}
 
+*Diplodia quercina* has been reported only from oaks in California and Europe.  In California, it has been reported to occur on coast live, valley, and California black oak.
+
+
+```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of *Diplodia quercina* branch canker (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+knitr::include_graphics("images/distributions/diplodia map.gif")
+```
 
 
 #### Symptoms {-}
 
+Infections are normally found on branches up to 10 cm in diameter.  The fungus can girdle infected branches causing leaves beyond the point of infection to wilt and die.  Affected trees show discrete dead branches in the crown  (figure \@ref(fig:BrDis3A), \@ref(fig:BrDis4A)) as opposed to the widely scattered twig dieback caused by anthracnose/twig blight fungi.  Infections cause extensive dark brown discoloration of the wood.  The border between discolored and healthy tissue is generally well-defined  (figure \@ref(fig:BrDis5A)).  Fruiting bodies emerge from the bark, causing a roughened appearance. 
+
+(ref:BrDis3A) Dead branches on California black oak due to Diplodia canker. Photo:  Larry Costello, UCCE, retired. 
+
+```{r BrDis3A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis3A)"}
+knitr::include_graphics("images/Disease-branch/DIPLODIAMARIN_LCOSTELLO_1985blackoak.jpg")
+```
+
+(ref:BrDis4A) Dead branches on  coast live oak due to Diplodia canker. Photo:  Larry Costello, UCCE, retired. 
+
+```{r BrDis4A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis4A)"}
+knitr::include_graphics("images/Disease-branch/DIPLODIASanMateCOUNTY_LCOSTELLO_1982.jpg")
+```
+
+
+(ref:BrDis5A) Diplodia canker on an artificially inoculated, greenhouse-grown coast live oak seedling Photo:  Steve Koike, UCCE, retired.
+ 
+
+```{r BrDis5A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis5A)"}
+knitr::include_graphics("images/Disease-branch/Diplodia_Oak_3_Koike.jpg")
+```
 
 
 #### Agent Description {-}
 
-
+*Diplodia quercina* produces tiny flask-shaped asexual fruiting bodies (pycnidia).  On branches with bark, pycnidia are in black masses of fungal tissue (stromata).  Pycnidia also occur singly on the surface of wood that has lost its bark.  Asexual spores (conidia) are about 30 by 15 μm or larger.  Conidia are initially one-celled and colorless but become dark with one or more cross walls (septae).  The sexual stage of *D. quercina* is reported to be *Botryosphaeria stevensii*, but this stage has not been reported on oaks in California.
 
 #### Biology {-}
 
+The fungus may enter branches through wounds and possibly natural openings such as leaf scars.  The fungus can only be recovered from within a few centimeters of the infection point even though discoloration may extend 0.6 — 1 m further (Hecht-Poinar and others 1987, Costello and others 1989).  In artificial inoculations, asexual fruiting bodies are produced within 24 weeks and continue to produce spores for about two years.  Spore production and germination are favored by moisture.
+Drought stress may predispose trees to infection.  The disease became widespread following the extreme drought of 1976—1977.  
 
 
 #### Importance {-}
 
-
+Historically, this disease has been commonly reported only after severe drought conditions and is not a widespread problem in most years.  Drought-stressed trees with wounded branches are most likely to be affected.
 
 #### Citation {-}
 
@@ -295,26 +324,54 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Canker rots. In Swiecki, T.J., et al. (Eds.
 
 ## Orange hobnail canker {-}
 
-### *Cryphonectria gyrosa* {-}
+### *Endothia gyrosa* {-}
 
 
 #### Distribution / Hosts {-}
+
+*Endothia gyrosa* has been reported on coast live oak in the San Francisco Bay Area but may also occur on other oaks and in other areas.  It has also been observed on tanoaks in coastal Sonoma County.  This pathogen is widespread in the eastern U.S. and the southeast from Virginia to Texas, where it occurs on many hardwood trees, including oaks, beech, sweetgum, American elm, and American chestnut.  Oak hosts are primarily in the red/black oak subgroup and include eastern black, cork, English, southern live, pin, post, northern red, southern red, scarlet, water, and willow oak.  The fungus is also reported from Europe, Asia, and New Zealand.
+
+
+```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of orange hobnail canker (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+knitr::include_graphics("images/distributions/Chryphonectira map.gif")
+```
 
 
 
 #### Symptoms {-}
 
+The fungus causes somewhat sunken, slowly expanding cankers which may girdle and kill branches and trunks of trees under stress.  Cankers sometimes extend from smaller branches to the larger parent branch.  Small (1—2 mm diameter), cushion-shaped masses of fungal tissue containing fruiting structures (stromata) erupt from the bark of killed stems (figure \@ref(fig:BrDis1A)).  Stromata are initially bright orange but become cinnamon brown with age.  Stromata remain bright orange internally and release a beet-red pigment when wetted with a solution of potassium hydroxide (figure \@ref(fig:BrDis2A)).  The common name, hobnail canker, refers to the masses of rounded, bumpy stromata that appear on affected stems.
+
+
+(ref:BrDis1A) *Endothia gyrosa* stromata on coast live oak. Photo: Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+
+```{r BrDis1A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis1A)"}
+knitr::include_graphics("images/Disease-branch/endothia gyrosa 10-13-04c_Phytosphere.jpg")
+```
+
+
+
+(ref:BrDis2A) Close-up of *Endothia gyrosa* stromata.  At right is a slide mount of stromata in a solution of potassium hydroxide, showing the characteristic release of red pigment. Photo: Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+
+```{r BrDis2A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis2A)"}
+knitr::include_graphics("images/Disease-branch/ENDOTHIA GYROSA_Phytosphere.jpg")
+```
 
 
 #### Agent Description {-}
 
-
+Stromata that emerge from killed bark initially produce asexual spores (conidia) in irregular chambers.  Conidia of the asexual stage (*Endothiella gyrosa*) are colorless, straight to somewhat curved rods that are 3—4 by 0.75—1.5 μm.  Flask-shaped sexual fruiting structures (perithecia) are produced in the stromata late in the season.  Perithecia are 150—300 μm in diameter, with elongate necks that protrude slightly above the surface of the stroma.  Sexual spores (ascospores) are produced in saclike structures (asci) within the perithecia.  The one-celled, curved ascospores are 7—11 by 1—3 μm.
 
 #### Biology {-}
 
-
+The biology of this fungus in California has not been studied.  The fungus is reported to infect through wounds, such as those which form naturally through branch breakage, or through pruning cuts or other mechanical wounds.  Moisture favors dispersal of spores, so presumably most infections occur during the rainy season.  Asexual spores are most likely spread by rain splash, and possibly by insects or pruning tools.  Ascospores are probably wind-dispersed.  On many hosts, canker expansion occurs most rapidly on drought stressed trees during summer months.
 
 #### Importance {-}
+
+On coast live oak, *E. gyrosa* is typically a branch pathogen, often affecting suppressed or wounded branches.
+
+
+
 
 
 
@@ -444,28 +501,59 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. *Phellinus gilvus*. In Swiecki, T.J., et al
 
 ### Oak mistletoe  {-}
 
-#### *Phoradendron villosum* {-}
+#### *Phoradendron leucarpum* ssp. *tomentosum* {-}
 
 
 #### Distribution / Hosts {-}
 
+Oak mistletoe occurs from northwestern Oregon, throughout California, and into Mexico.  Reported oak hosts in California include valley, blue, Oregon white, coast live, interior live, canyon live, and California black oak.  *Phoradendron leucarpum* spp. *tomentosum* prefers oaks as a host but is also found on some other hardwoods, including California bay, manzanita, *Adenostoma*, and *Rhus*.  The related *P. leucarpum* ssp. *macrophyllum* (big-leaf mistletoe) attacks other hardwoods such as alder, ash, walnut, sycamore, cottonwood, mesquite, locust, and willow, but not oaks.
+
+
+```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of oak mistletoe (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+knitr::include_graphics("images/distributions/statewide.png")
+```
 
 
 #### Symptoms {-}
 
+Oak mistletoe forms spherical to ellipsoidal clumps of light green leafy shoots that emerge from oak branches.  The oak branch is slightly to significantly swollen at the point where clusters of mistletoe shoots emerge.  Over time, the portion of the oak branch beyond the mistletoe clump may decline and die.  Clumps of oak mistletoe are often located in the upper portion of oak canopies (figure \@ref(fig:BrDis6A)).  Mistletoe infections tend to be clustered and multiple clumps commonly occur in individual trees or in groups of adjacent trees.
+
+
+(ref:BrDis6A) Oak mistletoe clumps in the upper canopy of a dormant blue oak.  Mistletoe infestations are most obvious in deciduous oaks during the winter. Photo: 
+ 
+```{r BrDis6A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis6A)"}
+knitr::include_graphics("images/Disease-branch/mistletoe_PICT0010_Phytosphere.jpg")
+```
 
 
 #### Agent Description {-}
 
+*P. leucarpum* ssp. *tomentosum* plants are evergreen with thick obovate-elliptic leaves that are 1.5—4.7 cm long by 1—2.5 cm wide (figure \@ref(fig:BrDis7A).  The leaves and young stems are covered with whitish or yellowish hairs, but older stems are hairless (glabrous).  Branches are generally erect, although longer stems, which can be up to 1 m long, may become pendulous under the weight of the foliage.  Flowers are present between July and September with male and female flowers occurring on separate plants.  Fruit are globose, 3—4 mm in diameter, pinkish white, and have short hairs near the tip.
 
+
+(ref:BrDis7A) Shoots and leaves of oak mistletoe, showing inflorescences in leaf axils.  A few pinkish white mistletoe fruit are visible in the lower half of the photo. Photo: 
+ 
+```{r BrDis7A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis7A)"}
+knitr::include_graphics("images/Disease-branch/mistletoe_PICT0013_Phytosphere.jpg")
+```
 
 #### Biology {-}
 
+Oak mistletoe fruit mature in early winter.  The fruit are eaten by various birds, including robins, bluebirds, thrushes, and cedar waxwings.  Seeds in consumed fruit pass quickly through birds’ digestive systems and are defecated onto the source tree or nearby trees (figure \@ref(fig:BrDis8A).  Seeds are coated with a sticky fluid which helps them adhere to bark surfaces.  Wet conditions favor seed germination.  Germinating seeds produce a root-like structure that grows along the bark surface to a point where it produces a specialized structure (haustorium) that penetrates into the bark.  Within the host branch, the mistletoe plant forms connections between its own phloem and xylem cells and those of the host.  The connections allow the mistletoe plant to absorb water and nutrients from its host.  One or more years may elapse between infection of the host stem and the emergence of green mistletoe shoots.  Although dependent on the host oak for water and mineral nutrients, leafy mistletoe plants meet all of their carbon-based energy and nutritional needs through their own photosynthesis.  Mistletoe plants are perennial and generally live until the branch of the host on which they are situated dies.
+
+
+
+(ref:BrDis8A) Clump of oak mistletoe seeds deposited via bird droppings on an oak branch.
+
+ 
+```{r BrDis8A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis8A)"}
+knitr::include_graphics("images/Disease-branch/MISTLETOE SEEDS Phytosphere.jpg")
+```
 
 
 #### Importance {-}
 
-
+Leafy mistletoe usually has little impact on healthy oaks, although it may be unsightly in urban settings.  Swellings on stems may serve as points of entry for wood decay fungi.  *P. leucarpum* ssp. *tomentosum* uses water at a higher rate than its host oaks.  Oaks with heavy mistletoe infestations may therefore deplete available soil moisture reserves earlier in the season.  Earlier and/or more severe water stress levels related to heavy mistletoe infestations can lead to early defoliation in deciduous oaks and may contribute to decline in some trees.
 
 #### Citation {-}
 
