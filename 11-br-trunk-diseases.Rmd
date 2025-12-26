@@ -610,6 +610,93 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Orange hobnail canker. In Swiecki, T.J., et
 
 ## Other wood decay fungi {-}
 
+
+
+### *Fomitiporia robusta* (formerly Phellinus robustus) {-}
+
+
+#### Distribution / Hosts {-}
+
+*Fomitiporia robusta* (formerly *Phellinus robustus*) is found across the northern hemisphere in forests which contain oaks. Recent genetic work suggests isolates from the U.S.A. do not match those from Europ (Ref).  Nonetheless, because we have not been able to find a publication with a new suggested species epithet for California isolates from oaks we will continue to use the name *F. robusta* in this publication.  In California, *F. robusta* has been observed on coast live and interior live oak, and probably occurs on other species as well.  
+
+```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of *Fomitiporia robusta* (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+knitr::include_graphics("images/distributions/M scutellare.gif")
+```
+
+
+
+#### Symptoms {-}
+
+ *F. robustus* causes a white rot of the trunk and large woody roots of living oaks.  Infections on the trunk or large branches may be associated with canker rot symptoms.  *P. robustus* decay is also associated with stem failure and tree decline. 
+
+#### Agent Description {-}
+Fruiting bodies (basidiocarps) are produced at the base of the tree or higher up the stem (figure \@ref(fig:TrDis1D),  \@ref(fig:TrDis2D)).  They are hoof-like, perennial, very hard, often massive (up to 20 cm wide and 11 cm thick), and usually in clusters.  The upper surface is brown to blackish, concentrically zonate, irregularly cracked, and lacks hairs.  The lower surface is covered with fine circular pores (7—9 per mm) and is yellowish to grayish brown.
+
+
+(ref:TrDis1D) *Fomitiporia robusta* basidiocarps high on the trunk of this coast live oak are associated with a trunk cavity and canker rot symptoms.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+
+```{r TrDis1D, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis1D)"}
+knitr::include_graphics("images/Disease-trunk/FomRob_loc2 11-12-02 Phellinus Qa 2_Phytosphere.jpg")
+```
+
+
+(ref:TrDis2D) *Fomitiporia robusta* basidiocarps at the base of a coast live oak.    Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+
+
+```{r TrDis2D, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis2D)"}
+knitr::include_graphics("images/Disease-trunk/FomRob_Phellinus robustus no spores QD Rockville Park Dec 8 2003 g_Phytosphere.jpg")
+```
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. *Fomitiporia robusta*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+ 
+
+### *Fuscoporia gilva* (formerly *Phellinus gilvus*) {-}
+
+
+#### Distribution / Hosts {-}
+
+In California, *Fuscoporia gilva* occurs on coast live, California black, and blue oak and probably other oaks.  It is found on oaks and many other hardwoods throughout much of the U.S.  It decays both living and dead trees, causing a uniform white rot.  In California oaks, *F. gilva* usually colonizes dead wood and severely declining stems.  It is also often found on  coast live and California black oak with advanced symptoms of *Phytophthora ramorum* canker, where it can cause extensive sapwood decay and is associated with an increased likelihood of branch and trunk failures.  *F. gilva* fruiting bodies (basidiocarps) are shelf-like, 5—15 cm wide, 1.5—3 cm thick, corky, annual or perennial, and solitary or in overlapping clusters (figure \@ref(fig:TrDis1C), \@ref(fig:TrDis2C)).  The upper surface is generally dark yellowish brown but is variable in appearance and may be wrinkled, woolly, and/or zonate.  The lower surface is covered with minute round pores (6—8 per mm) and is initially buff-colored becoming dark purplish brown at maturity.  The pores are white within.
+
+
+```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of *Fuscoporia gilva* (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+knitr::include_graphics("images/distributions/statewide.png")
+```
+
+
+
+#### Symptoms {-}
+
+*F. gilva* decays both living and dead trees, causing a uniform white rot.  In California oaks, it  usually colonizes dead wood and severely declining stems.  It is also often found on  coast live and California black oak with advanced symptoms of *Phytophthora ramorum* canker, where it can cause extensive sapwood decay and is associated with an increased likelihood of branch and trunk failures.
+
+#### Agent Description {-}
+
+*F. gilva* fruiting bodies (basidiocarps) are shelf-like, 5—15 cm wide, 1.5—3 cm thick, corky, annual or perennial, and solitary or in overlapping clusters (figure \@ref(fig:TrDis1C), \@ref(fig:TrDis2C)).  The upper surface is generally dark yellowish brown but is variable in appearance and may be wrinkled, woolly, and/or zonate.  The lower surface is covered with minute round pores (6—8 per mm) and is initially buff-colored becoming dark purplish brown at maturity.  The pores are white within.
+
+
+(ref:TrDis1C) *Fuscoporia gilva* and *Annulohypoxylon thouarsianum* (black stromata on right) fruiting on failed coast live oak.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+
+```{r TrDis1C, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis1C)"}
+knitr::include_graphics("images/Disease-trunk/FusGil_5X346 12-11-02 p gilvus c_Phytosphere.jpg")
+```
+
+
+(ref:TrDis2C) Close-up of *Fuscoporia gilva* basidiocarp on coast live oak showing light pore surface.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+
+```{r TrDis2C, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis2C)"}
+knitr::include_graphics("images/Disease-trunk/FusGil_8-212-4 fail 10-9-03 P gilvus a_Phytosphere.jpg")
+```
+
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2025. *Fuscoporia gilva*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+
+
+
 ### Hedgehog fungus {-}
 
 #### *Hericium erinaceus* {-}
@@ -666,7 +753,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Hedgehog fungus. In Swiecki, T.J., et al. (
 
 #### Distribution / Hosts {-}
 
-The taxonomy of this fungus in North America was revised by Burdsall and Banick (2001).  Fungi previously described as *Laetiporus sulphureus* in the Pacific Coast and southwestern states have been renamed *L. gilbertsonii* if they occur on hardwoods and *L. conifericola* if they occur on conifers.  In California, *L. gilbertsonii* has been observed on blue, valley, California black, coast live, interior live, and canyon live oak, as well as eucalyptus, *Prunus*, and probably other hardwoods.
+The taxonomy of this fungus in North America was revised by [@burdsall2001].  Fungi previously described as *Laetiporus sulphureus* in the Pacific Coast and southwestern states have been renamed *L. gilbertsonii* if they occur on hardwoods and *L. conifericola* if they occur on conifers.  In California, *L. gilbertsonii* has been observed on blue, valley, California black, coast live, interior live, and canyon live oak, as well as eucalyptus, *Prunus*, and probably other hardwoods.
 
 
 
@@ -727,84 +814,6 @@ Basidiocarps are formed in the fall months, often before the first fall rains, a
 #### Citation {-}
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Western sulfur shelf fungus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
-
-
-### *Fomitiporia robusta* (formerly Phellinus robustus) {-}
-
-
-#### Distribution / Hosts {-}
-
-*Fomitiporia robusta* (formerly *Phellinus robustus*) is found across the northern hemisphere in forests which contain oaks. Recent genetic work suggests isolates from the U.S.A. do not match those from Europ (Ref).  Nonetheless, because we have not been able to find a publication with a new suggested species epithet for California isolates from oaks we will continue to use the name *F. robusta* in this publication.  In California, *F. robusta* has been observed on coast live and interior live oak, and probably occurs on other species as well.  
-
-```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of *Fomitiporia robusta* (orange shading) and approximate range of native oak species (green).", out.width='30%'}
-knitr::include_graphics("images/distributions/M scutellare.gif")
-```
-
-
-
-#### Symptoms {-}
-
- *F. robustus* causes a white rot of the trunk and large woody roots of living oaks.  Infections on the trunk or large branches may be associated with canker rot symptoms.  *P. robustus* decay is also associated with stem failure and tree decline. 
-
-#### Agent Description {-}
-Fruiting bodies (basidiocarps) are produced at the base of the tree or higher up the stem (figure \@ref(fig:TrDis1D),  \@ref(fig:TrDis2D)).  They are hoof-like, perennial, very hard, often massive (up to 20 cm wide and 11 cm thick), and usually in clusters.  The upper surface is brown to blackish, concentrically zonate, irregularly cracked, and lacks hairs.  The lower surface is covered with fine circular pores (7—9 per mm) and is yellowish to grayish brown.
-
-
-(ref:TrDis1D) *Fomitiporia robusta* basidiocarps high on the trunk of this coast live oak are associated with a trunk cavity and canker rot symptoms.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
-
-```{r TrDis1D, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis1D)"}
-knitr::include_graphics("images/Disease-trunk/FomRob_loc2 11-12-02 Phellinus Qa 2_Phytosphere.jpg")
-```
-
-
-(ref:TrDis2D) *Fomitiporia robusta* basidiocarps at the base of a coast live oak.    Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
-
-
-```{r TrDis2D, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis2D)"}
-knitr::include_graphics("images/Disease-trunk/FomRob_Phellinus robustus no spores QD Rockville Park Dec 8 2003 g_Phytosphere.jpg")
-```
-
-
-#### Citation {-}
-
-Swiecki, T.J.; Bernhardt, E.A. 2025. *Fomitiporia robusta*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
-
- 
-
-### *Fuscoporia gilva* (formerly *Phellinus gilvus*) {-}
-
-
-#### Distribution / Hosts {-}
-
-In California, *Fuscoporia gilva* occurs on coast live, California black, and blue oak and probably other oaks.  It is found on oaks and many other hardwoods throughout much of the U.S.  It decays both living and dead trees, causing a uniform white rot.  In California oaks, *F. gilva* usually colonizes dead wood and severely declining stems.  It is also often found on  coast live and California black oak with advanced symptoms of *Phytophthora ramorum* canker, where it can cause extensive sapwood decay and is associated with an increased likelihood of branch and trunk failures.  *F. gilva* fruiting bodies (basidiocarps) are shelf-like, 5—15 cm wide, 1.5—3 cm thick, corky, annual or perennial, and solitary or in overlapping clusters (figure \@ref(fig:TrDis1C), \@ref(fig:TrDis2C)).  The upper surface is generally dark yellowish brown but is variable in appearance and may be wrinkled, woolly, and/or zonate.  The lower surface is covered with minute round pores (6—8 per mm) and is initially buff-colored becoming dark purplish brown at maturity.  The pores are white within.
-
-#### Symptoms {-}
-
-*F. gilva* decays both living and dead trees, causing a uniform white rot.  In California oaks, it  usually colonizes dead wood and severely declining stems.  It is also often found on  coast live and California black oak with advanced symptoms of *Phytophthora ramorum* canker, where it can cause extensive sapwood decay and is associated with an increased likelihood of branch and trunk failures.
-
-#### Agent Description {-}
-
-*F. gilva* fruiting bodies (basidiocarps) are shelf-like, 5—15 cm wide, 1.5—3 cm thick, corky, annual or perennial, and solitary or in overlapping clusters (figure \@ref(fig:TrDis1C), \@ref(fig:TrDis2C)).  The upper surface is generally dark yellowish brown but is variable in appearance and may be wrinkled, woolly, and/or zonate.  The lower surface is covered with minute round pores (6—8 per mm) and is initially buff-colored becoming dark purplish brown at maturity.  The pores are white within.
-
-
-
-(ref:TrDis1C) *Fuscoporia gilva* and *Annulohypoxylon thouarsianum* (black stromata on right) fruiting on failed coast live oak.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
-
-```{r TrDis1C, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis1C)"}
-knitr::include_graphics("images/Disease-trunk/FusGil_5X346 12-11-02 p gilvus c_Phytosphere.jpg")
-```
-
-
-(ref:TrDis2C) Close-up of *Fuscoporia gilva* basidiocarp on coast live oak showing light pore surface.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
-
-```{r TrDis2C, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis2C)"}
-knitr::include_graphics("images/Disease-trunk/FusGil_8-212-4 fail 10-9-03 P gilvus a_Phytosphere.jpg")
-```
-
-
-#### Citation {-}
-
-Swiecki, T.J.; Bernhardt, E.A. 2025. *Phellinus gilvus*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ## Parasitic vascular plants {-}
 

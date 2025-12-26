@@ -8,9 +8,11 @@
 
 The California oakworm is generally found in coastal areas from Del Norte to San Diego County, and inland to near Riverside in the south and Davis in the north. It occurs on most oak species present within its range, as well as on tanoak.
 
-```{r, fig.align='center', fig.asp=.75, fig.cap="California oakworm range", out.width='30%'}
-knitr::include_graphics("images/distributions/oakworm.GIF")
+
+```{r, fig.align='center', fig.asp=.75, fig.cap="Counties with known detections of California oak worm (orange shading) and native oak species (green) in California.", out.width='30%'}
+knitr::include_graphics("images/distributions/Phrcal.png")
 ```
+
 
 #### Symptoms {-}
 

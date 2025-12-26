@@ -14,7 +14,7 @@ link-citations: yes
 github-repo: 
 ---
 
-#  {-}
+# Preface {-}
 
 ## Authors / Editors {- #frontmatter} 
 The original 2006 version of this document (PSW-GTR-197) was written by Tedmund J. Swiecki and Elizabeth A. Bernhardt. This online version is an ongoing project involving the work of multiple authors and editors listed below.
@@ -31,7 +31,9 @@ Financial support for the production of this publication was provided by the US 
 
 The photographs and illustrations in this publication are under copyright by the photographers or illustrators and may not be reproduced in any form without obtaining permission in writing from them.
 
+##Citation {-}
 
+Swiecki, T.J., Bernhardt, E.A. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 
 
