@@ -13,8 +13,8 @@ Drippy nut is reported on both coast live and interior live oak.  The disease ma
 
 
 
-```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of *Tubakia californica* (orange shading) and approximate range of native oak species (green).", out.width='30%'}
-knitr::include_graphics("images/distributions/drippynutmap.gif")
+```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of *Lonsdalea quercina quercina* (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+knitr::include_graphics("images/distributions/Lonque.png")
 ```
 
 
