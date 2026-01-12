@@ -1,6 +1,6 @@
 delete_merged_file: true
 bibliography: book.bib
-csl: cse-name-year.csl
+csl: 
 cover-image:
 language:
   ui:

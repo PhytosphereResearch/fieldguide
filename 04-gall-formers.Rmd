@@ -2,23 +2,23 @@
 
 ## Erineum mite  {-}
 
-### *Eriophyes mackiei* (Eriophyidae) {-}
+### *Aceria* (=*Eriophyes*) *mackiei* (Eriophyidae) {-}
 
 #### Distribution / Hosts {-}
 
-*Eriophyes mackiei* is distributed through much of California.  It is reported on evergreen oaks in the red/black oak subgroup (coast live and interior live oak) and intermediate oak subgroup (canyon live and huckleberry oak).
+*Eriophyes mackiei* is distributed through much of California.  It is reported on evergreen oaks in the black/red oak subgroup (coast live and interior live oak) and  the intermediate oak subgroup (canyon live and huckleberry oak).
 
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of Erineum mite (orange shading) and native oak species (green) in California.", out.width='30%'}
-knitr::include_graphics("images/distributions/Eriophyesmackei.GIF")
+knitr::include_graphics("images/distributions/Acemac.png")
 ```
 
 
 #### Symptoms {-}
 
-The mites cause blisterlike swellings, 1—12 mm long, that protrude from the upper leaf surface (figure  \@ref(fig:LfGalls1A)). On the lower leaf surface, the blisters appear as depressions filled with mats of rusty brown hairs (erinea).  The blisters are initially green but later become brown. Leaves may become distorted if large populations of mites are present.
+The mites cause blisterlike swellings (erinea), 1—12 mm long, that protrude from the upper leaf surface (figure  \@ref(fig:LfGalls1A)). On the lower leaf surface, the blisters appear as depressions or pockets filled with mats of hairs that are typically rusty brown but may be lighter in color or have a reddish tinge. The blisters are initially green but later become brown. Leaves may become distorted if large populations of mites are present. A related species, *Aceria paramackiei*, causes a witches broom type of galling of coast live oak buds, resulting in tightly packed heads of multiple buds. 
 
-(ref:LfGalls1A) Symptoms of erineum mite on coast live oak. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:LfGalls1A) Symptoms of erineum mite on coast live oak. Raised blisters on the leaf upper surface appear as hair-filled pockets on the lower leaf surface.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfGalls1A, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls1A)", out.width="75%"}
 knitr::include_graphics("images/Insect-galls/EriMac-QA Sonoma county Nov 1988_Phytosphere.jpg")
@@ -26,23 +26,46 @@ knitr::include_graphics("images/Insect-galls/EriMac-QA Sonoma county Nov 1988_Ph
 
 #### Agent Description {-}
 
-Mites are 0.2 mm long and difficult to see without magnification. They are whitish or yellowish , slender and wormlike, and have two pairs of legs. 
+Mites are 0.2 mm long and difficult to see without magnification. They are whitish or yellowish, slender and wormlike, and have two pairs of legs. 
 
 #### Biology {-}
 
-Erineum mites overwinter in leaf blisters or in leaf buds.  They establish new colonies on the underside of spring foliage.  The mites induce the host leaf to produce the characteristic erinea in the blisterlike depressions that form on the underside of leaves.  Mites feed and reproduce within the blisters
+Erineum mites overwinter in leaf blisters or in leaf buds. They establish new colonies on the underside of spring foliage. The mites induce the host leaf to produce the characteristic erinea, which are pockets on the underside of leaves that appear as blisters on the upper leaf surface. Mites feed and among the hairs in the erinea.
 
 #### Importance {-}
 
-The damage caused by erineum mites is generally limited and of little or no consequence to affected trees.
+The damage caused by erineum mites is generally limited and of little or no consequence to affected trees, though some leaves may become highly distorted.
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Erineum mite. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2026. Erineum mite. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Gall wasps {-}
 
-### Over 100 species in about 20 genera including *Andricus*, *Antron*, *Callirhytis*, *Disholcaspis*, *Dros*, *Neuroterus* (Cynipidae) {-}
+### Two-horned oak gall wasp
+
+#### *Dryocosmus dubiosus* (Cynipidae) {-}
+
+#### Distribution / Hosts {-}
+
+
+#### Symptoms {-}
+
+#### Agent Description {-}
+
+#### Biology {-}
+
+#### Importance {-}
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2026. Two-horned oak gall wasp, In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
+
+
+
+### Oak gall wasps
+
+#### Over 100 species in about 20 genera including *Andricus*, *Antron*, *Callirhytis*, *Disholcaspis*, *Dros*, *Neuroterus* (Cynipidae) {-}
 
 #### Distribution / Hosts {-}
 
@@ -110,5 +133,5 @@ Most wasp galls, especially foliar galls, cause little or no lasting damage to o
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Gall wasps. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Gall wasps. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 

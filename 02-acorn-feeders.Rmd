@@ -49,7 +49,7 @@ Severely damaged acorns are unable to sprout. Acorns without damage near the emb
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Filbert weevils. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Filbert weevils. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Filbertworm {#Filbertworm .unnumbered}
 
@@ -94,4 +94,4 @@ Heavily damaged acorns are unable to sprout. Acorns without damage near the embr
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Filbertworm. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Filbertworm. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
