@@ -55,3 +55,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# thumb.db files in images
+Thumbs.db
