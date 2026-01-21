@@ -42,26 +42,6 @@ Swiecki, T.J.; Bernhardt, E.A. 2026. Erineum mite. In Swiecki, T.J., et al. (Eds
 
 ## Gall wasps {-}
 
-### Two-horned oak gall wasp
-
-#### *Dryocosmus dubiosus* (Cynipidae) {-}
-
-#### Distribution / Hosts {-}
-
-
-#### Symptoms {-}
-
-#### Agent Description {-}
-
-#### Biology {-}
-
-#### Importance {-}
-
-#### Citation {-}
-
-Swiecki, T.J.; Bernhardt, E.A. 2026. Two-horned oak gall wasp, In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
-
-
 
 ### Oak gall wasps
 
@@ -69,52 +49,60 @@ Swiecki, T.J.; Bernhardt, E.A. 2026. Two-horned oak gall wasp, In Swiecki, T.J.,
 
 #### Distribution / Hosts {-}
 
-Many gall wasp species are found throughout the range of their hosts, whereas others are more limited in distribution.  Virtually all native California oak species are hosts to one or more gall wasp species.  Most gall wasp species can colonize several to many oak species within a given subgroup such as the white oaks, red/black oaks, or intermediate oaks.  *Andricus californicus*, the California gallfly, produces galls known as oak apples on at least eight species in the white oak subgroup (figure  \@ref(fig:LfGalls2)).  Others, such as *Andricus chrysobalani*, which causes galls on canyon live oak acorns, are reported only from a single host species.
+Many gall wasp species are found throughout the range of their hosts, whereas others are more limited in distribution.  Virtually all native California oak species are hosts to one or more gall wasp species.  Most gall wasp species can colonize several to many oak species within a given subgroup such as the white oaks, red/black oaks, or intermediate oaks.  *Andricus quercuscalifornicus*, the California gallfly, produces galls known as oak apples on at least eight species in the white oak subgroup (figure  \@ref(fig:LfGalls2)).  Others, such as *Andricus chrysobalani*, which causes galls on canyon live oak acorns, are reported only from a single host species.
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of wasps  (orange shading) and native oak species (green) in California.", out.width='30%'}
 knitr::include_graphics("images/distributions/statewide.png")
 ```
 
-(ref:LfGalls2) Oak apple galls on valley oak produced by *Andricus californicus*. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:LfGalls2) Oak apple galls on valley oak produced by *Andricus quercuscalifornicus*. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfGalls2, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls2)", out.width="75%"}
 knitr::include_graphics("images/Insect-galls/AndCal-QL_Andricus-californicus_Phytosphere.JPG")
 ```
 
-(ref:LfGalls3) *Andricus crystallinus* galls on blue oak leaves. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:LfGalls3) Agamic generation galls of *Feron* (=*Andricus*) *crystallinus* on blue oak leaf. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfGalls3, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls3)", out.width="75%"}
 knitr::include_graphics("images/Insect-galls/AndCry-QD_Andricus crystallinus QUDO_Phytosphere.JPG")
 ```
 
-(ref:LfGalls4) *Andricus fullawayi* galls on leaves of valley oak. Photo: Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
-```{r LfGalls4, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls4)", out.width="75%"}
-knitr::include_graphics("images/Insect-galls/AndFul-QL_Andricus fullawayi Quercus lobata 9-5-2003b_Phytosphere.JPG")
+(ref:LfGalls3A) *Antron douglasii* agamic generation galls on valley oak leaf. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfGalls3A, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls3)", out.width="75%"}
+knitr::include_graphics("images/Insect-galls/Vacaville QL Antron douglasii galls_20130907_15 Phytosphere.JPG")
 ```
 
 
-(ref:LfGalls5) Stem galls produced by *Andricus chrysolepidicola* on blue oak. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:LfGalls4) Galls of *Feron* (=*Andricus*) *kingi* (cone shaped), *Druon* (=*Andricus*) *fullawayi* (hairy), and *Andricus confertus* (irregular) on leaves of valley oak. Galls of the  latter two species are formed only on the leaf midrib. All three galls are detachable.  Photo: Photos: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfGalls4, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls4)", out.width="75%"}
+knitr::include_graphics("images/Insect-galls/Vacaville QL galls Andricus kingi A confertus A fullawayi_20130907_02Phytosphere.JPG")
+```
+
+
+(ref:LfGalls5) Integral stem galls produced by *Andricus chrysolepidicola* on blue oak. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfGalls5, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls5)", out.width="75%"}
 knitr::include_graphics("images/Insect-galls/AndChr-QD_andricus chrysolepidicola_Phytosphere.JPG")
 ```
 
-(ref:LfGalls6) *Disholcaspis plumbella gall* on a scrub oak twig. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:LfGalls6) Bud galls caused by *Burnettweldia* (=*Disholcaspis*) *plumbella* on a twig of *Quercus berberidifolia* (left) and by *Heteroecus sanctae-clarae* on the trunk of a young canyon live oak. Photos: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfGalls6, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls6)", out.width="75%"}
-knitr::include_graphics("images/Insect-galls/DIPLUQUBE1_Disholcaspis plumbella_Phytosphere.JPG")
+knitr::include_graphics("images/Insect-galls/bud galls Disholcaspis  plumbella QB Heteroecus sanctaeclarae QC Phytosphere.JPG")
 ```
 
 #### Symptoms {-}
 
-Galls may be produced on catkins, acorns, leaves, petioles, or twigs (figures  \@ref(fig:LfGalls2) - \@ref(fig:LfGalls6)).  They appear as simple swellings, amorphous growths, or unique, highly organized structures, often with strange shapes and bright coloration.  Galls may be detachable (distinct structures that are readily removable from underlying tissues) or integral (swellings or distortions of the plant part itself that cannot be removed without cutting or breaking the affected part).  Galls range from 1 mm to more than 50 mm across.  Some galls are associated with localized chlorosis or necrosis of underlying host tissue.  Galls affecting branches or major leaf veins may interfere with water and food transport within the branch or leaf, causing tissues beyond the gall to decline or die.
+Galls may be produced on catkins, acorns, leaves, petioles, or twigs (figures  \@ref(fig:LfGalls2) - \@ref(fig:LfGalls6)).  They appear as simple swellings, amorphous growths, or unique, highly organized structures, often with strange shapes and bright coloration.  Galls may be detachable (distinct structures that are readily removable from underlying tissues) or integral (swellings or distortions of the plant part itself that cannot be removed without cutting or breaking the affected part).  Galls range from 1 mm to more than 50 mm across. Some galls are associated with localized chlorosis or necrosis of underlying host tissue.  Galls affecting branches or major leaf veins may interfere with water and food transport within the branch or leaf, causing tissues beyond the gall to decline or die. See 
 
 #### Agent Description {-}
 
 Adults are small wasps, typically no more than about 4 mm long (figure  \@ref(fig:LfGalls7)).  Larvae are small, whitish, and legless and develop completely inside larval chambers that form within the galls.  Depending on the wasp species, each gall may have either one (monothalamous galls) or many (polythalamous galls) larval chambers.
 
-(ref:LfGalls7) Adult gall wasps (large divisions one-eight inch). Photo: Don Owen, CalFire, retired.
+(ref:LfGalls7) Adult gall wasps (large divisions 0.125 inch = 3.2 mm). Photo: Don Owen, CalFire, retired.
 
 ```{r LfGalls7, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls7)", out.width="75%"}
 knitr::include_graphics("images/Insect-galls/DON OWEN  CYNIPID GALL WASPS LARGE DIVISION ONE EIGHTH INCH.jpg")
@@ -124,14 +112,60 @@ knitr::include_graphics("images/Insect-galls/DON OWEN  CYNIPID GALL WASPS LARGE 
 
 Gall wasp larvae can apparently only induce galls in undifferentiated meristematic or cambial cells, so female wasps must lay eggs in specific host tissues (buds, leaves, etc.) when the tissues are at the correct growth stage.  Developing larvae produce substances that induce the plant to form a larval chamber of a structure that is unique to the wasp species and generation.  The gall wasp larvae typically remain small while they induce the gall to grow rapidly.  As the gall nears its mature size, larvae feed on nutritive tissue produced in the center of the gall and begin to grow rapidly.  As the larvae mature, they induce lignification of the gall.  In detachable galls, lignification may induce the gall to fall off the plant.  Larvae pupate within the gall and adult wasps emerge from the galls to initiate the next generation. 
 
-Many oak gall wasp species have two alternating generations; a sexual generation with females and males followed by an asexual generation with only females, which can lay fertile eggs without mating.  Each of these generations produces a unique gall, often on different parts of an oak.  Galls produced by the sexual generation are usually found during winter on permanent parts of the tree, such as twigs.  The asexual generation typically is produced during spring and summer, and galls are often on leaves and catkins.  Some oak gall wasps are known to produce only a single generation, which is typically asexual.
+Many oak gall wasp species have two alternating generations; a bisexual generation with females and males followed by a unisexual (agamic) generation with only females that can lay fertile eggs without mating.  Each of these generations produces a unique gall, often on different parts of an oak.  Galls produced by the bisexual generation are usually found during winter on permanent parts of the tree, such as twigs. The agamic generation typically is produced during spring and summer and galls are often on leaves and catkins.  Some oak gall wasps are known to produce only a single generation, which is typically agamic.
 
 
 #### Importance {-}
 
-Most wasp galls, especially foliar galls, cause little or no lasting damage to oaks. However, a few galls cause limited leaf or twig dieback by blocking the vascular tissue.
+Most wasp galls, especially foliar galls, cause little or no lasting damage to oaks. A few wasp galls, such as the two-horned oak gall wasp (below), cause limited leaf or twig dieback by blocking the vascular tissue. 
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Gall wasps. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
+Swiecki, T.J.; Bernhardt, E.A. 2026. Gall wasps. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
+
+### Two-horned oak gall wasp
+
+#### *Dryocosmus dubiosus* (Cynipidae) {-}
+
+#### Distribution / Hosts {-}
+
+Widely distributed in California, also observed in Oregon. Common on coast live and interior live oak, also occurs on California black oak.
+
+```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of the Two-horned oak gall wasp (orange shading) and native oak species (green) in California.", out.width='30%'}
+knitr::include_graphics("images/distributions/Drydub.png")
+```
+
+#### Symptoms {-}
+
+Wasps of the unisexual (agamic) generation induce detachable galls, about 3 mm long, on the leaf underside (abaxial surface) along leaf veins, including the midrib. Galls are oblong with a short horn-like projection at each end along the top. Fresh galls are whitish to greenish, sometimes with a red tinge, and may develop reddish to brownish flecks or spots. Older galls become tan or brownish. These galls can disrupt water and nutrient transport in affected veins, causing chorosis and necrosis to develop in leaf tissues beyond the galls (figure  \@ref(fig:LfGalls10)). Leaves develop conspicuous yellowing and dead spots that are evident from a distance when multiple galls develop on each leaf and many leaves are colonized. Visible damage from the agamic generation peaks in fall or early winter. Most galls may fall off by the time that damage becomes severe, but some galls persist on leaves into fall or winter. Many of the galls that persist on leaves may be parasitized [@Doutt1959]. Small scars remain on veins where galls were attached. 
+
+
+(ref:LfGalls10) Damage to coast live oak leaves caused by the agamic generation of the two-horned oak gall wasp (January, Solano County). On upper leaf surfaces, damage appears as irregular areas of chlorosis and necrosis, mostly toward the leaf tip or margins. On leaf undersides, multiple agamic generation gall are visible along leaf veins. Brown scars are visible on veins where galls have detached. Necrotic areas developed mostly beyond points where galls were attached. Photos: Barry Hill, Solano Land Trust.
+
+
+```{r LfGalls10, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls10)", out.width="75%"}
+knitr::include_graphics("images/Insect-galls/Twohorned oak gall waspBarry Hill QA KingRch.jpg")
+```
+
+
+#### Agent Description {-}
+
+Adult wasps are tiny (about 2-3 mm long) and dark colored with long antennae. A single larva develops within each gall. 
+
+#### Biology {-}
+
+Adult female wasps emerge from the bisexual generation galls on catkins or early season leaves by mid to late April, but some emerge earlier or later depending on the timing of flowering [@Doutt1959]. These adults live for about 7 days (Russo 2021). Females oviposit in leaf veins or midribs on the underside of leaves. The egg remains dormant in the leaf vein for an extended period (at least 65 to over 80 days [@Doutt1959] before a larva emerges and induces the typically two-horned gall of the unisexual (agamic) generation. The gall develops rapidly after the larva hatches, reaching its maximum size in 5 days and becoming fully mature and detachable in 10-11 days. At this point, the larva is fully mature and contained in a hard central spherical cavity. Galls drop off leaves and larvae overwinter in diapause within galls and pupate in spring when catkins are emerging. Only female wasps emerge from these galls and are of two types: one type that produces only males, the other type produces only females. Mated females oviposit in developing catkins or along the margins of young leaves and developing larvae induce the galls of the club-shaped galls of the bisexual generation.
+
+*Torymus fullawayi* parasitizes both the bisexual and agamic generations. The agamic generation is also parasitized by species of *Synergus* (a kleptoparasite of the agamic gall), *Eupelmus*, and other species [@Doutt1959]. The agamic generation was originally described as a separate species (*D. bicornis*).
+
+#### Importance {-}
+
+The agamic generation of *D. dubiosus* is among the most damaging of the native oak gall wasps. In heavy infestations, the level of leaf damage negatively affects tree appearance. However, high levels of damage develop late in the season and typically affects only a part of a tree's foliage. Damage intensity also varies from year to year due to the influences of climate and parasitism. As a result, this insect agent does not pose a significant threat to tree health.
+
+#### Citation {-}
+
+Swiecki, T.J.; Bernhardt, E.A. 2026. Two-horned oak gall wasp, In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
+
+
+
 
