@@ -29,6 +29,9 @@
 # RStudio files
 .Rproj.user/
 
+#thumb files
+Thumbs.db
+
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
@@ -55,6 +58,3 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
-
-# thumb.db files in images
-Thumbs.db
