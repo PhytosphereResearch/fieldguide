@@ -91,12 +91,14 @@
 
 --------------. 2025. Bacterial canker of oak / "Acute oak decline". In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
-### Botryosphaeria cankers {-}
+### Botryosphaeria (Diplodia) cankers {-}
 
 #### *Diplodia agrifolia*, *D. corticola*, *D. quercina*, *Dothiorella iberica*, and others {-}
 
 
 #### Distribution / Hosts {-}
+
+Note- this writeup needs to be updated
 
 *Diplodia quercina* has been reported only from oaks in California and Europe.  In California, it has been reported to occur on coast live, valley, and California black oak.
 
