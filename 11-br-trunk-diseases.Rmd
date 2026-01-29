@@ -124,7 +124,7 @@ knitr::include_graphics("images/Disease-branch/DIPLODIAMARIN_LCOSTELLO_1985black
 (ref:BrDis4H) Dead branches on  coast live oak due to Diplodia canker. Photo:  Larry Costello, UCCE, retired. 
 
 
-```{r BrDis4H, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDishH)"}
+```{r BrDis4H, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis4H)"}
 knitr::include_graphics("images/Disease-branch/DIPLODIASanMateCOUNTY_LCOSTELLO_1982.jpg")
 ```
 
