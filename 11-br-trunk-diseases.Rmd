@@ -29,7 +29,7 @@
 
 #### Citation {-}
 
-------------------- 2025. Foamy bark canker. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+------------------- 2026. Foamy bark canker. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### Fusarium dieback {-}
 
@@ -58,7 +58,7 @@
 
 #### Citation {-}
 
------------- 2025. Fusarium dieback. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+------------ 2026. Fusarium dieback. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Diseases affecting bark and sapwood {-}
 
@@ -89,9 +89,9 @@
 
 #### Citation {-}
 
---------------. 2025. Bacterial canker of oak / "Acute oak decline". In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+--------------. 2026. Bacterial canker of oak / "Acute oak decline". In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
-### Botryosphaeria (Diplodia) cankers {-}
+### Botryosphaeria / Diplodia cankers {-}
 
 #### *Diplodia agrifolia*, *D. corticola*, *D. quercina*, *Dothiorella iberica*, and others {-}
 
@@ -110,31 +110,36 @@ knitr::include_graphics("images/distributions/diplodia map.gif")
 
 #### Symptoms {-}
 
-Infections are normally found on branches up to 10 cm in diameter.  The fungus can girdle infected branches causing leaves beyond the point of infection to wilt and die.  Affected trees show discrete dead branches in the crown  (figure \@ref(fig:BrDis3H)),  (figure \@ref(fig:BrDis4H)) as opposed to the widely scattered twig dieback caused by anthracnose/twig blight fungi.  Infections cause extensive dark brown discoloration of the wood.  The border between discolored and healthy tissue is generally well-defined  (figure \@ref(fig:BrDis5A)).  Fruiting bodies emerge from the bark, causing a roughened appearance. 
+Infections are normally found on branches up to 10 cm in diameter.  The fungus can girdle infected branches causing leaves beyond the point of infection to wilt and die.  Affected trees show discrete dead branches in the crown  (figure \@ref(fig:BrDis3H) , figure \@ref(fig:BrDis4H)) as opposed to the widely scattered twig dieback caused by anthracnose/twig blight fungi.  Infections cause extensive dark brown discoloration of the wood.  The border between discolored and healthy tissue is generally well-defined  (figure \@ref(fig:BrDis5A)).  Fruiting bodies emerge from the bark, causing a roughened appearance. 
 
 
-(ref:BrDis3H) Dead branches on California black oak due to Diplodia canker. Photo:  Larry Costello, UCCE, retired.
- 
-
-```{r BrDis3H, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis3H)"}
-knitr::include_graphics("images/Disease-branch/DIPLODIAMARIN_LCOSTELLO_1985blackoak.jpg")
-```
+(ref:BrDis3H) Dead branches on California black oak caused by Diplodia canker. Photo:  Larry Costello, UCCE, retired.
 
 
-(ref:BrDis4H) Dead branches on  coast live oak due to Diplodia canker. Photo:  Larry Costello, UCCE, retired. 
-
-
-```{r BrDis4H, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis4H)"}
-knitr::include_graphics("images/Disease-branch/DIPLODIASanMateCOUNTY_LCOSTELLO_1982.jpg")
-```
+(ref:BrDis4H) Dead branches on coast live oak caused by Diplodia canker. Photo:  Larry Costello, UCCE, retired.
 
 
 (ref:BrDis5A) Diplodia canker on an artificially inoculated, greenhouse-grown coast live oak seedling Photo: Steve Koike, UCCE, retired.
  
 
-```{r BrDis5A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis5A)"}
+ 
+
+```{r BrDis3H, out.width="75%", fig.asp=.75, fig.align="center", fig.cap = "(ref:BrDis3H)"}
+knitr::include_graphics("images/Disease-branch/DIPLODIAMARIN_LCOSTELLO_1985blackoak.jpg")
+```
+
+
+
+```{r BrDis4H, out.width="75%", fig.asp=.75, fig.align="center", fig.cap="(ref:BrDis4H)"}
+knitr::include_graphics("images/Disease-branch/DIPLODIASanMateCOUNTY_LCOSTELLO_1982.jpg")
+```
+
+
+
+```{r BrDis5A, out.width="75%", fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis5A)"}
 knitr::include_graphics("images/Disease-branch/Diplodia_Oak_3_Koike.jpg")
 ```
+
 
 #### Agent Description {-}
 
@@ -152,7 +157,7 @@ Historically, this disease has been commonly reported only after severe drought 
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2006. Botryosphaeria (Diplodia) cankers. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2006. Botryosphaeria / Diplodia cankers. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 
 ### Sudden oak death and Phytophthora stem cankers {-}
@@ -276,7 +281,7 @@ At present, *P. ramorum* is probably the most important agent causing mortality 
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Sudden oak death and Phytophthora stem cankers. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Sudden oak death and Phytophthora stem cankers. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### Sunscald {-}
 
@@ -323,15 +328,23 @@ knitr::include_graphics("images/Disease-trunk/sunburn_6-193 sunburn canker 10-6-
 
 #### Biology {-}
 
-Sunscald develops in trees whose bark is suddenly subjected to a greatly increased level of solar radiation.  This commonly occurs in newly transplanted young trees.  Nursery stock that is grown under relatively shaded conditions and/or lacks low branches needed to shade the trunk is most likely to develop sunscald when it is planted in hot, exposed landscape settings.  In mature trees, sunburn is most likely to develop where previously shaded bark is exposed to high sun intensity as the result of pruning, tree failure, or other rapid changes in canopy cover.  Sunscald is more likely to develop in water-stressed trees and following episodes of unusually high temperatures.
+During tree growth and development, the structure of oak bark changes in response to its environment. Bark that is exposed to heating by sunlight normally develops a thicker layer of dead bark layers that insulate the underlying live bark (phloem) tissues and the cambium. Sunscald develops in portions of the bark of trees that are not adapted to high sun exposure and are abruptly subjected to high levels of solar radiation particularly in the summer and fall. Sunscald is more likely to develop in water-stressed trees and following episodes of unusually high temperatures. The combination of high temperatures, high solar intensity, and elevated levels of plant water stress result in heating of live bark and cambium to temperatures that kill these tissues, resulting in localized necrosis. In both young and mature trees, areas affected by sunscald may be subsequently attacked by wood boring beetles and colonized by canker or wood decay fungi.
+
+Sunburn typically develops in parts of trees with relatively thin outer bark, which provides less protection from heating caused by sun exposure. This includes young stems of many oaks and mature stems of coast live and interior live oak. Species with relatively thick outer layers of corky or flaky bark seldom develop sunscald.  
+
+Sunscald commonly develops on the south and west sides of sun-exposed lower trunks of newly transplanted young trees. This is typically associated with stock that has been being propagated under nursery conditions where the lower trunk has been shaded by surrounding plants, which is not adapted to extedned periods of solar heating. Such trees also typically lack low branches needed to shade the trunk and experience greater levels of water stress after planting than they did in the nursery. 
+
+In mature oaks such as coast live and interior live oak, sunburn is most likely to develop where areas of previously shaded thin bark become exposed to high sun intensity as the result of pruning, tree failure, or other rapid changes in canopy shading. Small areas affected by sunburn may recover after a few years if the underlying cambium is not affected. If killed areas of cambium are small, the egdes of the affected areas can develop callus which may eventually cover the affected area.   
+
 
 #### Importance {-}
 
-Sunscald occurs most commonly on transplanted nursery stock and can contribute to poor health, decline, or death, especially in small trees.  It may develop in mature stems that have been overpruned or have lost overtopping canopy, especially in species such as coast and interior live oak, which have relatively thin outer bark.  Species with relatively thick outer layers of corky or flaky bark seldom develop sunscald.  Areas affected by sunscald may be susceptible to invasion by some wood decay fungi.
+Sunscald that develops on transplanted nursery stock can contribute to poor vigor, decline, or death, especially in small trees. In mature trees, invasion of larger sunburned areas by secondary agents can prevent recovery of the affected area and may contribute to decline or failure especially in low-vigor trees.
+
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Sunscald. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2026. Sunscald. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 
 
