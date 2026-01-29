@@ -2,9 +2,9 @@
 
 ## Insect-pathogen complexes {-}
 
-### Foamy bark canker {-}
+### Foamy bark canker {-} 
 
-#### *Geosmithia* sp. 42 {-}
+#### *Geosmithia* sp. - writeup needed {-}
 
 
 #### Distribution / Hosts {-}
@@ -33,7 +33,7 @@
 
 ### Fusarium dieback {-}
 
-#### *Fusarium*  {-}
+#### *Fusarium* - writeup needed {-}
 
 
 #### Distribution / Hosts {-}
@@ -62,7 +62,7 @@
 
 ## Diseases affecting bark and sapwood {-}
 
-### Bacterial canker of oak / "Acute oak decline" {-}
+### Bacterial canker of oak / "Acute oak decline" - writeup needed {-}
 
 #### *Brennaria*, *Lonsdalea* , ... species  {-}
 
@@ -110,28 +110,31 @@ knitr::include_graphics("images/distributions/diplodia map.gif")
 
 #### Symptoms {-}
 
-Infections are normally found on branches up to 10 cm in diameter.  The fungus can girdle infected branches causing leaves beyond the point of infection to wilt and die.  Affected trees show discrete dead branches in the crown  (figure \@ref(fig:BrDis3A), \@ref(fig:BrDis4A)) as opposed to the widely scattered twig dieback caused by anthracnose/twig blight fungi.  Infections cause extensive dark brown discoloration of the wood.  The border between discolored and healthy tissue is generally well-defined  (figure \@ref(fig:BrDis5A)).  Fruiting bodies emerge from the bark, causing a roughened appearance. 
+Infections are normally found on branches up to 10 cm in diameter.  The fungus can girdle infected branches causing leaves beyond the point of infection to wilt and die.  Affected trees show discrete dead branches in the crown  (figure \@ref(fig:BrDis3H)),  (figure \@ref(fig:BrDis4H)) as opposed to the widely scattered twig dieback caused by anthracnose/twig blight fungi.  Infections cause extensive dark brown discoloration of the wood.  The border between discolored and healthy tissue is generally well-defined  (figure \@ref(fig:BrDis5A)).  Fruiting bodies emerge from the bark, causing a roughened appearance. 
 
-(ref:BrDis3A) Dead branches on California black oak due to Diplodia canker. Photo:  Larry Costello, UCCE, retired. 
 
-```{r BrDis3A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis3A)"}
+(ref:BrDis3H) Dead branches on California black oak due to Diplodia canker. Photo:  Larry Costello, UCCE, retired.
+ 
+
+```{r BrDis3H, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis3H)"}
 knitr::include_graphics("images/Disease-branch/DIPLODIAMARIN_LCOSTELLO_1985blackoak.jpg")
 ```
 
-(ref:BrDis4A) Dead branches on  coast live oak due to Diplodia canker. Photo:  Larry Costello, UCCE, retired. 
 
-```{r BrDis4A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis4A)"}
+(ref:BrDis4H) Dead branches on  coast live oak due to Diplodia canker. Photo:  Larry Costello, UCCE, retired. 
+
+
+```{r BrDis4H, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDishH)"}
 knitr::include_graphics("images/Disease-branch/DIPLODIASanMateCOUNTY_LCOSTELLO_1982.jpg")
 ```
 
 
-(ref:BrDis5A) Diplodia canker on an artificially inoculated, greenhouse-grown coast live oak seedling Photo:  Steve Koike, UCCE, retired.
+(ref:BrDis5A) Diplodia canker on an artificially inoculated, greenhouse-grown coast live oak seedling Photo: Steve Koike, UCCE, retired.
  
 
 ```{r BrDis5A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis5A)"}
 knitr::include_graphics("images/Disease-branch/Diplodia_Oak_3_Koike.jpg")
 ```
-
 
 #### Agent Description {-}
 
@@ -149,7 +152,7 @@ Historically, this disease has been commonly reported only after severe drought 
 
 #### Citation {-}
 
------------------ 2025. Botryosphaeria cankers. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2006. Botryosphaeria (Diplodia) cankers. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 
 ### Sudden oak death and Phytophthora stem cankers {-}
