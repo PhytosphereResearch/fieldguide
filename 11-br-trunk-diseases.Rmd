@@ -290,17 +290,26 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Sudden oak death and Phytophthora stem cank
 
 #### Distribution / Hosts {-}
 
-Sunscald can occur in most parts of California, but is more common in hot, interior valleys than along the coast.  Transplanted young oaks of most species can be affected.  Among mature trees, species with thin, smooth outer bark, including coast live and interior live oak, are more likely to develop sunscald.  
+Sunscald can occur in most parts of California, but is more common in hot, interior valleys than along the coast.  Transplanted young oaks of most species can be affected.  Among mature trees, species with thin, realtively smooth outer bark, including coast live and interior live oak, are more likely to develop sunscald.  
 
 
-```{r, fig.align='center', fig.asp=.75, fig.cap="California counties likely to have sunscald (orange shading) and approximate range of native oak species (green).", out.width='30%'}
-knitr::include_graphics("images/distributions/sunscald.gif")
+```{r, fig.align='center', fig.asp=.75, fig.cap="California counties likely to have sunscald on oaks (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+knitr::include_graphics("images/distributions/sunscald.png")
 ```
 
 
 #### Symptoms {-}
 
 Symptoms appear on areas of bark that are exposed to the highest sunlight intensity, generally on the west or southwest side.  Affected bark may become sunken and darkened, and typically shrinks and cracks as it dries out (figure \@ref(fig:TrDis15A), \@ref(fig:TrDis16A)).  Dark sap commonly bleeds from recently affected bark or the margin of the affected area.  In mature trees with thick bark, only the outer layers of bark may be affected (figure \@ref(fig:TrDis17A).  Localized beetle boring or opportunistic decay fungi such as *Trametes versicolor* or *Stereum* spp. may colonize the wood in areas where the cambium is completely killed.  Over time, callus may develop around the affected area and eventually the dead bark falls off.  
+
+
+
+(ref:TrDis15) Transplanted interior live oaks (24 inch box nursery stock) with sunburn damage on the southwest side of exposed trunks. Tree at far left shjows canopy thinning adn dieback assocaited with the sunburn canker that extends to 1.5 m from the base of the tree. Closeup (second from left) shows exposed wood under dead craked bark and exit holes of wood-boring beetles. Images right of center show cankers with callus development around bark and cambium areas killed by sunburn and production of both basal and epicormic sproutsnear the affected areas. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r TrDis15, out.width='95%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis15)"}
+knitr::include_graphics("images/Disease-trunk/sunscaldQW_Roseville_phytosphere.jpg")
+```
+
 
 
 (ref:TrDis15A) Lower trunk of a transplanted coast live oak shows evidence of abundant past oozing associated with sunburn injury. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
@@ -318,11 +327,18 @@ knitr::include_graphics("images/Disease-trunk/sunburn_6-193 sunburn canker 10-6-
 ```
 
 
+(ref:TrDis16B) Severe sunburn symptoms in a mature coast live oak stem two years after a partial root failure of this tree changed the orintation of the stem fomr nearly vertical to horizonal, exposing the previously shaded stem to full midday sun. Killed bark on the sun exposed side shows cracking and staining from bleeding. The canopy of the now prostrate stem remained green. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
-(ref:TrDis17A) Bark cut away from bleeding area shows that bark tissue death (necrosis) is limited to the outermost layers of the inner bark. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+```{r TrDis16B, out.width='95%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis16B)"}
+knitr::include_graphics("images/Disease-trunk/QA6-190 fail sunburn 10-20-03 c crop.jpg")
+```
 
-```{r TrDis17A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis17A)"}
-knitr::include_graphics("images/Disease-trunk/sunburn_6-193 sunburn canker 10-6-04d_Phytosphere.JPG")
+
+
+(ref:TrDis17A) Bark cut away from this bleeding area of a sunburn canker on a mature coast live oak stem shows scattered patches of  tissue death (necrosis) that is limited to the outermost layers of the live bark layer. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r TrDis17A, out.width='95%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis17A)"}
+knitr::include_graphics("images/Disease-trunk/QA6-190 sunburn canker 10-6-04dPhytosphere.JPG")
 ```
 
 
@@ -332,9 +348,9 @@ During tree growth and development, the structure of oak bark changes in respons
 
 Sunburn typically develops in parts of trees with relatively thin outer bark, which provides less protection from heating caused by sun exposure. This includes young stems of many oaks and mature stems of coast live and interior live oak. Species with relatively thick outer layers of corky or flaky bark seldom develop sunscald.  
 
-Sunscald commonly develops on the south and west sides of sun-exposed lower trunks of newly transplanted young trees. This is typically associated with stock that has been being propagated under nursery conditions where the lower trunk has been shaded by surrounding plants, which is not adapted to extedned periods of solar heating. Such trees also typically lack low branches needed to shade the trunk and experience greater levels of water stress after planting than they did in the nursery. 
+Sunscald commonly develops on the south and west sides of sun-exposed lower trunks of newly transplanted young trees. This is typically associated with stock that has been being propagated under nursery conditions where the lower trunk has been shaded by surrounding plants, which is not adapted to extended periods of solar heating. Such trees also typically lack low branches needed to shade the trunk and experience greater levels of water stress after planting than they did in the nursery. 
 
-In mature oaks such as coast live and interior live oak, sunburn is most likely to develop where areas of previously shaded thin bark become exposed to high sun intensity as the result of pruning, tree failure, or other rapid changes in canopy shading. Small areas affected by sunburn may recover after a few years if the underlying cambium is not affected. If killed areas of cambium are small, the egdes of the affected areas can develop callus which may eventually cover the affected area.   
+In mature oaks such as coast live and interior live oak, sunburn is most likely to develop where areas of previously shaded thin bark become exposed to high sun intensity as the result of pruning, tree failure, or other rapid changes in canopy shading. Small areas affected by sunburn may recover after a few years if the underlying cambium is not affected. If killed areas of cambium are small, the edges of the affected areas can develop callus which may eventually cover the affected area.   
 
 
 #### Importance {-}
@@ -391,7 +407,7 @@ Wetwood is not generally considered to have much impact on tree health, although
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Wetwood. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Wetwood. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 
 ## Canker-associated wood decay fungi {-}
@@ -462,7 +478,7 @@ This fungus appears to be of little consequence in healthy trees, but can quickl
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. *Annulohypoxylon thouarsianum*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. *Annulohypoxylon thouarsianum*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### *Biscogniauxia mediterranea* {-}
 
@@ -489,7 +505,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. *Annulohypoxylon thouarsianum*. In Swiecki,
 
 #### Citation {-}
 
---------------- 2025. *Biscogniauxia mediterranea*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+--------------- 2026. *Biscogniauxia mediterranea*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 
 ### Canker rots {-}
@@ -523,7 +539,7 @@ knitr::include_graphics("images/Disease-trunk/INODRY_QUDO1_Phytosphere.jpg")
 
 #### Agent Description {-}
 
-*I. andersonii* produces a sheet-like (resupinate) annual basidiocarp on dead wood under the bark, or occasionally between outer sapwood layers.  Basidiocarps are commonly 0.3—1 m long.  Fresh basidiocarps are cinnamon brown (figure  \@ref(fig:BrDis2B)), but become black as they age (figure  \@ref(fig:BrDis3B)). The basidiocarp consists of two layers:  a thin (up to 1 mm thick) layer of sterile tissue (context) that is attached directly to the woody substrate and a layer of downward-pointing tubes (up to 1 to 2 cm long) attached to the context that terminate in an uneven layer of circular to angular pores (1—6 per mm).  Bright chrome yellow deposits of basidiospores develop on the inner surface of bark that initially covers new basiodiocarps (figure  \@ref(fig:BrDis2B),  \@ref(fig:BrDis4B)), .  Spore deposits become brown over time.  
+*I. andersonii* produces a sheet-like (resupinate) annual basidiocarp on dead wood under the bark, or occasionally between outer sapwood layers.  Basidiocarps are commonly 0.3—1 m long.  Fresh basidiocarps are cinnamon brown (figure  \@ref(fig:BrDis2B)), but become black as they age (figure  \@ref(fig:BrDis3B)). The basidiocarp consists of two layers:  a thin (up to 1 mm thick) layer of sterile tissue (context) that is attached directly to the woody substrate and a layer of downward-pointing tubes (up to 1 to 2 cm long) attached to the context that terminate in an uneven layer of circular to angular pores (1—6 per mm).  Bright chrome yellow deposits of basidiospores develop on the inner surface of bark that initially covers new basiodiocarps (figure  \@ref(fig:BrDis2B),  \@ref(fig:BrDis4B)).  Spore deposits become brown over time.  
 
 
 
@@ -571,7 +587,7 @@ Basidiocarps mature mainly between fall and spring.  *I. dryophilus* typically f
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Canker rots. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Canker rots. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Orange hobnail canker {-}
 
@@ -623,7 +639,7 @@ On coast live oak, *E. gyrosa* is typically a branch pathogen, often affecting s
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Orange hobnail canker. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Orange hobnail canker. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 
 ## Other wood decay fungi {-}
@@ -668,7 +684,7 @@ knitr::include_graphics("images/Disease-trunk/FomRob_Phellinus robustus no spore
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. *Fomitiporia robusta*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. *Fomitiporia robusta*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
  
 
@@ -711,7 +727,7 @@ knitr::include_graphics("images/Disease-trunk/FusGil_8-212-4 fail 10-9-03 P gilv
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. *Fuscoporia gilva*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. *Fuscoporia gilva*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 
 
@@ -762,7 +778,7 @@ This fungus has the potential to affect tree health and increase failure in infe
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Hedgehog fungus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Hedgehog fungus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### Western sulfur shelf fungus {-}
 
@@ -831,7 +847,7 @@ Basidiocarps are formed in the fall months, often before the first fall rains, a
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Western sulfur shelf fungus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Western sulfur shelf fungus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Parasitic vascular plants {-}
 
@@ -893,7 +909,7 @@ Leafy mistletoe usually has little impact on healthy oaks, although it may be un
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Oak mistletoe.  In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak mistletoe.  In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 
 

@@ -24,7 +24,7 @@
 
 #### Citation {-}
 
----------------- 2025. Frosty mildew.  In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+---------------- 2026. *Microstroma album*.  In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Powdery mildews {-}
 
@@ -35,7 +35,7 @@
 Powdery mildews are widespread and occur on most oaks throughout California.  The taxonomy of the powdery mildews has undergone multiple revisions, with the most recent changes resulting in the rolling back of some previous name changes among those species affecting oaks. 
 
 
-```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of  powdery mildew  (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of powdery mildew (orange shading) and native oak species (green) in California.", out.width='30%'}
 knitr::include_graphics("images/distributions/statewide.png")
 ```
 
@@ -144,7 +144,7 @@ Levels of infection are not normally severe enough to substantially affect plant
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Powdery mildews. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Powdery mildews. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Oak leaf blister {-}
 
@@ -156,7 +156,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Powdery mildews. In Swiecki, T.J., et al. (
 oak and on some non-native oaks. Oaks in the subsection Lobatae (red/black oaks) are generally more susceptible than those in subsection Quercus (white oaks).
 
 
-```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of *Tubakia californica* (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of *Taphrina caerulescens* (orange shading) and native oak species (green) in California.", out.width='30%'}
 knitr::include_graphics("images/distributions/Tapcae.png")
 ```
 
@@ -193,7 +193,7 @@ In California, oak leaf blister is generally uncommon and typically does not cau
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Oak leaf blister. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak leaf blister. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 
 ## Oak anthracnose, leaf spot, and twig blight {-}
@@ -214,7 +214,7 @@ California black, coast live, interior live, and canyon live oak.
 Other leaf spotting fungi reported on native oaks in California include *Cercospora polytricha* on canyon live oak; *Colletotrichum gloeosporioides* on California black oak; *Cylindrosporium kelloggii* on coast live, California black, and Oregon white oak; *Dicarpella bina* on coast live oak; *Marssonina martinii* on blue and coast live oak; *Pseudomassaria agrifolia* on coast live oak; *Septoria dryina* on California black and possibly other oaks; and several other described fungi that may or may not be distinct from other species reported above.
 
 
-```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of anthracnose fungi (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of anthracnose fungi (orange shading) and native oak species (green) in California.", out.width='30%'}
 knitr::include_graphics("images/distributions/statewide.png")
 ```
 
@@ -229,9 +229,6 @@ Oak anthracnose is a term used to describe diseases caused by fungi that produce
 ```{r LfDis3AA, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis3AA)"}
 knitr::include_graphics("images/Disease-leaftwig/APIOGNOMA B HAGEN.jpg")
 ```
-
-
-
 
 
 
@@ -294,7 +291,7 @@ Anthracnose and leafspot diseases are generally of minor importance to Californi
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Oak anthracnose, leaf spot, and twig blight. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak anthracnose, leaf spot, and twig blight. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 
 ## *Tubakia californica* {-}
@@ -303,7 +300,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Oak anthracnose, leaf spot, and twig blight
 *Tubakia californica* is widespread and likely native to California.  As of 2025,  it had not been reported outside the state. Reported hosts are all in the plant family Fagaceae, and include California black oak, coast live oak, interior live oak, and valley oak, as well as tanoak and golden chinquapin. 
 
 
-```{r, fig.align='center', fig.asp=.75, fig.cap="California counties with known occurences of *Tubakia californica* (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of *Tubakia californica* (orange shading) and native oak species (green) in California. (orange shading).", out.width='30%'}
 knitr::include_graphics("images/distributions/Tubcal.png")
 ```
 
@@ -365,7 +362,7 @@ Dieback, dead leaf retention, and defoliation affect tree appearance, but typica
 
 #### Citation {-}
 
-Lee, C., Rooney-Latham, S., Blomquist, C.L. 2025. *Tubakia californica*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Lee, C., Rooney-Latham, S., Blomquist, C.L. 2025. *Tubakia californica*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Early defoliation due to drought stress {-}
 
@@ -373,10 +370,10 @@ Lee, C., Rooney-Latham, S., Blomquist, C.L. 2025. *Tubakia californica*. In Swie
 
 #### Distribution / Hosts {-}
 
-Early defoliation related to prolonged drought stress is most commonly seen in blue oak and can occur throughout its range. It is most common on drought-prone sites, such as areas with shallow or rocky soils, and more likely to occur in areas experiencing low rainfall and high summer temperatures. Other oak species can also be affected by severe drought stress, but early leaf browning and leaf drop is only commonly reported in blue oak.
+Early defoliation related to prolonged drought stress is most commonly seen in blue oak and can occur throughout its range, primarily in hotter, drier inland lower elevation sites. It is most common on drought-prone sites, such as areas with shallow or rocky soils, and more likely to occur in areas experiencing low rainfall and high summer temperatures. Other oak species can also be affected by severe drought stress, but early leaf browning and leaf drop is only commonly reported in blue oak.
 
-```{r, fig.align='center', fig.asp=.75, fig.cap="Range of early defoliation of blue oak", out.width='30%'}
-knitr::include_graphics("images/distributions/early browning.gif")
+```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of early browning in blue oak (orange shading) and native oak species (green) in California.", out.width='30%'}
+knitr::include_graphics("images/distributions/early browning.png")
 ```
 
 
@@ -416,6 +413,6 @@ Historically, mature blue oaks have periodically endured periods of severe water
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Early defoliation due to drought stress. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2026. Early defoliation due to drought stress. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 
