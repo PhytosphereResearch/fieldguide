@@ -16,13 +16,23 @@ knitr::include_graphics("images/distributions/Acemac.png")
 
 #### Symptoms {-}
 
-The mites cause blisterlike swellings (erinea), 1—12 mm long, that protrude from the upper leaf surface (figure  \@ref(fig:LfGalls1A)). On the lower leaf surface, the blisters appear as depressions or pockets filled with mats of hairs that are typically rusty brown but may be lighter in color or have a reddish tinge. The blisters are initially green but later become brown. Leaves may become distorted if large populations of mites are present. A related species, *Aceria paramackiei*, causes a witches broom type of galling of coast live oak buds, resulting in tightly packed heads of multiple buds. 
+The mites cause blisterlike swellings (erinea), 1—12 mm long, that protrude from the upper leaf surface (figures  \@ref(fig:LfGalls1A), \@ref(fig:LfGalls1B)). On the lower leaf surface, the blisters appear as depressions or pockets filled with mats of hairs that are typically rusty brown but may be lighter in color or have a reddish tinge (figure   \@ref(fig:LfGalls1B)). The blisters are initially green but later become brown. Leaves may become distorted if large populations of mites are present. A related species, *Aceria paramackiei*, causes a witches broom type of galling of coast live oak buds, resulting in tightly packed heads of multiple buds. 
 
 (ref:LfGalls1A) Symptoms of erineum mite on coast live oak. Raised blisters on the leaf upper surface appear as hair-filled pockets on the lower leaf surface.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfGalls1A, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls1A)", out.width="75%"}
 knitr::include_graphics("images/Insect-galls/EriMac-QA Sonoma county Nov 1988_Phytosphere.jpg")
 ```
+
+
+(ref:LfGalls1B) Symptoms of erineum mite on oracle oak (*Quercus* x *morehus*). Raised blisters on the leaf upper surface (left) appear as hair-filled pockets (center, right) on the lower leaf surface.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfGalls1B, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls1B)", out.width="95%"}
+knitr::include_graphics("images/Insect-galls/Aceria mackiei QxM Phytosphere.jpg")
+```
+
+
+
 
 #### Agent Description {-}
 
@@ -94,7 +104,7 @@ knitr::include_graphics("images/Insect-galls/AndChr-QD_andricus chrysolepidicola
 
 (ref:LfGalls6) Bud galls caused by *Burnettweldia* (=*Disholcaspis*) *plumbella* on a twig of *Quercus berberidifolia* (left) and by *Heteroecus sanctae-clarae* on the trunk of a young canyon live oak. Photos: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
-```{r LfGalls6, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls6)", out.width="75%"}
+```{r LfGalls6, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls6)", out.width="95%"}
 knitr::include_graphics("images/Insect-galls/bud galls Disholcaspis  plumbella QB Heteroecus sanctaeclarae QC Phytosphere.JPG")
 ```
 
@@ -147,6 +157,13 @@ Wasps of the unisexual (agamic) generation induce detachable galls, about 3 mm l
 
 ```{r LfGalls10, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls10)", out.width="75%"}
 knitr::include_graphics("images/Insect-galls/Twohorned oak gall waspBarry Hill QA KingRch.jpg")
+```
+
+(ref:LfGalls10B) Two-horned oak gall wasp agamic generation galls on the undesides of oracle oak leaves (January, Solano County). Note scars on veins where galls are attached.  Photos: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+
+```{r LfGalls10B, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls10B)", out.width="95%"}
+knitr::include_graphics("images/Insect-galls/Twohorned oak gall wasp QxM Vv Phytosphere.jpg")
 ```
 
 
