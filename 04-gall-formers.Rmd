@@ -152,14 +152,14 @@ knitr::include_graphics("images/distributions/Drydub.png")
 Wasps of the unisexual (agamic) generation induce detachable galls, about 3 mm long, on the leaf underside (abaxial surface) along leaf veins, including the midrib. Galls are oblong with a short horn-like projection at each end along the top. Fresh galls are whitish to greenish, sometimes with a red tinge, and may develop reddish to brownish flecks or spots. Older galls become tan or brownish. These galls can disrupt water and nutrient transport in affected veins, causing chorosis and necrosis to develop in leaf tissues beyond the galls (figure  \@ref(fig:LfGalls10)). Leaves develop conspicuous yellowing and dead spots that are evident from a distance when multiple galls develop on each leaf and many leaves are colonized. Visible damage from the agamic generation peaks in fall or early winter. Most galls may fall off by the time that damage becomes severe, but some galls persist on leaves into fall or winter. Many of the galls that persist on leaves may be parasitized [@Doutt1959]. Small scars remain on veins where galls were attached. 
 
 
-(ref:LfGalls10) Damage to coast live oak leaves caused by the agamic generation of the two-horned oak gall wasp (January, Solano County). On upper leaf surfaces, damage appears as irregular areas of chlorosis and necrosis, mostly toward the leaf tip or margins. On leaf undersides, multiple agamic generation galls are visible along leaf veins. Brown scars are visible on veins where galls have detached. Necrotic areas developed mostly beyond points where galls were attached. Photos: Barry Hill, Solano Land Trust.
+(ref:LfGalls10) Damage to coast live oak leaves caused by the agamic generation of the two-horned oak gall wasp (January, Solano County). On upper leaf surfaces (left), damage appears as irregular areas of chlorosis and necrosis, mostly toward the leaf tip or margins. On leaf undersides (right), multiple agamic generation galls are visible along leaf veins. Brown scars are visible on veins where galls have detached. Necrotic areas developed mostly beyond points where galls were attached. Photos: Barry Hill, Solano Land Trust.
 
 
 ```{r LfGalls10, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls10)", out.width="75%"}
 knitr::include_graphics("images/Insect-galls/Twohorned oak gall waspBarry Hill QA KingRch.jpg")
 ```
 
-(ref:LfGalls10B) Two-horned oak gall wasp agamic generation galls on the undesides of oracle oak leaves (January, Solano County). Note scars on veins where galls are attached.  Photos: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:LfGalls10B) Two-horned oak gall wasp agamic generation galls on the undersides of oracle oak leaves (January, Solano County). Note scars on veins where galls are attached.  Photos: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 
 ```{r LfGalls10B, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls10B)", out.width="95%"}

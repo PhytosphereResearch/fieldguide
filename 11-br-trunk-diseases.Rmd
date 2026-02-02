@@ -147,8 +147,8 @@ knitr::include_graphics("images/Disease-branch/Diplodia_Oak_3_Koike.jpg")
 
 #### Biology {-}
 
-The fungus may enter branches through wounds and possibly natural openings such as leaf scars.  The fungus can only be recovered from within a few centimeters of the infection point even though discoloration may extend 0.6 — 1 m further (Hecht-Poinar and others 1987, Costello and others 1989).  In artificial inoculations, asexual fruiting bodies are produced within 24 weeks and continue to produce spores for about two years.  Spore production and germination are favored by moisture.
-Drought stress may predispose trees to infection.  The disease became widespread following the extreme drought of 1976—1977.  
+The fungus may enter branches through wounds and possibly natural openings such as leaf scars.  The fungus can only be recovered from within a few centimeters of the infection point even though discoloration may extend 0.6 - 1 m further (Hecht-Poinar and others 1987, Costello and others 1989).  In artificial inoculations, asexual fruiting bodies are produced within 24 weeks and continue to produce spores for about two years.  Spore production and germination are favored by moisture.
+Drought stress may predispose trees to infection.  The disease became widespread following the extreme drought of 1976 - 1977.  
 
 
 #### Importance {-}
@@ -283,18 +283,18 @@ At present, *P. ramorum* is probably the most important agent causing mortality 
 
 Swiecki, T.J.; Bernhardt, E.A. 2025. Sudden oak death and Phytophthora stem cankers. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
-### Sunscald {-}
+### Sunburn{-}
 
 #### Abiotic {-}
 
 
 #### Distribution / Hosts {-}
 
-Sunscald can occur in most parts of California, but is more common in hot, interior valleys than along the coast.  Transplanted young oaks of most species can be affected.  Among mature trees, species with thin, realtively smooth outer bark, including coast live and interior live oak, are more likely to develop sunscald.  
+Sunburn (sometimes called sunscald in California) can occur in most parts of California, but is more common in hot, interior valleys than along the coast.  Transplanted young oaks of most species can be affected.  Among mature trees, species with thin, relatively smooth outer bark, including coast live and interior live oak, are more likely to develop sunburn.  
 
 
-```{r, fig.align='center', fig.asp=.75, fig.cap="California counties likely to have sunscald on oaks (orange shading) and approximate range of native oak species (green).", out.width='30%'}
-knitr::include_graphics("images/distributions/sunscald.png")
+```{r, fig.align='center', fig.asp=.75, fig.cap="California counties likely to have sunburn on oaks (orange shading) and approximate range of native oak species (green).", out.width='30%'}
+knitr::include_graphics("images/distributions/sunburn.png")
 ```
 
 
@@ -304,7 +304,7 @@ Symptoms appear on areas of bark that are exposed to the highest sunlight intens
 
 
 
-(ref:TrDis15) Transplanted interior live oaks (24 inch box nursery stock) with sunburn damage on the southwest side of exposed trunks. Tree at far left shjows canopy thinning adn dieback assocaited with the sunburn canker that extends to 1.5 m from the base of the tree. Closeup (second from left) shows exposed wood under dead craked bark and exit holes of wood-boring beetles. Images right of center show cankers with callus development around bark and cambium areas killed by sunburn and production of both basal and epicormic sproutsnear the affected areas. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:TrDis15) Transplanted interior live oaks (24 inch box nursery stock) with sunburn damage on the southwest side of exposed trunks. Tree at far left shows canopy thinning and dieback associated with the sunburn canker that extends to 1.5 m from the base of the tree. Closeup (second from left) shows exposed wood under dead cracked bark and exit holes of wood-boring beetles. Images right of center show cankers with callus development around bark and cambium areas killed by sunburn and production of both basal and epicormic sprouts near the affected areas. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r TrDis15, out.width='95%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis15)"}
 knitr::include_graphics("images/Disease-trunk/sunscaldQW_Roseville_phytosphere.jpg")
@@ -327,7 +327,7 @@ knitr::include_graphics("images/Disease-trunk/sunburn_6-193 sunburn canker 10-6-
 ```
 
 
-(ref:TrDis16B) Severe sunburn symptoms in a mature coast live oak stem two years after a partial root failure of this tree changed the orintation of the stem fomr nearly vertical to horizonal, exposing the previously shaded stem to full midday sun. Killed bark on the sun exposed side shows cracking and staining from bleeding. The canopy of the now prostrate stem remained green. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:TrDis16B) Severe sunburn symptoms in a mature coast live oak trunk two years after a partial root failure of this tree changed the orientation of the trunk from nearly vertical to horizontal, exposing the previously shaded stem to full midday sun. Killed bark on the sun-exposed side shows cracking and staining from bleeding. The canopy of the now prostrate trunk remained green. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r TrDis16B, out.width='95%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis16B)"}
 knitr::include_graphics("images/Disease-trunk/QA6-190 fail sunburn 10-20-03 c crop.jpg")
@@ -344,23 +344,23 @@ knitr::include_graphics("images/Disease-trunk/QA6-190 sunburn canker 10-6-04dPhy
 
 #### Biology {-}
 
-During tree growth and development, the structure of oak bark changes in response to its environment. Bark that is exposed to heating by sunlight normally develops a thicker layer of dead bark layers that insulate the underlying live bark (phloem) tissues and the cambium. Sunscald develops in portions of the bark of trees that are not adapted to high sun exposure and are abruptly subjected to high levels of solar radiation particularly in the summer and fall. Sunscald is more likely to develop in water-stressed trees and following episodes of unusually high temperatures. The combination of high temperatures, high solar intensity, and elevated levels of plant water stress result in heating of live bark and cambium to temperatures that kill these tissues, resulting in localized necrosis. In both young and mature trees, areas affected by sunscald may be subsequently attacked by wood boring beetles and colonized by canker or wood decay fungi.
+During tree growth and development, the structure of oak bark changes in response to its environment. Bark that is exposed to heating by sunlight normally develops a thicker layer of dead bark layers that insulate the underlying live bark (phloem) tissues and the cambium. Sunburn develops in portions of the bark of trees that are not adapted to high sun exposure and are abruptly subjected to high levels of solar radiation particularly in the summer and fall. Sunburn is more likely to develop in water-stressed trees and following episodes of unusually high temperatures. The combination of high temperatures, high solar intensity, and elevated levels of plant water stress result in heating of live bark and cambium to temperatures that kill these tissues, resulting in localized necrosis. In both young and mature trees, areas affected by sunburn may be subsequently attacked by wood boring beetles and colonized by canker or wood decay fungi.
 
 Sunburn typically develops in parts of trees with relatively thin outer bark, which provides less protection from heating caused by sun exposure. This includes young stems of many oaks and mature stems of coast live and interior live oak. Species with relatively thick outer layers of corky or flaky bark seldom develop sunscald.  
 
-Sunscald commonly develops on the south and west sides of sun-exposed lower trunks of newly transplanted young trees. This is typically associated with stock that has been being propagated under nursery conditions where the lower trunk has been shaded by surrounding plants, which is not adapted to extended periods of solar heating. Such trees also typically lack low branches needed to shade the trunk and experience greater levels of water stress after planting than they did in the nursery. 
+Sunburn commonly develops on the south and west sides of sun-exposed lower trunks of newly transplanted young trees. This is typically associated with stock that has been being propagated under nursery conditions where the lower trunk has been shaded by surrounding plants, which is not adapted to extended periods of solar heating. Such trees also typically lack low branches needed to shade the trunk and experience greater levels of water stress after planting than they did in the nursery. 
 
 In mature oaks such as coast live and interior live oak, sunburn is most likely to develop where areas of previously shaded thin bark become exposed to high sun intensity as the result of pruning, tree failure, or other rapid changes in canopy shading. Small areas affected by sunburn may recover after a few years if the underlying cambium is not affected. If killed areas of cambium are small, the edges of the affected areas can develop callus which may eventually cover the affected area.   
 
 
 #### Importance {-}
 
-Sunscald that develops on transplanted nursery stock can contribute to poor vigor, decline, or death, especially in small trees. In mature trees, invasion of larger sunburned areas by secondary agents can prevent recovery of the affected area and may contribute to decline or failure especially in low-vigor trees.
+Sunburn that develops on transplanted nursery stock can contribute to poor vigor, decline, or death, especially in small trees. In mature trees, invasion of larger sunburned areas by secondary agents can prevent recovery of the affected area and may contribute to decline or failure especially in low-vigor trees.
 
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2026. Sunscald. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
+Swiecki, T.J.; Bernhardt, E.A. 2026. Sunburn. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 
 
