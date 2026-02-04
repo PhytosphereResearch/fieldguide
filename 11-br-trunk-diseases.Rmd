@@ -530,7 +530,8 @@ Affected branches or trees may show general symptoms of decline including poor g
 The fruiting bodies (basidiocarps) may appear on living trees or on recently-failed stems. 
 
 
-(ref:BrDis1B) Blue oak with typical elongate canker rot cankers and fruiting body of *Inocutis dryophilus*. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+
+(ref:BrDis1B) Blue oak with typical elongate canker rot cankers and fruiting body of *Inocutis dryophilus*. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r BrDis1B, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis1B)"}
 knitr::include_graphics("images/Disease-trunk/INODRY_QUDO1_Phytosphere.jpg")
@@ -543,14 +544,16 @@ knitr::include_graphics("images/Disease-trunk/INODRY_QUDO1_Phytosphere.jpg")
 
 
 
-(ref:BrDis2B) Close-up of *Inonotus andersonii* fruiting on blue oak, showing resupinate pore layer formed under bark on recently killed wood.  Bright yellow spores have been deposited on bark, which has been peeled away from the wood for the picture. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:BrDis2B) Close-up of *Inonotus andersonii* fruiting on blue oak, showing resupinate pore layer formed under bark on recently killed wood.  Bright yellow spores have been deposited on bark, which has been peeled away from the wood for the picture. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r BrDis2B, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis2B)"}
 knitr::include_graphics("images/Disease-trunk/INoAND_QUDO2I_Phytosphere.jpg")
 ```
 
 
-(ref:BrDis3B) Old resupinate pore layer of *Inonotus andersonii* has dark brown to black appearance. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+
+
+(ref:BrDis3B) Old resupinate pore layer of *Inonotus andersonii* has dark brown to black appearance. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r BrDis3B, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis3B)"}
 knitr::include_graphics("images/Disease-trunk/InoAnd_Inonotus andersonii old QA pumpkin ridge 10-21-04b opt_Phytosphere.jpg")
@@ -559,7 +562,7 @@ knitr::include_graphics("images/Disease-trunk/InoAnd_Inonotus andersonii old QA 
 
 
 
-(ref:BrDis4B) Fallen coast live oak branch with distinctive deposit of chrome yellow *Inonotus andersonii* spores at the bark/wood interface. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:BrDis4B) Fallen coast live oak branch with distinctive deposit of chrome yellow *Inonotus andersonii* spores at the bark/wood interface. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r BrDis4B, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis4B)"}
 knitr::include_graphics("images/Disease-trunk/INOAND_QUAG3_Phytosphere.jpg")
@@ -569,7 +572,7 @@ knitr::include_graphics("images/Disease-trunk/INOAND_QUAG3_Phytosphere.jpg")
 
 
 
-(ref:BrDis5B) Close-up of *Inocutis dryophilus* fruiting on interior live oak. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:BrDis5B) Close-up of *Inocutis dryophilus* fruiting on interior live oak. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r BrDis5B, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis5B)"}
 knitr::include_graphics("images/Disease-trunk/InoDry_Inonotus dryophilus QW Rockville Park Dec 8 2003 b_Phytosphere.jpg")
@@ -610,7 +613,7 @@ knitr::include_graphics("images/distributions/Chryphonectira map.gif")
 The fungus causes somewhat sunken, slowly expanding cankers which may girdle and kill branches and trunks of trees under stress.  Cankers sometimes extend from smaller branches to the larger parent branch.  Small (1—2 mm diameter), cushion-shaped masses of fungal tissue containing fruiting structures (stromata) erupt from the bark of killed stems (figure \@ref(fig:BrDis1A)).  Stromata are initially bright orange but become cinnamon brown with age.  Stromata remain bright orange internally and release a beet-red pigment when wetted with a solution of potassium hydroxide (figure \@ref(fig:BrDis2A)).  The common name, hobnail canker, refers to the masses of rounded, bumpy stromata that appear on affected stems.
 
 
-(ref:BrDis1A) *Endothia gyrosa* stromata on coast live oak. Photo: Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:BrDis1A) *Endothia gyrosa* stromata on coast live oak. Photo: Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r BrDis1A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis1A)"}
 knitr::include_graphics("images/Disease-branch/endothia gyrosa 10-13-04c_Phytosphere.jpg")
@@ -618,7 +621,7 @@ knitr::include_graphics("images/Disease-branch/endothia gyrosa 10-13-04c_Phytosp
 
 
 
-(ref:BrDis2A) Close-up of *Endothia gyrosa* stromata.  At right is a slide mount of stromata in a solution of potassium hydroxide, showing the characteristic release of red pigment. Photo: Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:BrDis2A) Close-up of *Endothia gyrosa* stromata.  At right is a slide mount of stromata in a solution of potassium hydroxide, showing the characteristic release of red pigment. Photo: Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r BrDis2A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis2A)"}
 knitr::include_graphics("images/Disease-branch/ENDOTHIA GYROSA_Phytosphere.jpg")
@@ -667,15 +670,14 @@ knitr::include_graphics("images/distributions/M scutellare.gif")
 Fruiting bodies (basidiocarps) are produced at the base of the tree or higher up the stem (figure \@ref(fig:TrDis1D),  \@ref(fig:TrDis2D)).  They are hoof-like, perennial, very hard, often massive (up to 20 cm wide and 11 cm thick), and usually in clusters.  The upper surface is brown to blackish, concentrically zonate, irregularly cracked, and lacks hairs.  The lower surface is covered with fine circular pores (7—9 per mm) and is yellowish to grayish brown.
 
 
-(ref:TrDis1D) *Fomitiporia robusta* basidiocarps high on the trunk of this coast live oak are associated with a trunk cavity and canker rot symptoms.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:TrDis1D) *Fomitiporia robusta* basidiocarps high on the trunk of this coast live oak are associated with a trunk cavity and canker rot symptoms.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r TrDis1D, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis1D)"}
 knitr::include_graphics("images/Disease-trunk/FomRob_loc2 11-12-02 Phellinus Qa 2_Phytosphere.jpg")
 ```
 
 
-(ref:TrDis2D) *Fomitiporia robusta* basidiocarps at the base of a coast live oak.    Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
-
+(ref:TrDis2D) *Fomitiporia robusta* basidiocarps at the base of a coast live oak.    Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r TrDis2D, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis2D)"}
 knitr::include_graphics("images/Disease-trunk/FomRob_Phellinus robustus no spores QD Rockville Park Dec 8 2003 g_Phytosphere.jpg")
@@ -711,14 +713,14 @@ knitr::include_graphics("images/distributions/statewide.png")
 *F. gilva* fruiting bodies (basidiocarps) are shelf-like, 5—15 cm wide, 1.5—3 cm thick, corky, annual or perennial, and solitary or in overlapping clusters (figure \@ref(fig:TrDis1C), \@ref(fig:TrDis2C)).  The upper surface is generally dark yellowish brown but is variable in appearance and may be wrinkled, woolly, and/or zonate.  The lower surface is covered with minute round pores (6—8 per mm) and is initially buff-colored becoming dark purplish brown at maturity.  The pores are white within.
 
 
-(ref:TrDis1C) *Fuscoporia gilva* and *Annulohypoxylon thouarsianum* (black stromata on right) fruiting on failed coast live oak.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:TrDis1C) *Fuscoporia gilva* and *Annulohypoxylon thouarsianum* (black stromata on right) fruiting on failed coast live oak.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r TrDis1C, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis1C)"}
 knitr::include_graphics("images/Disease-trunk/FusGil_5X346 12-11-02 p gilvus c_Phytosphere.jpg")
 ```
 
 
-(ref:TrDis2C) Close-up of *Fuscoporia gilva* basidiocarp on coast live oak showing light pore surface.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:TrDis2C) Close-up of *Fuscoporia gilva* basidiocarp on coast live oak showing light pore surface.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r TrDis2C, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis2C)"}
 knitr::include_graphics("images/Disease-trunk/FusGil_8-212-4 fail 10-9-03 P gilvus a_Phytosphere.jpg")
@@ -757,7 +759,7 @@ The fungus is usually associated with a wound and causes a white pocket rot of l
 
 
 
-(ref:TrDis1A) Fresh fruiting body of *Hericium erinaceus* f. *erinaceus* at the edge of a decayed wound on coast live oak. Photo: Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:TrDis1A) Fresh fruiting body of *Hericium erinaceus* f. *erinaceus* at the edge of a decayed wound on coast live oak. Photo: Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r TrDis1A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis1A)"}
 knitr::include_graphics("images/Disease-trunk/HERICIUM ERINACEUS Q AGRIFOLIA ROCKVILLE 12-7-1989_Phytosphere.jpg")
@@ -802,14 +804,14 @@ This fungus causes a distinctive brown cubical wood decay of living trees, as we
 The distinctive bright yellow basidiocarps may be the first obvious symptoms of infection by *L. gilbertsonii*.  The presence of basidiocarps indicates that substantial internal decay is present and often presages failures at the root crown, trunk, or major branches.  However, basidiocarps may not form on affected trees until after failure has already occurred.  
 
 
-(ref:TrDis2A) Brown cubical wood decay of California black oak caused by *Laetiporus gilbertsonii*. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:TrDis2A) Brown cubical wood decay of California black oak caused by *Laetiporus gilbertsonii*. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r TrDis2A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis2A)"}
 knitr::include_graphics("images/Disease-trunk/LaeSul_3F79 11-11-02e_Phytosphere.jpg")
 ```
 
 
-(ref:TrDis3A) This *Laetiporus gilbertsonii* basidiocarp on valley oak developed on the scar left by a large scaffold failure. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:TrDis3A) This *Laetiporus gilbertsonii* basidiocarp on valley oak developed on the scar left by a large scaffold failure. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r TrDis3A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis3A)"}
 knitr::include_graphics("images/Disease-trunk/LAeSULQULO1_Phytosphere.jpg")
@@ -821,14 +823,14 @@ knitr::include_graphics("images/Disease-trunk/LAeSULQULO1_Phytosphere.jpg")
 Basidiocarps are annual and occur singly or in stacked clusters (figure \@ref(fig:TrDis4A)).  Newly emerging basidiocarps may appear as bright yellow lumpy masses, but mature to form a moist, fleshy, shelf-like fruiting body with a lower surface of fine circular pores (3—4 per mm).  Basidiocarps are edible when young but may cause allergic reactions in some individuals.  Mature basidiocarps are yellow with orange to brownish-orange banding on the upper surface; the lower pore surface is a light to intense lemon yellow (figure \@ref(fig:TrDis5A)).  Basidiocarps fade to pale brown or white with age and become dry, chalky, and crumbly.  Individual basidiocarps are variable in size, ranging up to at least 20 cm in diameter.
 
 
-(ref:TrDis4A) Cluster of *Laetiporus gilbertsonii*  basidiocarps on interior live oak   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:TrDis4A) Cluster of *Laetiporus gilbertsonii*  basidiocarps on interior live oak   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r TrDis4A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis4A)"}
 knitr::include_graphics("images/Disease-trunk/LAESULQUWI1_Phytosphere.jpg")
 ```
 
 
-(ref:TrDis5A) Close-up of fresh L. gilbertsonii basidiocarps on California black oak.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:TrDis5A) Close-up of fresh L. gilbertsonii basidiocarps on California black oak.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r TrDis5A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:TrDis5A)"}
 knitr::include_graphics("images/Disease-trunk/LAESULQUKE1_Phytosphere.jpg")
@@ -871,8 +873,8 @@ knitr::include_graphics("images/distributions/statewide.png")
 Oak mistletoe forms spherical to ellipsoidal clumps of light green leafy shoots that emerge from oak branches.  The oak branch is slightly to significantly swollen at the point where clusters of mistletoe shoots emerge.  Over time, the portion of the oak branch beyond the mistletoe clump may decline and die.  Clumps of oak mistletoe are often located in the upper portion of oak canopies (figure \@ref(fig:BrDis6A)).  Mistletoe infections tend to be clustered and multiple clumps commonly occur in individual trees or in groups of adjacent trees.
 
 
-(ref:BrDis6A) Oak mistletoe clumps in the upper canopy of a dormant blue oak.  Mistletoe infestations are most obvious in deciduous oaks during the winter. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
- 
+(ref:BrDis6A) Oak mistletoe clumps in the upper canopy of a dormant blue oak.  Mistletoe infestations are most obvious in deciduous oaks during the winter. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
 ```{r BrDis6A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis6A)"}
 knitr::include_graphics("images/Disease-branch/mistletoe_PICT0010_Phytosphere.jpg")
 ```
@@ -883,8 +885,8 @@ knitr::include_graphics("images/Disease-branch/mistletoe_PICT0010_Phytosphere.jp
 *P. leucarpum* ssp. *tomentosum* plants are evergreen with thick obovate-elliptic leaves that are 1.5—4.7 cm long by 1—2.5 cm wide (figure \@ref(fig:BrDis7A).  The leaves and young stems are covered with whitish or yellowish hairs, but older stems are hairless (glabrous).  Branches are generally erect, although longer stems, which can be up to 1 m long, may become pendulous under the weight of the foliage.  Flowers are present between July and September with male and female flowers occurring on separate plants.  Fruit are globose, 3—4 mm in diameter, pinkish white, and have short hairs near the tip.
 
 
-(ref:BrDis7A) Shoots and leaves of oak mistletoe, showing inflorescences in leaf axils.  A few pinkish white mistletoe fruit are visible in the lower half of the photo. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
- 
+(ref:BrDis7A) Shoots and leaves of oak mistletoe, showing inflorescences in leaf axils.  A few pinkish white mistletoe fruit are visible in the lower half of the photo. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
 ```{r BrDis7A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis7A)"}
 knitr::include_graphics("images/Disease-branch/mistletoe_PICT0013_Phytosphere.jpg")
 ```
@@ -897,7 +899,6 @@ Oak mistletoe fruit mature in early winter.  The fruit are eaten by various bird
 
 (ref:BrDis8A) Clump of oak mistletoe seeds deposited via bird droppings on an oak branch. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
- 
 ```{r BrDis8A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis8A)"}
 knitr::include_graphics("images/Disease-branch/MISTLETOE SEEDS Phytosphere.jpg")
 ```

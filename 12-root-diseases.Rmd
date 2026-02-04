@@ -21,20 +21,20 @@ knitr::include_graphics("images/distributions/Phytophthora root rot.gif")
 Root-rotting *Phytophthora* species decay fine roots and can also invade larger woody roots and cause bleeding cankers on the root crown and lower trunk.  In the early stages of infection, no obvious canopy symptoms may be visible. As the percentage of infected roots increases, trees may show little growth, develop small, yellowing leaves, and the canopy may become progressively more thin (figure \@ref(fig:RtDis1B)). Severe root rot alone may cause tree death  or death may be due to cankers that encircle the root crown and/ or lower trunk. *Phytophthora* species attack the inner bark and cambium, causing dark brown discoloration of affected tissues (figure \@ref(fig:RtDis1C)).  Dark brown to black lines are commonly found at the outer margin of the discolored infected tissue in the inner bark.  Reddish brown, dark brown, or black fluid may bleed from fissures in the bark in the cankered area.  Trunk cankers on oaks caused by *P. cinnamomi* and other soil-borne *Phytophthora* species typically originate below the soil or occasionally at the soil line and are normally associated with root rot. *P. cinnamomi* cankers in particular can sometimes extend up the trunk to 1 - 2 m or more above the soil (figure \@ref(fig:RtDis1D)).  Cankers caused by *P. ramorum* are similar in appearance, but *P. ramorum* cankers are initiated above the soil level, seldom extend more than a few cm below the soil level, and are not associated with root rot.
 
 
-(ref:RtDis1B) Early (left) and advanced (right) decline of scrub oak (*Quercus berberidifolia*) due to *Phytophthora cinnamomi* root rot.  Both photos were taken along a small creek in an area infested with *P. cinnamomi* in Amador County.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:RtDis1B) Early (left) and advanced (right) decline of scrub oak (*Quercus berberidifolia*) due to *Phytophthora cinnamomi* root rot.  Both photos were taken along a small creek in an area infested with *P. cinnamomi* in Amador County.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r RtDis1B, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:RtDis1B)"}
 knitr::include_graphics("images/Disease-root/PhyCin _Quercus-beberidifolia-Ione_Phytosphere.jpg")
 ```
 
-(ref:RtDis1C) *Phytophthora cinnamomi* canker on coast live oak. Bark has been removed along one edge of canker, note bleeding at bottom of image. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:RtDis1C) *Phytophthora cinnamomi* canker on coast live oak. Bark has been removed along one edge of canker, note bleeding at bottom of image. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r RtDis1C, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:RtDis1C)"}
 knitr::include_graphics("images/Disease-root/Phycin QA Phytosphere Somerset-Atherton _20120615_10.jpg")
 ```
 
 
-(ref:RtDis1D) Bleeding *Phytophthora cinnamomi* cankers on this *Quercus robur* (English oak) extended more than 2 m above the soil. In image at right, outer bark has been cut away from some cankers to reveal dark phloem tissue killed by the pathogen. Although outer phloem necrosis is not continuous, vertically aligned cankers are connected by infected inner phloem or xylem tissues.      Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:RtDis1D) Bleeding *Phytophthora cinnamomi* cankers on this *Quercus robur* (English oak) extended more than 2 m above the soil. In image at right, outer bark has been cut away from some cankers to reveal dark phloem tissue killed by the pathogen. Although outer phloem necrosis is not continuous, vertically aligned cankers are connected by infected inner phloem or xylem tissues.      Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r RtDis1D, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:RtDis1D)"}
 knitr::include_graphics("images/Disease-root/Phycin Qrob cankers composite 20140904_Phytosphere .jpg")
@@ -45,7 +45,7 @@ knitr::include_graphics("images/Disease-root/Phycin Qrob cankers composite 20140
 
 *Phytophthora* species fill an ecological niche similar to various plant pathogenic fungi, but are members of the kingdom Chromista, which includes both diatoms and brown algae.  All structures of *Phytophthora* species are microscopic.  *Phytophthora* species reproduce asexually through production of swimming spores (zoospores) which are produced in sporangia (figure \@ref(fig:RtDis3B)).  Species have been distinguished based on the sizes and characteristics of sexually produced spores (oospores), sporangia, thick-walled asexual spores (chlamydospores), and swellings in the vegetative filaments (hyphae).
 
-(ref:RtDis3B) Micrographs of *Phytophthora cinnamomi* showing sporangia (left), sporangium releasing zoospores (center) and chlamydospores (right).   Photos: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:RtDis3B) Micrographs of *Phytophthora cinnamomi* showing sporangia (left), sporangium releasing zoospores (center) and chlamydospores (right).   Photos: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r RtDis3B, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:RtDis3B)"}
 knitr::include_graphics("images/Disease-root/PhyCin_P cinnamomi microscopic structures_Phytosphere.jpg")
@@ -89,14 +89,14 @@ knitr::include_graphics("images/distributions/statewide.png")
 Trees with Armillaria root rot show general symptoms of poor root health, such as overall unthriftiness, canopy thinning, and branch dieback.  Under conditions that favor disease, *A. mellea* can kill mature oaks.  Trees with severe root rot also have an elevated risk of toppling due to root failure.  Both woody roots and the lower trunk may be colonized by the fungus, which kills the bark and cambium and causes a white rot of the underlying wood.  The bark of diseased root crown areas or exposed buttress roots may ooze a thick, dark fluid.  White sheet-like mycelial mats or plaques, often fan-shaped, form beneath the bark of diseased roots and the root crown (figure \@ref(fig:RtDis1A)).  These mats have a mushroom odor when fresh.  Affected wood initially has a water-soaked appearance, then becomes light colored and spongy as decay progresses.  Dark, root-like structures (rhizomorphs) are commonly formed by the fungus on the surface of infected roots (figure \@ref(fig:RtDis2A)) and may extend into the soil.  Rhizomorphs can also form under the bark of infected trees, generally late in the infection process.  The combination of root decay coupled with the presence of both mycelial plaques (fans) and rhizomorphs is typically sufficient to diagnose A. mellea root rot in California oaks.  *A. mellea* mushrooms sometimes form in the autumn or winter at the base of infected trees.  *A. gallica* also produces rhizomorphs that may be associated with living oak roots, but is not likely to cause serious root disease in oaks.  
 
 
-(ref:RtDis1A) Coast live oak with *Armillaria mellea* mycelial plaques (fans) under bark and associated bleeding.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:RtDis1A) Coast live oak with *Armillaria mellea* mycelial plaques (fans) under bark and associated bleeding.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r RtDis1A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:RtDis1A)"}
 knitr::include_graphics("images/Disease-root/ArmMel_3F92 11-11-02c rhizomorphs_Phytosphere.jpg")
 ```
 
 
-(ref:RtDis2A) *Armillaria mellea* rhizomorphs and mycelial plaque (right side) growing on decayed root.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:RtDis2A) *Armillaria mellea* rhizomorphs and mycelial plaque (right side) growing on decayed root.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r RtDis2A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:RtDis2A)"}
 knitr::include_graphics("images/Disease-root/ArmMel_amelleaplatycladus_Phytosphere.jpg")
@@ -111,21 +111,21 @@ Rhizomorphs resemble small dark roots (figure \@ref(fig:RtDis2A)).  Rhizomorphs 
 The fruiting bodies (basidiocarps) of *A. mellea* are gilled mushrooms (figure \@ref(fig:RtDis3A)), produced in clusters of eight to 10 but sometimes 30 or more (figure \@ref(fig:RtDis4A)).  Clusters of mushrooms arise from a common base , and each stalk in the cluster tapers to a point at the bottom.  Stalks are 5—20 cm tall, usually with a persistent ring on the upper part (figure \@ref(fig:RtDis5A)).  The cap (pileus) is honey colored, 3—13 cm in diameter, with a smooth surface; it lacks the small scales seen in some other *Armillaria* spp.  The spore print is white and spores are 7—9.5 by 5—7 µm.  *A. mellea* is the only *Armillaria* species in North America that lacks a clamp connection (a rounded swelling of the hypha) at the base of the basidium.  This is the most definitive characteristic of *A. mellea*, but can only be determined with a microscope.
 
 
-(ref:RtDis3A) Close-up *Armillaria mellea* mushroom showing attached, slightly decurrent gills.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:RtDis3A) Close-up *Armillaria mellea* mushroom showing attached, slightly decurrent gills.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r RtDis3A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:RtDis3A)"}
 knitr::include_graphics("images/Disease-root/Armillaria mellea buckeye Jan 4 04 c_Phytosphere.jpg")
 ```
 
 
-(ref:RtDis4A) Young cluster of *Armillaria mellea* mushrooms  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:RtDis4A) Young cluster of *Armillaria mellea* mushrooms  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r RtDis4A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:RtDis4A)"}
 knitr::include_graphics("images/Disease-root/ArmMel_AMELLEA_Pepperwood1989D_Phytosphere.jpg")
 ```
  
 
-(ref:RtDis5A) Old cluster of  *Armillaria mellea* mushrooms fruiting from buried root, showing clustered habit and ring on central stalk   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:RtDis5A) Old cluster of  *Armillaria mellea* mushrooms fruiting from buried root, showing clustered habit and ring on central stalk   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r RtDis5A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:RtDis5A)"}
 knitr::include_graphics("images/Disease-root/Armillaria mellea on Buckeye  Rockville Jan 4 04 b_Phytosphere.jpg")
@@ -185,21 +185,21 @@ Like other polypore fungi (including *Phellinus*, *Inonotus*, and *Laetiporus*),
 *G. lucidum* basidiocarps are annual, shelf-like or with a short stalk, and leathery to corky when fresh.  They develop singly or in overlapping clusters at or near ground level.  The upper surface is dark reddish brown and has a thin, shiny, varnish-like crust that becomes coated with a layer of dull brown basidiospores (9—12 by 5.5—8 μm) (figure \@ref(fig:RtDis7A)).  The pore surface is creamy white, becoming light buff and bruising dark purple brown (figure \@ref(fig:RtDis8A)).  Pores are circular to angular (4—5 per mm).
 
 
-(ref:RtDis6A) *Ganoderma applanatum* basidiocarp on coast live oak; brown basidiospores released from the fruiting body are visible both beneath it and on its upper surface.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:RtDis6A) *Ganoderma applanatum* basidiocarp on coast live oak; brown basidiospores released from the fruiting body are visible both beneath it and on its upper surface.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r RtDis6A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:RtDis6A)"}
 knitr::include_graphics("images/Disease-root/Ganoderma applanatum on coast live oak MMWD Oct 02_Phytosphere.jpg")
 ```
 
 
-(ref:RtDis7A) *Ganoderma lucidum* basidiocarp on California black oak; the coating of brown basidiospores has been rubbed away in one area to show the glossy upper surface.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:RtDis7A) *Ganoderma lucidum* basidiocarp on California black oak; the coating of brown basidiospores has been rubbed away in one area to show the glossy upper surface.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r RtDis7A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:RtDis7A)"}
 knitr::include_graphics("images/Disease-root/ganoderma lucidum QK Weston 8-12-04_Phytosphere.jpg")
 ```
 
 
-(ref:RtDis8A) Lower surface of *Ganoderma lucidum* basidiocarp; the white pore surface has turned brown where bruised by handling.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:RtDis8A) Lower surface of *Ganoderma lucidum* basidiocarp; the white pore surface has turned brown where bruised by handling.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r RtDis8A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:RtDis8A)"}
 knitr::include_graphics("images/Disease-root/ganoderma lucidum QK Weston 8-12-04 pore surface_Phytosphere.jpg")
@@ -245,14 +245,14 @@ knitr::include_graphics("images/distributions/inonotusdryadeus.gif")
 Basidiocarps vary in size, but can be massive, up to 75 cm wide and 15 cm thick (figure \@ref(fig:RtDis9A)).  Fresh basidiocarps are yellowish to brownish above and may be covered with drops of amber liquid, hence the name “weeping conk” (figure \@ref(fig:RtDis10A)).  The lower surface is buff with fine circular to angular pores (4—6 per mm), but tubes can become obscured in older basidiocarps.  Basidiocarps eventually turn blackish and become cracked.
 
 
-(ref:RtDis9A) Newly emerging basidiocarp of *Inonotus dryadeus* above small basidiocarp formed the previous year.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:RtDis9A) Newly emerging basidiocarp of *Inonotus dryadeus* above small basidiocarp formed the previous year.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r RtDis9A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:RtDis9A)"}
 knitr::include_graphics("images/Disease-root/InoDry_3-149 I dryadeus 10-2-04c_Phytosphere.jpg")
 ```
 
 
-(ref:RtDis10A) Large basidiocarp of  *Inonotus dryadeus*. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:RtDis10A) Large basidiocarp of  *Inonotus dryadeus*. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r RtDis10A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:RtDis10A)"}
 knitr::include_graphics("images/Disease-root/Inonotus  dryadeus tanoak sonoma coast sb 7-16-04b_Phytosphere.jpg")
@@ -287,13 +287,13 @@ knitr::include_graphics("images/distributions/oakworm.gif")
 The annual basidiocarps are stalked, gilled mushrooms (6—25 cm tall) that usually occur in clusters on or near trunks, stumps, or buried wood in the fall and winter (fig. 143).  
 
 
-(ref:RtDis11A) Basidiocarps of *Omphalotus olivascens*. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:RtDis11A) Basidiocarps of *Omphalotus olivascens*. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r RtDis11A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:RtDis11A)"}
 knitr::include_graphics("images/Disease-root/OMPHALOTUS OLIVACSENS Quercus agrifolia MMWD 11-28-2000_Phytosphere.jpg")
 ```
 
-(ref:RtDis12A) Basidiocarps of *Omphalotus olivascens*, note decurrent gills. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research. 
+(ref:RtDis12A) Basidiocarps of *Omphalotus olivascens*, note decurrent gills. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r RtDis12A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:RtDis12A)"}
 knitr::include_graphics("images/Disease-root/OMPHALOTUS OLIVACSENS quercus kelloggii Jack London SP 11-4-2000_Phytosphere.jpg")
