@@ -31,23 +31,22 @@
 
 #### Distribution / Hosts {-}
 
-Powdery mildews are widespread and occur on most oaks throughout California.  The taxonomy of the powdery mildews has undergone multiple revisions, with the most recent changes resulting in the rolling back of some previous name changes. 
+Powdery mildews are widespread and occur on most oaks throughout California.  The taxonomy of the powdery mildews has undergone multiple revisions. Most recently, the use of gene sequencing has resulted in a number of name changes and reclassifications. Except for studies on *Cystotheca*, few samples were included from California oaks, so it is possible our current understanding could change in the future.
 
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of powdery mildew (orange shading) and native oak species (green) in California.", out.width='30%'}
 knitr::include_graphics("images/distributions/statewide.png")
 ```
 
-*Cystotheca lanestris* (previously *Sphaerotheca lanestris*) is widespread and has been reported from most oaks in California.
+*Cystotheca lanestris* (previously *Sphaerotheca lanestris*) is widespread and has been reported from most oaks in California. It has also been reported from oaks in Arizona, Washington, and Mexico.
 
-*Erisyphe trinae* (formerly *Brasiliomyces trina*) is relatively uncommon and has been reported from coast live oak, canyon live oak, and tanoak. 
-
+*Erisyphe trinae* (formerly *Brasiliomyces trina*) is relatively uncommon and has been reported from Arizona and California. Reported hosts include coast live oak, canyon live oak, and tanoak, as well as *Q. alba* (white oak, native to Canada and eastern and central U.S.) and *Q. hypoleucoides* (silverleaf oak, native to Arizona, New Mexico, western Texas, and northern Mexico). 
 
 *Microsphaera penicillata* (current name *E. penicillata*) was split into four species, all of which have been reassigned to *Erysiphe* (*Erysiphe alphitoides*, *E. abbreviata*, *E.              calocladophora*, and *E. densissima* (@braun2000powdery).   However, most of the host/distribution reports based on  older names cannot be reassigned to one of the four new species without microscopic examination of the original specimens.  *M. penicillata* was reported on a wide variety of native oaks in California, including coast live, interior live, blue, valley, leather, Engelmann, Oregon white, California black, and various scrub oaks.  It was also reported on several cultivated non-native oaks in California, including English oak.
 
-*Microsphaera extensa* var. *curta*, previously included within *M. penicillata*, is now *E. densissima*. *E. densissima* occurs on a wide variety of oak species in North America.  In California, it has been confirmed on blue, valley, Oregon white, and California black oak, but may occur on other species. 
+Previous to 2025, a powdery mildew referred to as *Erysiphe (Microsphaera) extensa* var. *curta* had been confirmed on blue, valley, Oregon white, and California black oak. A re-examination of some species of *Erysiphe*  led to *E. extensa* var. *curta* being included in the species *E. denisissima*, which is restricted to a few *Quercus* species in the eastern U.S. (@bradshaw2025powdery). The western specimens previously identified as *E. extensa* var. *curta* were assigned to a new species: *E. occidentalis* (@bradshaw2025powdery).  
 
-*Phyllactinia angulata*  (= *Phyllactinia corylea*, *P. guttata*) is distributed throughout North America on trees in the families Fagaceae (includes oak, chestnut, beech) and Ulmaceae (includes elm, hackberry) and is reported in California on coast live, California black, and valley oak.  According to Braun (1987), the species of *Phyllactinia* previously identified as *P. corylea* on oaks in California should be assigned to this species. 
+*Phyllactinia angulata*  (= *Phyllactinia corylea*, *P. guttata*) is distributed throughout North America on trees in the families Fagaceae (includes oak, chestnut, beech) and is reported in California on coast live, California black, and valley oak (@bradshaw2025phyllactinieae).  According to Braun (1987), the species of *Phyllactinia* previously identified as *P. corylea* on oaks in California should be assigned to this species. 
 
 
 #### Symptoms {-}
