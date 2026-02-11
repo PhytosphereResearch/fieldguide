@@ -31,7 +31,7 @@
 
 #### Distribution / Hosts {-}
 
-Powdery mildews are widespread and occur on most oaks throughout California.  The taxonomy of the powdery mildews has undergone multiple revisions. Most recently, the use of gene sequencing has resulted in a number of name changes and reclassifications. Except for studies on *Cystotheca*, few samples were included from California oaks, so it is possible our current understanding could change in the future.
+Powdery mildews are widespread and occur on most oaks throughout California.  The taxonomy of the powdery mildews has undergone multiple revisions. Most recently, the use of gene sequencing has resulted in a number of name changes and reclassifications. Except for studies on *Cystotheca*, few samples were included from California oaks, so it is possible our current understanding of species present in Calfornia could change in the future.
 
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of powdery mildew (orange shading) and native oak species (green) in California.", out.width='30%'}
@@ -42,9 +42,8 @@ knitr::include_graphics("images/distributions/statewide.png")
 
 *Erisyphe trinae* (formerly *Brasiliomyces trina*) is relatively uncommon and has been reported from Arizona and California. Reported hosts include coast live oak, canyon live oak, and tanoak, as well as *Q. alba* (white oak, native to Canada and eastern and central U.S.) and *Q. hypoleucoides* (silverleaf oak, native to Arizona, New Mexico, western Texas, and northern Mexico). 
 
-*Microsphaera penicillata* (current name *E. penicillata*) was split into four species, all of which have been reassigned to *Erysiphe* (*Erysiphe alphitoides*, *E. abbreviata*, *E.              calocladophora*, and *E. densissima* (@braun2000powdery).   However, most of the host/distribution reports based on  older names cannot be reassigned to one of the four new species without microscopic examination of the original specimens.  *M. penicillata* was reported on a wide variety of native oaks in California, including coast live, interior live, blue, valley, leather, Engelmann, Oregon white, California black, and various scrub oaks.  It was also reported on several cultivated non-native oaks in California, including English oak.
-
-Previous to 2025, a powdery mildew referred to as *Erysiphe (Microsphaera) extensa* var. *curta* had been confirmed on blue, valley, Oregon white, and California black oak. A re-examination of some species of *Erysiphe*  led to *E. extensa* var. *curta* being included in the species *E. denisissima*, which is restricted to a few *Quercus* species in the eastern U.S. (@bradshaw2025powdery). The western specimens previously identified as *E. extensa* var. *curta* were assigned to a new species: *E. occidentalis* (@bradshaw2025powdery).  
+Historically, many powdery mildew specimens on oaks in California were assigned to *Microsphaera penicillata* (= *M. alni*). *M. penicillata* was reported on a wide variety of California native oaks, including coast live, interior live, blue, valley, leather, Engelmann, Oregon white, California black, and various scrub oaks.  It was also reported on several cultivated non-native oaks, including English oak. In 2000,*M. penicillata* was split into numerous host-specific species. The species reported on oaks in N. America were *M. alphitoides*, *M. abbreviata*, *M. calocladophora*, and *M. extensa* varieties *extensa* and *curta* (@braun2000powdery). All of these were transferred to the genus *Erysiphe*.  *E. extensa* var. *curta* was confirmed on blue, valley, Oregon white, and California black oak  in California (@braun2000powdery).  
+A re-examination of some species of *Erysiphe*  in North America by genetic sequencing led to *E. extensa* var. *curta* being included in the species *E. denisissima*, which (@bradshaw2025powdery) restricted to a few *Quercus* species in the eastern U.S. The western specimens previously identified as *E. extensa* var. *curta* were assigned to a newly created species: *E. occidentalis* (@bradshaw2025powdery).  Genetic sequencing also determined *E. penicillata* type material was restricted to *Alnus* host species in Europe (@bradshaw2024microsphaera1). That left the  material from California previously identified as *M. penicillata* without a current species name.  Without re-examination of the historic specimens, it is not possible to reassign material previously identified as *M. penicillata* to current species names.  
 
 *Phyllactinia angulata*  (= *Phyllactinia corylea*, *P. guttata*) is distributed throughout North America on trees in the families Fagaceae (includes oak, chestnut, beech) and is reported in California on coast live, California black, and valley oak (@bradshaw2025phyllactinieae).  According to Braun (1987), the species of *Phyllactinia* previously identified as *P. corylea* on oaks in California should be assigned to this species. 
 
@@ -95,19 +94,19 @@ knitr::include_graphics("images/Disease-leaftwig/E trinae QA china Camp 4-5-05b_
 
 
 
-*E. densissima* mycelium is normally present on the upper leaf surface.  It commonly forms a persistent thin whitish film over the entire leaf (figure \@ref(fig:LfDisPm6),  \@ref(fig:LfDisPm7)). *P. angulata* mycelium primarily occurs on the lower leaf surface but is also found on the upper surface. 
+*E. occidentalis* mycelium is normally present on the upper leaf surface.  It commonly forms a persistent thin whitish film over the entire leaf (figure \@ref(fig:LfDisPm6),  \@ref(fig:LfDisPm7)). *P. angulata* mycelium primarily occurs on the lower leaf surface but is also found on the upper surface. 
 
-(ref:LfDisPm6) *Eryisphe densissima* on valley oak.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:LfDisPm6) *Eryisphe occidentalis* on valley oak.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfDisPm6, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDisPm6)"}
 knitr::include_graphics("images/Disease-leaftwig/powdery mildew valley oak Vacaville Nov 18 2003 b_Phytosphere.jpg")
 ```
 
 
-(ref:LfDisPm7)  *Eryisphe densissima* on blue oak.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:LfDisPm7)  *Eryisphe occidentalis* on blue oak.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfDisPm7, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDisPm7)"}
-knitr::include_graphics("images/Disease-leaftwig/Erysiphe densissima on Q douglasii Nov 18 2003 d_Phytosphere.jpg")
+knitr::include_graphics("images/Disease-leaftwig/Erysiphe occidentalis on Q douglasii Nov 18 2003 d_Phytosphere.jpg")
 ```
 
 
@@ -121,16 +120,16 @@ Powdery mildew fungi on California oaks are differentiated primarily on the basi
 
 *C. lanestris* chasmothecia are of intermediate size (95 μm diameter) with unbranched, flexuous appendages. Each chasmothecium has a single ascus with eight ascospores. Conidia are abundant, barrel-shaped, and stick together end to end in chains.
 
-*E. densissima* chasmothecia are intermediate to fairly large (80–170 μm diameter). Each has five to 20 somewhat stiff appendages which are one to 2.5 times as long as the
-chasmothecium. Ends of mature appendages have many short dichotomous branches (figure \@ref(fig:LfDisPm8)). Each ascus has four to six (rarely three to eight) ascospores. Conidia are roughly cylindrical to somewhat barrel shaped.
+*E. occidentalis* chasmothecia are intermediate to fairly large (116-156 μm diameter). Each has  6 to 18 somewhat stiff appendages which are one to 2.5 times as long as the
+chasmothecium. Ends of mature appendages have many short dichotomous branches (figure \@ref(fig:LfDisPm8)). Each ascus has four to five ascospores. Conidia are roughly cylindrical to somewhat barrel shaped.
  
-*P. angulata* chasmothecia are large (about 270 μm diameter) and have needle-like appendages that are inflated at the base. Chasmothecia contain about 10 asci, each with two ascospores. Conidia are roughly cylindrical or somewhat constricted in the middle.
+*P. angulata* chasmothecia are large (about 270 μm diameter) and have needle-like appendages that are inflated at the base. Chasmothecia contain about 10 asci, each with two ascospores. Conidia are roughly cylindrical.
 
 
-(ref:LfDisPm8) Micrograph of *Erysiphe densissima* chasmothecia with hyaline, dichotomously branched appendages; developing appendages are unbranched.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:LfDisPm8) Micrograph of *Erysiphe occidentalis* chasmothecia with hyaline, dichotomously branched appendages; developing appendages are unbranched.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfDisPm8, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDisPm8)"}
-knitr::include_graphics("images/Disease-leaftwig/Eryisphe densissima from QL Nov-14-2003c_Phytosphere.jpg")
+knitr::include_graphics("images/Disease-leaftwig/Eryisphe occidentalis from QL Nov-14-2003c_Phytosphere.jpg")
 ```
 
 

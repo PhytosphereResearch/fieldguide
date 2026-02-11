@@ -5,47 +5,49 @@
 **μm (micrometer)** – A metric unit of length equal to one millionth of
 a meter or one thousandth of a millimeter.
 
-**Acervulus** (pl. acervuli) – A small, saucer- or cushion-shaped mass of conidiophores and conidia (asexual spores) that forms beneath the epidermis of leaves or twigs and is eventually exposed as the host tissue ruptures; no fungal tissue encloses the conidiophores.
+**acervulus** (pl. acervuli) – A small, saucer- or cushion-shaped mass of conidiophores and conidia (asexual spores) that forms beneath the epidermis of leaves or twigs and is eventually exposed as the host tissue ruptures; no fungal tissue encloses the conidiophores.
 
-**Aptera** (pl. apterae) – Wingless aphids.
+**aptera** (pl. apterae) – Wingless aphids.
 
-**Ascocarp** – Sexual fruiting body produced by fungi in the Ascomycotina. Common types of ascocarps are perithecia and cleistothecia. Sexual spores are produced in asci within or on the surface of the ascocarp.
+**ascocarp** – Sexual fruiting body produced by fungi in the Ascomycotina. Common types of ascocarps are perithecia and cleistothecia. Sexual spores are produced in asci within or on the surface of the ascocarp.
 
 **Ascomycotina** – A taxonomic group (subdivision) of the true fungi which produce sexual spores in asci. Also known as the Ascomycota or Ascomycetes in other classification systems.
 
-**Ascus** (pl. asci) – A sac-like structure in which sexual spores develop, produced by fungi in the Ascomycotina.
+**ascus** (pl. asci) – A sac-like structure in which sexual spores develop, produced by fungi in the Ascomycotina.
 
-**Basidiocarp** – Sexual fruiting body produced by fungi in the Basidiomycotina. These vary widely in shape and size, and include mushrooms and conks. Sexual spores are produced on basidia within or on the surface of the basidiocarp.
+**basidiocarp** – Sexual fruiting body produced by fungi in the Basidiomycotina. These vary widely in shape and size, and include mushrooms and conks. Sexual spores are produced on basidia within or on the surface of the basidiocarp.
 
 **Basidiomycotina** – A taxonomic group (subdivision) of the true fungi which produce sexual spores on basidia. Also known as the Basidiomycota or Basidiomycetes in other classification systems.
 
-**Basidium** (pl. basidia) – Microscopic club-shaped structures produced by fungi in the Basidiomycotina that produce sexual spores (basidiospores). Basidiospores are produced on the external surface of the basidium at the end of peg-like structures.
+**basidium** (pl. basidia) – Microscopic club-shaped structures produced by fungi in the Basidiomycotina that produce sexual spores (basidiospores). Basidiospores are produced on the external surface of the basidium at the end of peg-like structures.
 
-**Brown rot** – A type of fungal wood decay in which cellulose and hemicellulose are preferentially decayed, leaving behind brown colored lignin.
+**brown rot** – A type of fungal wood decay in which cellulose and hemicellulose are preferentially decayed, leaving behind brown colored lignin.
 
-**Chlamydospore** – A thick-walled asexual spore. Chlamydospores are commonly resistant spores that are adapted for surviving adverse conditions.
+**chasmothecium** (pl. chasmothecia) - A globose fruiting body (ascocarp) that differs from a cleistothecia because the wall of the fruiting body splits open when mature 
 
-**Chlorosis** (adj.  chlorotic) – Yellowing of leaves or other normally-green plant parts
+**chlamydospore** – A thick-walled asexual spore. Chlamydospores are commonly resistant spores that are adapted for surviving adverse conditions.
 
-**Cleistothecium** (pl. cleistothecia) – A globose fruiting body (ascocarp) that lacks a natural opening or pore; asci are entirely enclosed by the wall of the ascocarp 
+**chlorosis** (adj.  chlorotic) – Yellowing of leaves or other normally-green plant parts
 
-**Conidium** (pl. conidia) – An asexually (i.e., vegetatively) produced spore that is typically deciduous at maturity
+**cleistothecium** (pl. cleistothecia) – A globose fruiting body (ascocarp) that lacks a natural opening or pore; asci are entirely enclosed by the wall of the ascocarp. Spores are released when the wall of the cleistothecia degrades 
 
-**Conidiophore** – A fungal hypha, often specialized in structure, that bears one or more conidia
+**conidium** (pl. conidia) – An asexually (i.e., vegetatively) produced spore that is typically deciduous at maturity
 
-**Context** – The sterile tissue in a basidiocarp between the basidiospore-bearing tubes and the top surface (pileus).  In resupinate basidiocarps, which lack a pileus, the context is also referred to as the subiculum; the subiculum is attached directly to the substrate.
+**conidiophore** – A fungal hypha, often specialized in structure, that bears one or more conidia
 
-**Crawler** – The young, mobile life stage of a scale insect
+**context** – The sterile tissue in a basidiocarp between the basidiospore-bearing tubes and the top surface (pileus).  In resupinate basidiocarps, which lack a pileus, the context is also referred to as the subiculum; the subiculum is attached directly to the substrate.
 
-**Decurrent** – In mushrooms, gills that run down the stalk.
+**crawler** – The young, mobile life stage of a scale insect
 
-**Elytra** – The thick, hardened forewings of beetles
+**decurrent** – In mushrooms, gills that run down the stalk.
 
-**Embryo axis** – Within a seed, the portion of the embryo that includes the two growing points that develop into the root and shoot.  In oaks, the embryo axis is at the pointed end of the acorn.
+**elytra** – The thick, hardened forewings of beetles
 
-**Flagellum** (pl. flagella) – A threadlike or whiplike projection on a cell that functions to propel the cell through fluids
+**embryo axis** – Within a seed, the portion of the embryo that includes the two growing points that develop into the root and shoot.  In oaks, the embryo axis is at the pointed end of the acorn.
 
-**Frass** – solid insect excrement, especially that produced by larvae.  For larvae which feed in wood and/or bark, frass also includes xylem and/or phloem fragments (boring dust).
+**flagellum** (pl. flagella) – A threadlike or whiplike projection on a cell that functions to propel the cell through fluids
+
+**frass** – solid insect excrement, especially that produced by larvae.  For larvae which feed in wood and/or bark, frass also includes xylem and/or phloem fragments (boring dust).
 
 **haustorium** a specialized structure produced by parasitic plants (e.g. mistletoes) or fungi (e.g.  powdery mildews) that penetrates a host cell and serves to extract nutrients and water.
 
