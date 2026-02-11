@@ -54,7 +54,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. California oakworm / California oakmoth. In
 
 #### Distribution / Hosts {-}
 
-Fruit tree leafroller is found throughout the U. S.  In California, it is found from Siskiyou County southward to San Diego County and occurs on almost all oak species as well as pome fruits, shade, and ornamental plants.  The obliquebanded leafroller (*Choristoneura rosaceana*), which has similar larvae, has been reported on coast live oak in California.  It occurs on many hosts throughout the U.S.  Other larvae that cause similar damage on oaks in California include the European leafroller (*A. rosana*), the oak leaftier (*Croesia semipurpurana*), the stenomid oak leaf tier (*Setiostoma fernaldella*), and the phycitid oak leaf tier (Trachycera caliginella).
+Fruit tree leafroller is found throughout the U. S.  In California, it is found from Siskiyou County southward to San Diego County and occurs on almost all oak species as well as pome fruits, shade, and ornamental plants.  The obliquebanded leafroller (*Choristoneura rosaceana*), which has similar larvae, has been reported on coast live oak in California.  It occurs on many hosts throughout the U.S.  Other larvae that cause similar damage on oaks in California include the European leafroller (*A. rosana*), the oak leaftier (*Croesia semipurpurana*), the stenomid oak leaf tier (*Setiostoma fernaldella*), and the phycitid oak leaf tier (*Trachycera caliginella*).
 
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of fruit tree leafroller (orange shading) and native oak species (green) in California.", out.width='30%'}
@@ -70,7 +70,7 @@ Larvae feed only in the spring on new leaves.  Feeding occurs in young leaves th
 (ref:LfIns3) Damage to newly expanding valley oak leaves from feeding of fruit tree leafroller larvae. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfIns3, fig.align='center', fig.asp=.75, fig.cap="(ref:LfIns3)", out.width='75%'}
-knitr::include_graphics("images/Insect-leaf/ArcArg-QL-Archips argyrospila damage Mar 04 Vacaville g_Phytosphere.jpg")
+knitr::include_graphics("images/Insect-leaf/ArcArg-QL-g_Phytosphere.jpg")
 ```
 
 
@@ -83,7 +83,7 @@ Eggs are cemented together into flat, grayish to whitish masses that become ridd
 (ref:LfIns4) Fruit tree leafroller caterpillar hanging from silken thread. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfIns4, fig.align='center', fig.asp=.75, fig.cap="(ref:LfIns4)", out.width="284px"}
-knitr::include_graphics("images/Insect-leaf/ArcArg-QL-Archips argyrospila larva Mar 04 Vacaville b_adjusted Phytosphere.jpg")
+knitr::include_graphics("images/Insect-leaf/ArcArg-QL-b-Phytosphere.jpg")
 ```
 
 #### Biology {-}
