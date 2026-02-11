@@ -105,7 +105,7 @@ knitr::include_graphics("images/Insect-galls/AndChr-QD_andricus chrysolepidicola
 (ref:LfGalls6) Bud galls caused by *Burnettweldia* (=*Disholcaspis*) *plumbella* on a twig of *Quercus berberidifolia* (left) and by *Heteroecus sanctae-clarae* on the trunk of a young canyon live oak. Photos: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfGalls6, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls6)", out.width="95%"}
-knitr::include_graphics("images/Insect-galls/bud galls Disholcaspis  plumbella QB Heteroecus sanctaeclarae QC Phytosphere.JPG")
+knitr::include_graphics("images/Insect-galls/budgalls_Displu-QB_Hetsan-QC_Phytosphere.JPG")
 ```
 
 
@@ -117,7 +117,7 @@ Adults are small wasps, typically no more than about 4 mm long (figure  \@ref(fi
 (ref:LfGalls7) Adult gall wasps (large divisions 0.125 inch = 3.2 mm). Photo: Don Owen, CalFire, retired.
 
 ```{r LfGalls7, fig.align='center', fig.asp=.75, fig.cap="(ref:LfGalls7)", out.width="75%"}
-knitr::include_graphics("images/Insect-galls/DON OWEN  CYNIPID GALL WASPS LARGE DIVISION ONE EIGHTH INCH.jpg")
+knitr::include_graphics("images/Insect-galls/DON_OWEN_CYNIPID_GALL_WASPS-LG_DIV_1-8th-in.jpg")
 ```
 
 #### Biology {-}

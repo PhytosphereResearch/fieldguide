@@ -42,7 +42,7 @@ Eggs are oval, about 0.3 mm long.  Nymphs and adults are oval, with fine ridges 
 
 (ref:SapFdrs3) Close-up of several phylloxera nymphs on the underside of a valley oak leaf. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
-```{r SapFdrs3, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs3)", out.width="450px"}
+```{r SapFdrs3, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs3)", out.width="60%"}
 knitr::include_graphics("images/Insect-sap/Phyll-QL_ Nov 17 03 a_Phytosphere.jpg")
 ```
 
@@ -136,7 +136,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Woolly oak aphids. In Swiecki, T.J., et al.
 
 Crown whitefly is found throughout California.  It prefers coast live oak, but is also reported on canyon live, interior live, valley, and scrub oak, as well as chinquapin, tanoak, coffeeberry, toyon, madrone, and Rhus.
 
-```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of crown whiteflies   (orange shading) and native oak species (green) in California.", out.width='30%'}
+```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of crown whiteflies (orange shading) and native oak species (green) in California.", out.width='30%'}
 knitr::include_graphics("images/distributions/crownwhfly.GIF")
 ```
 

@@ -82,7 +82,7 @@ Eggs are cemented together into flat, grayish to whitish masses that become ridd
 
 (ref:LfIns4) Fruit tree leafroller caterpillar hanging from silken thread. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
-```{r LfIns4, fig.align='center', fig.asp=.75, fig.cap="(ref:LfIns4)", out.width="284px"}
+```{r LfIns4, fig.align='center', fig.asp=.75, fig.cap="(ref:LfIns4)", out.width="35%"}
 knitr::include_graphics("images/Insect-leaf/ArcArg-QL-b-Phytosphere.jpg")
 ```
 
