@@ -89,7 +89,7 @@ knitr::include_graphics("images/Insect-wood/Ambrosia beetles_3F97 11-11-02b_Phyt
 
 (ref:WdBorMon3) Detail showing ambrosia beetle larval tunnels branching from the end of the main entrance tunnel excavated by the adult male.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
-```{r WdBorMon3, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorMon3)", out.width="400px"}
+```{r WdBorMon3, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorMon3)", out.width="50%"}
 knitr::include_graphics("images/Insect-wood/Ambrosia beetle gallery closeup_5F197 11-19-02b_Phytosphere.jpg")
 ```
 
@@ -157,7 +157,7 @@ knitr::include_graphics("images/Insect-wood/DON OWENS BARK BEETLES.jpg")
 
 (ref:WdBorMon6) Boring dust on bark of coast live oak resulting from infestation by bark beetles (darker brown dust) and ambrosia beetles (lighter boring dust). Photo: Bruce Hagen, CalFire, retired.
 
-```{r WdBorMon6, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorMon6)", out.width="400px"}
+```{r WdBorMon6, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorMon6)", out.width="50%"}
 knitr::include_graphics("images/Insect-wood/AMBROSIA AND oak beetle  DUST B HAGEN.jpg")
 ```
 
@@ -236,7 +236,7 @@ Pacific flatheaded borer (*C. femorata*) adults emerge from March through Septem
 
 (ref:WdBorMon11) Pinned specimen of adult Pacific flatheaded borer. Photo: Larry G. Bezark, CDFA, retired.
 
-```{r WdBorMon11, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorMon11)", out.width="380px"}
+```{r WdBorMon11, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorMon11)", out.width="50%"}
 knitr::include_graphics("images/Insect-wood/Chrysobothris femorata LGBezark.jpg")
 ```
 
@@ -244,7 +244,7 @@ Flatheaded appletree borer (*C. mali*) adults, found from April to August, are a
 
 (ref:WdBorMon12) Pinned specimen of adult flatheaded appletree borer. Photo: Larry G. Bezark, CDFA, retired.
 
-```{r WdBorMon12, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorMon12)", out.width="380px"}
+```{r WdBorMon12, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorMon12)", out.width="50%"}
 knitr::include_graphics("images/Insect-wood/Chrysobothris mali LGBezark.jpg")
 ```
 
@@ -308,7 +308,7 @@ knitr::include_graphics("images/Insect-wood/AgrAug_EB_USFS San Diego field trip_
 
 (ref:WdBorMon17) *Agrilus auroguttatus* adult beetles shown in top and side views.  Photo: Tom Coleman, USDA-FS.
 
-```{r WdBorMon17, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorMon17)", out.width="300px"}
+```{r WdBorMon17, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorMon17)", out.width="50%"}
 knitr::include_graphics("images/Insect-wood/AgrAur_agrilus auroguttatus adults Tom Coleman.jpg")
 ```
 

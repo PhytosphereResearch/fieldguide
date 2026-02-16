@@ -215,7 +215,7 @@ Slit-like egg-laying (oviposition) wounds on fine branches can cause leaves to w
 
 (ref:SapFdrs10) *Platycotis vittata* adults and nymphs. CDF Photo: Bruce Hagen, CalFire, retired.
 
-```{r SapFdrs10, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs10)", out.width="400px"}
+```{r SapFdrs10, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs10)", out.width="50%"}
 knitr::include_graphics("images/Insect-sap/PlaVit-QA_OAK TREEHOPPER2 QA B HAGEN.jpg")
 ```
 
@@ -320,7 +320,7 @@ Mobile nymphs (crawlers) are flat and orangish and occur on leaves or twigs. Adu
 
 (ref:SapFdrs16) Close-up of oak lecanium scale. Photo: Bruce Hagen, CalFire, retired.
 
-```{r SapFdrs16, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs16)", out.width="400px"}
+```{r SapFdrs16, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs16)", out.width="50%"}
 knitr::include_graphics("images/Insect-sap/ParQue-QK_OAK LECANIUM SCALE B HAGEN.jpg")
 ```
 
@@ -406,7 +406,7 @@ Pinhead-sized scales are found on twigs and small branches. A ring of swollen ba
 
 (ref:SapFdrs19) Oak pit scale.  Swellings that give rise to pitted appearance have not yet formed around some of the younger scales. Photo: Bruce Hagen, CalFire, retired.
 
-```{r SapFdrs19, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs19)", out.width="400px"}
+```{r SapFdrs19, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs19)", out.width="50%"}
 knitr::include_graphics("images/Insect-sap/Ast_PIT SCALE Q SP B HAGEN.jpg")
 ```
 

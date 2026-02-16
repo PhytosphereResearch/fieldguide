@@ -5,21 +5,45 @@
 
 #### Distribution / Hosts {-}
 
+*Microstroma album* is reported on oaks in many parts of the world, including Algeria, Canada, Europe, Japan, New Zealand, and the U.S. In California, it has been reported on blue oak and valley oak from Shasta to Los Angeles counties, but mostly in coastal counties (figure x). It has been found on oracle oak (Q. × morehus) in Solano County.
+
+
+
+```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of *Microstroma album* (orange shading) and native oak species (green) in California.", out.width='30%'}
+knitr::include_graphics("images/distributions/Micalb.png")
+```
 
 
 #### Symptoms {-}
 
+Leaves infected with *M. album* (figure \@ref(fig:LfDisMa1),  \@ref(fig:LfDisMa2)) develop chlorotic (yellow) stippling or spots on the upper surface. Initially, these are angular and bounded by small leaf veins. These spots may merge to form yellow patches. The fungal fruiting bodies appear on the lower leaf surface as raised white spots. The tiny fruiting bodies emerge through stomata, so there is no cell rupture or necrosis associated with them.
+
+
+(ref:LfDisMa1) Symptoms of *Microstroma album* infection on upper (left) and lower (right) leaf surfaces of *Quercus* × *morehus*. Yellow stipple develops on the upper leaf surface while tiny white spots (fruiting structures and spores of the fungus) develop in corresponding locations on the lower leaf surface.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfDisMa1, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDisMa1)"}
+knitr::include_graphics("images/Disease-leaftwig/Microstroma album_Quercus Xmorehus_Phytosphere.jpg")
+```
+
+
+(ref:LfDisMa2) Closeup of clusters of tiny tufted fruiting bodies of *Microstroma album* on lower leaf surface of *Quercus* × *morehus*. Fruiting bodies consist of masses of basidia and sterile hyphae that emerge through stomata.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r LfDisMa2, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDisMa2)"}
+knitr::include_graphics("images/Disease-leaftwig/Microstroma album_QUMOleafimages0003_Phytosphere.jpg")
+```
 
 
 #### Agent Description {-}
 
-
+*M. album* is classified as a member of the Microstromatales, an order in the class Exobasidiomycetes in the Basidiomycota. The fungus alternates between two life forms: mycelial and yeast stages. The mycelial stage is diploid and an obligate pathogen of oaks, whereas the yeast stage arises from budding haploid basidiospores and is a free-living saprophyte, historically referred to as *Rhodotorula bacarum*. The yeast phase can be found on the leaf surface (phylloplane). Fruiting bodies consist of basidia (20-25 μm long) and sterile hyphae which emerge through the stomata in layers (@begerow2001). Each basidium gives rise to 4-6 basidiospores (5-7 × 3 μm) (Ellis and Ellis 1990). Some early mycologists interpreted these unusual fruiting bodies as asexual fruiting bodies. Due to controversy about its proper taxonomic placement, this fungus was assigned several different names in different taxonomic groups before the original name *M. album* was restored (@fodor2014).
 
 #### Biology {-}
 
-
+Aside from its complicated life history described above, little is known about its biology. Infection and fruiting seem to be favored by moisture
 
 #### Importance {-}
+
+On *Q*. × *morehus*, the fungus appears in late winter on overwintering leaves that are shed in early spring, so it has little or no impact.
 
 
 #### Citation {-}
@@ -31,7 +55,7 @@
 
 #### Distribution / Hosts {-}
 
-Powdery mildews are widespread and occur on most oaks throughout California.  The taxonomy of the powdery mildews has undergone multiple revisions. Most recently, the use of gene sequencing has resulted in a number of name changes and reclassifications. Except for studies on *Cystotheca*, few samples were included from California oaks, so it is possible our current understanding of species present in Calfornia could change in the future.
+Powdery mildews are widespread and occur on most oaks throughout California.  The taxonomy of the powdery mildews has undergone multiple revisions over the years. Most recently, the use of gene sequencing has resulted in a number of name changes and reclassifications. Except for studies on *Cystotheca*, few samples were included from California oaks, so it is possible our current understanding of species present in California could change in the future.
 
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of powdery mildew (orange shading) and native oak species (green) in California.", out.width='30%'}
@@ -40,13 +64,13 @@ knitr::include_graphics("images/distributions/statewide.png")
 
 *Cystotheca lanestris* (previously *Sphaerotheca lanestris*) is widespread and has been reported from most oaks in California. It has also been reported from oaks in Arizona, Washington, and Mexico.
 
-*Erisyphe trinae* (formerly *Brasiliomyces trina*) is relatively uncommon and has been reported from Arizona and California. Reported hosts include coast live oak, canyon live oak, and tanoak, as well as *Q. alba* (white oak, native to Canada and eastern and central U.S.) and *Q. hypoleucoides* (silverleaf oak, native to Arizona, New Mexico, western Texas, and northern Mexico). 
+*Erisyphe trinae* (formerly *Brasiliomyces trina*) is relatively uncommon and has been reported from Arizona and California. Reported hosts include coast live oak, canyon live oak, and tanoak , as well as *Q. alba* (white oak, native to Canada and eastern and central U.S.) and *Q. hypoleucoides* (silverleaf oak, native to Arizona, New Mexico, western Texas, and northern Mexico). 
 
-Historically, many powdery mildew specimens on oaks in California were assigned to *Microsphaera penicillata* (= *M. alni*). *M. penicillata* was reported on a wide variety of California native oaks, including coast live, interior live, blue, valley, leather, Engelmann, Oregon white, California black, and various scrub oaks.  It was also reported on several cultivated non-native oaks, including English oak. In 2000, *M. penicillata* was split into numerous host-specific species. The species reported on oaks in N. America were *M. alphitoides*, *M. abbreviata*, *M. calocladophora*, and *M. extensa* varieties *extensa* and *curta* (@braun2000powdery). All of these were transferred to the genus *Erysiphe*.  *E. extensa* var. *curta* was confirmed on blue, valley, Oregon white, and California black oak  in California (@braun2000powdery).  
+Historically, many powdery mildew specimens on oaks in California were assigned to *Microsphaera penicillata* (= *M. alni*). *M. penicillata* was reported on a wide variety of California native oaks, including coast live, interior live, blue, valley, leather, Engelmann, Oregon white, California black, and various scrub oaks.  It was also reported on several cultivated non-native oaks, including English oak. In 1982, *M. penicillata* was split into numerous host-specific species. The species reported on oaks in N. America were *M. alphitoides*, *M. abbreviata*, *M. calocladophora*, and *M. extensa* varieties *extensa* and *curta* (@braun1982). All of these were transferred to the genus *Erysiphe* (@braun2000powdery).  *E. extensa* var. *curta* was confirmed on blue, valley, Oregon white, and California black oak.  
 
-A re-examination of some species of *Erysiphe*  in North America by genetic sequencing led to *E. extensa* var. *curta* being included in the species *E. denisissima*, which is restricted to a few *Quercus* species in the eastern U.S. (@bradshaw2025powdery). The western specimens previously identified as *E. extensa* var. *curta* were assigned to a newly created species: *E. occidentalis* (@bradshaw2025powdery).  Genetic sequencing also determined *E. penicillata* type material was restricted to *Alnus* host species in Europe (@bradshaw2024microsphaera1). That left the  material from California previously identified as *M. penicillata* without a current species name.  Without re-examination of the historic specimens, it is not possible to reassign material previously identified as *M. penicillata* to current species names.  
+A re-examination of some species of *Erysiphe*  in North America by genetic sequencing led to *E. extensa* var. *curta* being included in the species *E. densissima*, which is restricted to a few *Quercus* species in the eastern U.S. (@bradshaw2025powdery). The western specimens previously identified as *E. extensa* var. *curta* were assigned to a newly created species: *E. occidentalis* (@bradshaw2025powdery).  Genetic sequencing also determined *E. penicillata* type material was restricted to *Alnus* host species in Europe (@bradshaw2024microsphaera1). That left the  material from California previously identified as *M. penicillata* without a current species name.  Without re-examination of the historic specimens, it is not possible to reassign material previously identified as *M. penicillata* to current species names.  
 
-*Phyllactinia angulata*  (= *Phyllactinia corylea*, *P. guttata*) is distributed throughout North America on trees in the families Fagaceae (includes oak, chestnut, beech) and is reported in California on coast live, California black, and valley oak (@bradshaw2025phyllactinieae).  According to Braun (1987), the species of *Phyllactinia* previously identified as *P. corylea* on oaks in California should be assigned to this species. 
+*Phyllactinia angulata*  (= *Phyllactinia corylea*, *P. guttata*) is distributed throughout North America on trees in the family Fagaceae (includes oak, chestnut, beech) and is reported in California on coast live, California black, and valley oak (@bradshaw2025phyllactinieae).  According to Braun (1987), the species of *Phyllactinia* previously identified as *P. corylea* on oaks in California should be assigned to this species. 
 
 
 #### Symptoms {-}
