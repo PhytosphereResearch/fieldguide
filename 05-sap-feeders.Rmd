@@ -59,28 +59,25 @@ The species of oak leaf phylloxera known from California are apparently of minor
 Swiecki, T.J.; Bernhardt, E.A. 2025. Oak leaf phylloxera. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
 
 ## Woolly oak aphids {-}
-### *Stegophylla querci*, *S. quercifoliae*, *S. essigi* (Aphididae) {-}
+### *Stegophylla essigi*, *S. quercifoliae* (Aphididae) {-}
 
 #### Distribution / Hosts {-}
 
-*Stegophylla querci* (=*S. quercicola*) is widely distributed in North America and much of California.  In California, it occurs on blue, valley, coast live, interior live, California black, and scrub oak and probably other oaks.  
+*Stegophylla essigi* is widespread in California, occurring in both coastal and inland counties, and has been reported from Oregon. It occurs on many California oaks, including blue, Engelmann, valley, Oregon white, coast live, interior live, California black, and scrub oak.
 
-```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of *Stegophylla querci* (orange shading) and native oak species (green) in California.", out.width='30%'}
-knitr::include_graphics("images/distributions/S querci.png")
+```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of *Stegophylla essigi* (orange shading) and native oak species (green) in California.", out.width='30%'}
+knitr::include_graphics("images/distributions/Steess.png")
 ```
 
-*S. quercifoliae* is found in the San Francisco Bay Area on at least blue oak and coast live oak.  It occurs on other oak species in other portions of the U.S. 
+
+*S. quercifoliae* is widely distributed in California but has been under-reported to date due to to the taxonomic confusion discussed below. Verified collections of *S. quercifoliae* have been made from blue, Engelmann, valley, coast live, interior live, and scrub oak. This aphid was originally described from specimens on scrub oa species in Colorado, and is also reported from Washington.    
 
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of *Stegophylla quercifoliae* (orange shading) and native oak species (green) in California.", out.width='30%'}
-knitr::include_graphics("images/distributions/S quercifoliae.png")
+knitr::include_graphics("images/distributions/Steque.png")
 ```
 
-*S. essigi* is known only from the West Coast, and is reported from many California oaks, including blue, valley, Oregon white, coast live, interior live, California black, and scrub oak.  However, there is only limited information on its distribution.
-
-```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of *Stegophylla essigi* (orange shading) and native oak species (green) in California.", out.width='30%'}
-knitr::include_graphics("images/distributions/S essigi.png")
-```
+The taxonomy of the *Stegophylla* species on oaks in California and elsewhere has been confused since the woolly aphid *Eriosoma querci* Fitch was described on oaks from northern Illinois in 1859. However, he described winged (alate) forms that were of a different, non-woolly species. As detailed by Hill Ris Lambers, this initiated a series of confused and conflicting reclassifications resulting in an invalid taxon *Stegophylla querci* (Fitch) being incorrectly synonymized with the distinct species *Stegophylla quercicola*. California woolly oak aphids described by Swain (1919) as *Phyllapsis* (*Stegophylla*) *quercicola* were named  *Stegophylla essigi* by Hill Ris Lambers. Quednau (2010) used name *S. davisi* to replace the invalid name *S. querci*, but that species was limited to species found on oaks in eastern North America, as was the redefined *S. quercicola*. As a result, past records of *S. querci* and *S. quercicola* in California appear to be  *S. essigi* or *S. quercifoliae*, which have overlapping ranges.
 
 #### Symptoms {-}
 
@@ -93,7 +90,7 @@ knitr::include_graphics("images/Insect-sap/SteQue-QL_Stegophylla querci valley o
 ```
 
 
-Feeding by first generation *S. essigi* in spring causes the edges of young leaves to fold over to the upper side of the leaf, forming a protective shelter in which the aphids feed and where wax accumulates (figure  \@ref(fig:SapFdrs5)).  The folded leaf area may show a reddish discoloration initially and eventually may die.
+Hill Ris Lambers noted that *S. essigi* may only be found on a few trees in areas where it occurs. Feeding by first generation *S. essigi* in spring causes the edges of young leaves to fold over to the upper side of the leaf, forming a protective shelter in which the aphids feed and where wax accumulates (figure  \@ref(fig:SapFdrs5)).  The folded leaf area may show a reddish discoloration initially and eventually may die.
 
 (ref:SapFdrs5) Symptoms of *Stegophylla essigi* on coast live oak; affected leaf margins are folded upward and become reddish. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
