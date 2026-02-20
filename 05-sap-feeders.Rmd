@@ -77,15 +77,23 @@ knitr::include_graphics("images/distributions/Steess.png")
 knitr::include_graphics("images/distributions/Steque.png")
 ```
 
-As detailed by @hillerislambers1966, the taxonomy of the *Stegophylla* species on oaks in California and elsewhere in North America has been confused through a series of misidentifications and classifications.  A woolly aphid on twigs of oaks in northern Illinois was named *Eriosoma querci* Fitch in 1859. However, Fitch described winged (alate) forms for this aphid that were in fact different, non-woolly species on non-oak hosts. This initiated a series of confused and conflicting reclassifications resulting in *E. querci* being transferred to the invalid name *Stegophylla querci* (Fitch), which was then incorrectly synonymized with a separate species, *Stegophylla quercicola*. @swain1919 described woolly oak aphids occurring on several California oak aphids species that formed pesudogall on leaf edges. He classified these as *Phyllaphis* (later *Stegophylla*) *quercicola*, although he indicated that the  "identity of this species has never been definitely established" and noted that *S. quercicola*  was thought to differ from teh woolly oak aphids in California. @hillerislambers1966 determined that Swain's aphids were a distinct species, which he named *Stegophylla essigi*. *Stegophylla querci* and *S. quercicola* continued to be used as names for various California woolly oak aphids until  @quednau2010 replaced the invalid name *S. querci* with *S. davisi*, which occurs on oaks in eastern North America. He also clarified that *S. quercicola* also applied to eastern North American oak woolly aphids. 
+As detailed by @hillerislambers1966, the taxonomy of the *Stegophylla* species on oaks in California and elsewhere in North America has been confused through a series of misidentifications and classifications.  A woolly aphid on twigs of oaks in northern Illinois was named *Eriosoma querci* Fitch in 1859. However, Fitch described winged (alate) forms for this aphid that were in fact different, non-woolly species on non-oak hosts. This initiated a series of confused and conflicting reclassifications resulting in *E. querci* being transferred to the invalid name *Stegophylla querci* (Fitch), which was then incorrectly synonymized with a separate species, *Stegophylla quercicola*. @swain1919 described woolly oak aphids occurring on several California oak aphids species that formed pesudogall on leaf edges. He classified these as *Phyllaphis* (later *Stegophylla*) *quercicola*, although he indicated that the  "identity of this species has never been definitely established" and noted that *S. quercicola*  was thought to differ from the woolly oak aphids in California. @hillerislambers1966 determined that Swain's aphids were a distinct species, which he named *Stegophylla essigi*, but did not definitively resolve the nomenclature issues involving  *Stegophylla querci* and *S. quercicola*.  @quednau2010 replaced the invalid name *S. querci* with *S. davisi*, a species that occurs on oaks in eastern North America. He also clarified that *S. quercicola* applied oak woolly aphids in eastern North America.
 
-@gillette1914 described *Phyllaphis* (later *Stegophylla*) *quercifolia* on leaves of scrub oaks in Colorado. This species does not form pseudogalls but seemed to prefer leaves folded by leafrollers or other causes. This aphid was previously thought to be *Eriosoma querci* Fitch. In 1916, E.O. Essig collected and identified *Stegophylla quercifoliae* on coast live oak and valley oak, and many other collections have since been made of that species on California oak.
+@gillette1914 described *Phyllaphis* (later *Stegophylla*) *quercifoliae* on leaves of scrub oaks in Colorado. This species does not form pseudogalls but seemed to prefer leaves folded by leafrollers or other causes. When first described in Colorado, this aphid was thought to be *Eriosoma querci* Fitch (also referred to as *Schizoneura querci* Fitch). Many California woolly oak aphid collections identified as *S. quercifoliae* before 1950 were subsequently determined to be *E. essigi* [@idigbio022026], but other collections made during and after this period were correctly assigned to *S. quercifoliae*.
 
 In summary, past California records of *S. querci* and *S. quercicola* refer to *S. essigi* or *S. quercifoliae*, which are the two common and widespread woolly oak aphids in California.
 
 #### Symptoms {-}
 
-Masses of white wax filaments produced by *S. querci* and *S. quercifoliae* nymphs and adults are visible on infested leaves (figure  \@ref(fig:SapFdrs4)).  *S. querci* forms small, scattered colonies on upper or lower leaf surfaces.  *S. quercifoliae* infests the undersides of leaves.  Large colonies may cause leaves to curl.
+Feeding by first generation *S. essigi* in spring causes the edges of young leaves to fold over to the upper side of the leaf, forming a protective shelter in which the aphids feed and where wax accumulates (figure  \@ref(fig:SapFdrs5)). These have been referred to as pseudogalls or galls. The pseudogall may show a reddish discoloration initially and may die eventually. Generations of aphids produced later in the season form unprotected small colonies on the lower and upper leaf surfaces [@hillrislambers1966, @swain1919].
+
+*S. quercifoliae* infests the undersides of leaves. It does not form pseudogalls but can frequently be found in leaves folded by leafrolling caterpillars [@gillette1914]. Colonies produce profuse amounts of cottony white wool. Wingless females have bright red eyes.  Heavy infestations in young leaves may induce some curling or distortion.  
+
+
+
+
+
+Masses of white wax filaments produced by *S. querci* and *S. quercifoliae* nymphs and adults are visible on infested leaves (figure  \@ref(fig:SapFdrs4)).  *S. querci* forms small, scattered colonies on upper or lower leaf surfaces.    Large colonies may cause leaves to curl.
 
 (ref:SapFdrs4) Woolly oak aphid (*Stegophylla querci*) colonies on valley oak. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
@@ -94,7 +102,7 @@ knitr::include_graphics("images/Insect-sap/SteQue-QL_Stegophylla querci valley o
 ```
 
 
-Hill Ris Lambers [@hillerislambers1966] noted that *S. essigi* may only be found on a few trees in areas where it occurs. Feeding by first generation *S. essigi* in spring causes the edges of young leaves to fold over to the upper side of the leaf, forming a protective shelter in which the aphids feed and where wax accumulates (figure  \@ref(fig:SapFdrs5)).  The folded leaf area may show a reddish discoloration initially and eventually may die.
+
 
 (ref:SapFdrs5) Symptoms of *Stegophylla essigi* on coast live oak; affected leaf margins are folded upward and become reddish. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
