@@ -27,7 +27,7 @@ knitr::include_graphics("images/distributions/statewide.png")
 
 #### Citation  {-}
 
-_____________ 2025. Invasive shot hole borers (ISHB). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+_____________ 2025. Invasive shot hole borers (ISHB). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### Mediterranean oak borer (MOB) {-}
 
@@ -48,7 +48,7 @@ Needs to be drafted.
 
 #### Citation {-}
 
-_____________ 2025. Mediterranean oak borer (MOB). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+_____________ 2025. Mediterranean oak borer (MOB). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### *Monarthrum dentiger*, *M. scutellare* {-}
 
@@ -116,7 +116,7 @@ Ambrosia beetles only attack trees or branches that are already dead, diseased, 
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. *Monarthrum dentiger*,  *M. scutellare*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. *Monarthrum dentiger*,  *M. scutellare*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### Western oak bark beetle and other oak bark beetles {-}
 
@@ -190,7 +190,7 @@ Oak bark beetles colonize trees or parts of trees that are severely weakened, dy
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Western oak bark beetle and other oak bark beetles. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Western oak bark beetle and other oak bark beetles. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Flatheaded borers / Metallic wood boring beetles (Buprestidae) {-}
 
@@ -251,7 +251,7 @@ knitr::include_graphics("images/Insect-wood/Chrysobothris mali LGBezark.jpg")
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Flatheaded appletree borer and Pacific flatheaded borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Flatheaded appletree borer and Pacific flatheaded borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### Goldspotted oak borer (GSOB) {-}
 
@@ -329,7 +329,7 @@ GSOB has been associated with extensive mortality of coast live and California b
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Goldspotted oak borer (GSOB). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Goldspotted oak borer (GSOB). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Roundheaded borers / Long-horned beetles (Cerambycidae) {-}
 
@@ -353,7 +353,7 @@ knitr::include_graphics("images/Insect-wood/Rosalia funebris Vacaville August 19
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Banded alder borer / California laurel borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Banded alder borer / California laurel borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### California prionus {-}
 
@@ -375,7 +375,7 @@ knitr::include_graphics("images/Insect-wood/Prionus californicus_John Muir Laws.
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. California prionus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. California prionus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### Nautical borer {-}
 
@@ -396,7 +396,7 @@ knitr::include_graphics("images/Insect-wood/Nautical borer_ TWDavis-Cal Acad Sci
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Nautical borer - *Xylotrechus nauticus*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Nautical borer - *Xylotrechus nauticus*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### *Neoclytus conjunctus* {-}
 
@@ -417,7 +417,7 @@ knitr::include_graphics("images/Insect-wood/Neoclytus conjunctus LGBezark.jpg")
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. *Neoclytus conjunctus*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. *Neoclytus conjunctus*. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Other wood borers {-}
 
@@ -477,7 +477,7 @@ Bleeding and scarring of the affected area may be unsightly.  Girdling associate
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Carpenterworm. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Carpenterworm. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### Lead cable borer {-}
 
@@ -500,7 +500,7 @@ knitr::include_graphics("images/Insect-wood/Scobicia declivis lead cable borer_J
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Lead cable borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Lead cable borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### Pigeon tremex {-}
 
@@ -522,7 +522,7 @@ knitr::include_graphics("images/Insect-wood/Tremex columba Pigeon tremex_John Mu
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Pigeon tremex. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Pigeon tremex. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### Western sycamore borer {-}
 
@@ -581,5 +581,5 @@ Bark of infested trees may become unsightly, but the amount of damage caused by 
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Western sycamore borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Western sycamore borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 

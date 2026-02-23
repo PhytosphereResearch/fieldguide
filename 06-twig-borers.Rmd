@@ -14,7 +14,7 @@ knitr::include_graphics("images/Insect-twig/Ane-Lin_Aneflomorpha lineare LGBezar
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. *Aneflomorpha linearis* (Cerambycidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. *Aneflomorpha linearis* (Cerambycidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Oak twig borer {-}
 
@@ -34,7 +34,7 @@ knitr::include_graphics("images/Insect-twig/Sty-full-cal Styloxus fulleri califo
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Oak twig borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak twig borer. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Oak twig girdler {-}
 
@@ -90,7 +90,7 @@ Oak twig girdler is believed to be attracted to trees weakened by drought.  High
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Oak twig girdler. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak twig girdler. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## *Scobicia suturalis* (Bostrichidae) {-}
 
@@ -105,4 +105,4 @@ knitr::include_graphics("images/distributions/Chryphonectira map.gif")
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. *Scobicia suturalis* (Bostrichidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. *Scobicia suturalis* (Bostrichidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.

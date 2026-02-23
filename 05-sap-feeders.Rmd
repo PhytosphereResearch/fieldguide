@@ -56,7 +56,7 @@ The species of oak leaf phylloxera known from California are apparently of minor
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Oak leaf phylloxera. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak leaf phylloxera. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Woolly oak aphids {-}
 ### *Stegophylla essigi*, *S. quercifoliae* (Aphididae) {-}
@@ -77,7 +77,7 @@ knitr::include_graphics("images/distributions/Steess.png")
 knitr::include_graphics("images/distributions/Steque.png")
 ```
 
-As detailed by @hillerislambers1966, the taxonomy of the *Stegophylla* species on oaks in California and elsewhere in North America has been confused through a series of misidentifications and classifications.  A woolly aphid on twigs of oaks in northern Illinois was named *Eriosoma querci* Fitch in 1859. However, Fitch described winged (alate) forms for this aphid that were in fact different, non-woolly species on non-oak hosts. This initiated a series of confused and conflicting reclassifications resulting in *E. querci* being transferred to the invalid name *Stegophylla querci* (Fitch), which was then incorrectly synonymized with a separate species, *Stegophylla quercicola*. @swain1919 described woolly oak aphids occurring on several California oak aphids species that formed pesudogall on leaf edges. He classified these as *Phyllaphis* (later *Stegophylla*) *quercicola*, although he indicated that the  "identity of this species has never been definitely established" and noted that *S. quercicola*  was thought to differ from the woolly oak aphids in California. @hillerislambers1966 determined that Swain's aphids were a distinct species, which he named *Stegophylla essigi*, but did not definitively resolve the nomenclature issues involving  *Stegophylla querci* and *S. quercicola*.  @quednau2010 replaced the invalid name *S. querci* with *S. davisi*, a species that occurs on oaks in eastern North America. He also clarified that *S. quercicola* applied oak woolly aphids in eastern North America.
+As detailed by @hillerislambers1966, the taxonomy of the *Stegophylla* species on oaks in California and elsewhere in North America has been confused through a series of misidentifications and misclassifications.  A woolly aphid on twigs of oaks in northern Illinois was named *Eriosoma querci* Fitch in 1859. However, Fitch described winged (alate) forms for this aphid that were actually a  different, non-woolly species on non-oak hosts. This initiated a series of confused and conflicting reclassifications resulting in *E. querci* being eventually transferred to the invalid name *Stegophylla querci* (Fitch), which was then incorrectly synonymized with a separate species, *Stegophylla quercicola*. @swain1919 described woolly oak aphids occurring on several California oak aphids species that formed pesudogall on leaf edges. He classified these as *Phyllaphis* (later *Stegophylla*) *quercicola*, although he indicated that the  "identity of this species has never been definitely established" and noted that *S. quercicola*  was thought to differ from the woolly oak aphids in California. @hillerislambers1966 determined that Swain's California aphids were a distinct species, which he named *Stegophylla essigi*, but did not definitively resolve the nomenclature issues involving  *Stegophylla querci* and *S. quercicola*.  @quednau2010 replaced the invalid name *S. querci* with *S. davisi*, described as a species that occurs on oaks in eastern North America. He also clarified that *S. quercicola* applied oak woolly aphids in eastern North America.
 
 @gillette1914 described *Phyllaphis* (later *Stegophylla*) *quercifoliae* on leaves of scrub oaks in Colorado. This species does not form pseudogalls but seemed to prefer leaves folded by leafrollers or other causes. When first described in Colorado, this aphid was thought to be *Eriosoma querci* Fitch (also referred to as *Schizoneura querci* Fitch). Many California woolly oak aphid collections identified as *S. quercifoliae* before 1950 were subsequently determined to be *E. essigi* [@idigbio022026], but other collections made during and after this period were correctly assigned to *S. quercifoliae*.
 
@@ -85,57 +85,53 @@ In summary, past California records of *S. querci* and *S. quercicola* refer to 
 
 #### Symptoms {-}
 
-Feeding by first generation *S. essigi* in spring causes the edges of young leaves to fold over to the upper side of the leaf, forming a protective shelter in which the aphids feed and where wax accumulates (figure  \@ref(fig:SapFdrs5)). These have been referred to as pseudogalls or galls. The pseudogall may show a reddish discoloration initially and may die eventually. Generations of aphids produced later in the season form unprotected small colonies on the lower and upper leaf surfaces [@hillrislambers1966, @swain1919].
+Feeding by first generation  *S. essigi* in spring on upper leaf surfaces induces the edges of young leaves to fold over onto the upper side of the leaf. This forms a protective shelter referred to as a pseudogall or gall in which the aphids feed and where woolly wax produced by the aphids accumulates (figure  \@ref(fig:SapFdrs5)). Pseudogalls may show a reddish discoloration initially and may die eventually. Generations of aphids produced later in the season form unprotected small colonies on the lower and upper leaf surfaces (@hillerislambers1966, @swain1919).   
 
-*S. quercifoliae* infests the undersides of leaves. It does not form pseudogalls but can frequently be found in leaves folded by leafrolling caterpillars [@gillette1914]. Colonies produce profuse amounts of cottony white wool. Wingless females have bright red eyes.  Heavy infestations in young leaves may induce some curling or distortion.  
+*S. quercifoliae* infests the undersides of leaves. It does not form pseudogalls but can frequently be found in leaves folded by leafrolling caterpillars [@gillette1914]. Colonies produce profuse amounts of cottony white wool (figure  \@ref(fig:SapFdrs4)). Wingless females have bright red eyes.  Heavy infestations on young leaves may induce some curling or distortion.  
 
-
-
-
-
-Masses of white wax filaments produced by *S. querci* and *S. quercifoliae* nymphs and adults are visible on infested leaves (figure  \@ref(fig:SapFdrs4)).  *S. querci* forms small, scattered colonies on upper or lower leaf surfaces.    Large colonies may cause leaves to curl.
-
-(ref:SapFdrs4) Woolly oak aphid (*Stegophylla querci*) colonies on valley oak. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
-
-```{r SapFdrs4, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs4)", out.width="75%"}
-knitr::include_graphics("images/Insect-sap/SteQue-QL_Stegophylla querci valley oak 9-5-2003b_Phytosphere.jpg")
-```
-
-
-
-
-(ref:SapFdrs5) Symptoms of *Stegophylla essigi* on coast live oak; affected leaf margins are folded upward and become reddish. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:SapFdrs5) Leaf edge pseudogalls produced by the feeding of *Stegophylla essigi* on coast live oak . Affected leaf margins are folded upward and become reddish.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r SapFdrs5, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs5)", out.width="75%"}
 knitr::include_graphics("images/Insect-sap/SteEss-QA_S essigi Q agrifolia 3-12-04 c_Phytosphere.jpg")
 ```
 
+
+(ref:SapFdrs4) Woolly oak aphid (*Stegophylla quercifoliae*) colonies on the undersides of valley oak leaves. Note heavy deposits of waxy flocculence. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r SapFdrs4, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs4)", out.width="75%"}
+knitr::include_graphics("images/Insect-sap/SteQue-QL_Stegophylla quercifoliae valley oak 9-5-2003b_Phytosphere.jpg")
+```
+
+
 #### Agent Description {-}
+In both species, all females are wingless (apterous). Males may be either winged (alate) or wingless.
 
-Wingless adults (apterae) of all species are covered in white wax wool.
-*S. querci* apterae are oval, pale greenish- or brownish-yellow, 1—1.5 mm long, and have dense wax wool (figure  \@ref(fig:SapFdrs6)).
-*S. quercifoliae* apterae are yellowish to yellowish green with a brown head, 1.1—1.5 mm long, and have loose wax wool.
-*S. essigi* apterae are broadly oval, pale gray-green to olive and 1.2—1.8 mm long.
+*S. essigi* : Fundatrices (1st generation from overwintering eggs) are dark green, covered with curly white wax wool. Viviparous (asexually reproducing) females are broadly oval, light gray-green to pale olive, and covered with woolly wax, about 1.2—1.8 mm long. Oviparous (sexually reproducing) females are dirty obscure green with paler center, rarely pink, not woolly dorsally but with conspicuous wax beards distal to the cornicles (siphunculi). Alate males lack wax wool, are shorter, and have blackish head, thorax, antennae and legs, and blackish green abdomen [@hillerislambers1966].
+
+*S. quercifoliae*: Viviparous females are yellowish to light green, 1.1—1.5 mm long, and covered more or less densely with loose cottony wax. Eyes are bright red. Head, thorax and antennae are yellowish to yellowish brown (figure  \@ref(fig:SapFdrs6)). Oviparous females vary in color, straw yellow, pale yellowish green, or pink, about 1.3-1.6 mm long. They have the same loose cottony wax covering and bright red eyes as viviparous females. Head, antennae, legs, anal and gland plates are dusky in color. Alate males are very slender and 0.95 - 1.05 mm long with bright red eyes. Their body color is variable and similar to oviparous females, but with head, thorax, antennae and wing veins blackish. Bodies of winged males have some waxy threads or a powdery wax layer. Eggs (0.5 x 0.3 mm) are pale green and covered with short fragments of wax [@gillette1914].    
 
 
-(ref:SapFdrs6) Close-up of *Stegophylla querci* nymph. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:SapFdrs6) Viviparous female of *Stegophylla quercifoliae*. Note red eyes and copious wax wool. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r SapFdrs6, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs6)", out.width="75%"}
-knitr::include_graphics("images/Insect-sap/SteQue-QL_Stegophylla querci valley oak 10-22-2003c_Phytosphere.jpg")
+knitr::include_graphics("images/Insect-sap/SteQue-QL_Stegophylla quercifoliae valley oak 10-22-2003c_Phytosphere.jpg")
 ```
 
 
 #### Biology {-}
 
-Woolly oak aphids overwinter as eggs.  Several generations develop each year.  In the spring, females reproduce parthenogenically (without mating).  In the fall, male and female aphids are produced.  Adult males may be either winged or wingless. *S. querci* has sexual females (oviparae) and both wingless and winged males in September and October. For *S. essigi*, oviparae and both wingless and winged males are produced in November.  Populations of *S. essigi* may continue to reproduce parthenogenically on evergreen oaks such as *Q. agrifolia*, especially in leaves tied together by caterpillar silk.
+*S. essigi* overwinters as eggs, although populations may continue to reproduce parthenogenically on evergreen oaks such as *Q. agrifolia*, especially in leaves tied together by caterpillar silk. Only the first generation that overwinters as eggs induces leaf edge pseudogalls. Several asexually-reproducing (viviparous) generations develop over the spring and summer, with sexual (oviparous) females and males being produced in fall. 
+
+*S. quercifoliae* presumably overwinters as eggs. Multiple asexually-reproducing (viviparous) generations develop over the spring and summer, with sexual (oviparous) females and males being produced in late fall.    
+
 
 #### Importance {-}
 
-Woolly wax deposits may become conspicuous and possibly unsightly, especially late in the season.  Damage to trees is normally minimal.
+Early season damage from *S. essigi* pseudogalls on developing leaves. Heavy infestations of *S. quercifoliae* can produce conspicuous and possibly unsightly deposits of loose wax, especially late in the season. Feeding by woolly oak aphids and has no substantial impact on tree condition.
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Woolly oak aphids. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2026. Woolly oak aphids. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Whiteflies {-}
 
@@ -200,7 +196,7 @@ Whiteflies do not cause significant damage to oaks and are typically of little o
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Whiteflies. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Whiteflies. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Treehoppers {-}
 ### *Platycotis vittata*, *P. vittata quadrivittata*, *P. minax* (Membracidae) {-}
@@ -245,7 +241,7 @@ Although damage may sometimes be conspicuous, damage to mature trees is generall
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Treehoppers. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Treehoppers. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Kuwana oak scale {-}
 
@@ -303,7 +299,7 @@ Infestations tend to be highly localized in distribution.  Other than obvious vi
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Kuwana oak scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Kuwana oak scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Oak lecanium scale {-}
 
@@ -352,7 +348,7 @@ Honeydew dripping and subsequent sooty mold growth may become a nuisance.  Great
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Oak lecanium scale (Coccidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak lecanium scale (Coccidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 
 ## Obscure scale {-}
@@ -393,7 +389,7 @@ This scale was introduced to California from the eastern U.S., where it is a sig
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Obscure scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Obscure scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Pit scales {-}
 
@@ -448,6 +444,6 @@ Pit scales are serious pests of oaks in California, especially in southern Calif
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Pit scales. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Pit scales. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 

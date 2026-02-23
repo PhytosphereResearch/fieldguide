@@ -64,7 +64,7 @@ Phytophthora root rots are common causes of decline in transplanted nursery stoc
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Phytophthora root rot. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Phytophthora root rot. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Fungal root diseases {-}
 
@@ -146,7 +146,7 @@ The fungus can survive for decades or longer in the soil on dead, decaying roots
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Armillaria root rot / oak root fungus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Armillaria root rot / oak root fungus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### Ganoderma root rot {-}
 
@@ -218,7 +218,7 @@ Fruiting bodies produce great numbers of basidiospores which are disseminated by
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Ganoderma root rot. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Ganoderma root rot. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 
 ### Weeping conk {-}
@@ -266,7 +266,7 @@ Trees with *I. dryadeus* fruiting bodies have substantial amounts of root decay 
  
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Weeping conk. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Weeping conk. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### Western jack o’lantern fungus {-}
 
@@ -315,6 +315,6 @@ Fruiting of this fungus at the base of living oaks suggests that it can attack l
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Western jack o’lantern fungus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2026.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Western jack o’lantern fungus. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 

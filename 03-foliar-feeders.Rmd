@@ -46,7 +46,7 @@ Within its range, oakworm is probably the most serious defoliator of oaks in Cal
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. California oakworm / California oakmoth. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. California oakworm / California oakmoth. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Fruit tree leafroller and similar insects {-}
 
@@ -96,7 +96,7 @@ This is a common, well-known, and important insect pest of oaks.  A severe multi
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Fruit tree leafroller and similar insects. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Fruit tree leafroller and similar insects. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Oak ribbed casemaker {-}
 
@@ -134,7 +134,7 @@ The oak ribbed case maker is one of the more common insects affecting oaks and m
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Oak ribbed casemaker. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Oak ribbed casemaker. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Tent caterpillars {-}
 
@@ -225,7 +225,7 @@ Other than obvious aesthetic impacts, tent caterpillars typically do not cause m
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Tent caterpillars. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Tent caterpillars. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Western tussock moth {-}
 
@@ -274,6 +274,6 @@ Oaks may occasionally be seriously defoliated.  Damage on other hosts can someti
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Western tussock moth. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition 2025.
+Swiecki, T.J.; Bernhardt, E.A. 2025. Western tussock moth. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 
