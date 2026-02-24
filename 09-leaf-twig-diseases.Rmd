@@ -5,7 +5,7 @@
 
 #### Distribution / Hosts {-}
 
-*Microstroma album* is reported on oaks in many parts of the world, including Algeria, Canada, Europe, Japan, New Zealand, and the U.S.  (e.g. (@shaw1960) In California, it has been reported on blue oak and valley oak from Shasta to Los Angeles counties, but mostly in coastal counties (figure x). It has been found on oracle oak (Q. × morehus) in Solano County.
+*Microstroma album* is reported on oaks in many parts of the world, including Algeria, Canada, Europe, Japan, New Zealand, and the U.S. In California, it has been reported on blue oak and valley oak from Shasta to Los Angeles counties, but mostly in coastal counties . It has been found on oracle oak (Q. × morehus) in Solano County.
 
 
 
@@ -19,7 +19,7 @@ knitr::include_graphics("images/distributions/Micalb.png")
 Leaves infected with *M. album* (figure \@ref(fig:LfDisMa1),  \@ref(fig:LfDisMa2)) develop chlorotic (yellow) stippling or spots on the upper surface. Initially, these are angular and bounded by small leaf veins. These spots may merge to form yellow patches. The fungal fruiting bodies appear on the lower leaf surface as raised white spots. The tiny fruiting bodies emerge through stomata, so there is no cell rupture or necrosis associated with them.
 
 
-(ref:LfDisMa1) Symptoms of *Microstroma album* infection on upper (left) and lower (right) leaf surfaces of *Quercus* × *morehus*. Yellow stipple develops on the upper leaf surface while tiny white spots (fruiting structures and spores of the fungus) develop in corresponding locations on the lower leaf surface.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:LfDisMa1) Symptoms of *Microstroma album* infection on upper (left) and lower (right) leaf surfaces of *Quercus* × *morehus*. Yellow stipple develops on the upper leaf surface while tiny white spots (which are fruiting structures and spores of the fungus) develop in corresponding locations on the lower leaf surface.   Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfDisMa1, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDisMa1)"}
 knitr::include_graphics("images/Disease-leaftwig/Microstroma album_Quercus Xmorehus_Phytosphere.jpg")
@@ -35,7 +35,7 @@ knitr::include_graphics("images/Disease-leaftwig/Microstroma album_QUMOleafimage
 
 #### Agent Description {-}
 
-*M. album* is classified as a member of the Microstromatales, an order in the class Exobasidiomycetes in the Basidiomycota. The fungus alternates between two life forms: mycelial and yeast stages. The mycelial stage is diploid and an obligate pathogen of oaks, whereas the yeast stage arises from budding haploid basidiospores and is a free-living saprophyte, historically referred to as *Rhodotorula bacarum*. The yeast phase can be found on the leaf surface (phylloplane). Fruiting bodies consist of basidia (20-25 μm long) and sterile hyphae which emerge through the stomata in layers [@begerow2001]. Each basidium gives rise to 4-6 basidiospores (5-7 × 3 μm) ([@ellis1990] as cited by ). Some early mycologists interpreted these unusual fruiting bodies as asexual fruiting bodies. Due to controversy about its proper taxonomic placement, this fungus was assigned several different names in different taxonomic groups before the original name *M. album* was restored [@fodor2014].
+*M. album* is classified as a member of the Microstromatales, an order in the class Exobasidiomycetes in the Basidiomycota. The fungus alternates between two life forms: mycelial and yeast stages. The mycelial stage is diploid and an obligate pathogen of oaks, whereas the yeast stage arises from budding haploid basidiospores and is a free-living saprophyte, historically referred to as *Rhodotorula bacarum*. The yeast phase can be found on the leaf surface (phylloplane). Fruiting bodies consist of basidia (20-25 μm long) and sterile hyphae which emerge through the stomata in layers [@begerow2001]. Each basidium gives rise to 4-6 hyaline basidiospores (5-7 × 3 μm) containing 2 guttules ([@ellis1990] as cited by [@fodor2014]). Some early mycologists interpreted these unusual fruiting bodies as asexual fruiting bodies. Due to controversy about its proper taxonomic placement, this fungus was assigned several different names in different taxonomic groups before the original name *M. album* was restored [@fodor2014].
 
 #### Biology {-}
 
