@@ -5,7 +5,7 @@
 
 #### Distribution / Hosts {-}
 
-*Microstroma album* is reported on oaks in many parts of the world, including Algeria, Canada, Europe, Japan, New Zealand, and the U.S. In California, it has been reported on blue oak and valley oak from Shasta to Los Angeles counties, but mostly in coastal counties . It has been found on oracle oak (Q. × morehus) in Solano County.
+*Microstroma album* is reported on oaks in many parts of the world, including Algeria, Canada, Europe, Japan, New Zealand, and the U.S. In California, it has been reported on blue oak and valley oak from Shasta to Los Angeles counties, but mostly in coastal counties . It has been found on oracle oak (*Q.* × *morehus*) in Solano County.
 
 
 
@@ -35,7 +35,7 @@ knitr::include_graphics("images/Disease-leaftwig/Microstroma album_QUMOleafimage
 
 #### Agent Description {-}
 
-*M. album* is classified as a member of the Microstromatales, an order in the class Exobasidiomycetes in the Basidiomycota. The fungus alternates between two life forms: mycelial and yeast stages. The mycelial stage is diploid and an obligate pathogen of oaks, whereas the yeast stage arises from budding haploid basidiospores and is a free-living saprophyte, historically referred to as *Rhodotorula bacarum*. The yeast phase can be found on the leaf surface (phylloplane). Fruiting bodies consist of basidia (20-25 μm long) and sterile hyphae which emerge through the stomata in layers [@begerow2001]. Each basidium gives rise to 4-6 hyaline basidiospores (5-7 × 3 μm) containing 2 guttules ([@ellis1990] as cited by [@fodor2014]). Some early mycologists interpreted these unusual fruiting bodies as asexual fruiting bodies. Due to controversy about its proper taxonomic placement, this fungus was assigned several different names in different taxonomic groups before the original name *M. album* was restored [@fodor2014].
+*M. album* is classified as a member of the Microstromatales, an order in the class Exobasidiomycetes in the Basidiomycota. The fungus alternates between two life forms: mycelial and yeast stages. The mycelial stage is diploid and an obligate pathogen of oaks, whereas the yeast stage arises from budding haploid basidiospores and is a free-living saprophyte, historically referred to as *Rhodotorula bacarum*. The yeast phase can be found on the leaf surface (phylloplane). Fruiting bodies consist of basidia (20-25 μm long) and sterile hyphae that emerge through the stomata in layers [@begerow2001]. Each basidium gives rise to 4-6 hyaline basidiospores (5-7 × 3 μm) containing 2 guttules ([@ellis1990] as cited by [@fodor2014]). Some early mycologists interpreted these unusual fruiting bodies as asexual fruiting bodies. Due to controversy about its proper taxonomic placement, this fungus was assigned several different names in different taxonomic groups before the original name *M. album* was restored [@fodor2014].
 
 #### Biology {-}
 
@@ -48,7 +48,7 @@ On *Q*. × *morehus*, the fungus appears in late winter on overwintering leaves 
 
 #### Citation {-}
 
----------------- 2026. *Microstroma album*.  In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
+Bernhardt, E.A; Swiecki, T.J. 2026. *Microstroma album*.  In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Powdery mildews {-}
 
@@ -62,15 +62,15 @@ Powdery mildews are widespread and occur on most oaks throughout California.  Th
 knitr::include_graphics("images/distributions/statewide.png")
 ```
 
-*Cystotheca lanestris* (previously *Sphaerotheca lanestris*) is widespread and has been reported from most oaks in California. It has also been reported from oaks in Arizona, Washington, and Mexico.
+*Cystotheca lanestris* (formerly *Sphaerotheca lanestris*) is widespread and has been reported from most oaks in California. It has also been reported from oaks in Arizona, Washington, and Mexico.
 
 *Erisyphe trinae* (formerly *Brasiliomyces trina*) is relatively uncommon and has been reported from Arizona and California. Reported hosts include coast live oak, canyon live oak, and tanoak , as well as *Q. alba* (white oak, native to Canada and eastern and central U.S.) and *Q. hypoleucoides* (silverleaf oak, native to Arizona, New Mexico, western Texas, and northern Mexico). 
 
-Historically, many powdery mildew specimens on oaks in California were assigned to *Microsphaera penicillata* (= *M. alni*). *M. penicillata* was reported on a wide variety of California native oaks, including coast live, interior live, blue, valley, leather, Engelmann, Oregon white, California black, and various scrub oaks.  It was also reported on several cultivated non-native oaks, including English oak. In 1982, *M. penicillata* was split into numerous host-specific species. The species reported on oaks in N. America were *M. alphitoides*, *M. abbreviata*, *M. calocladophora*, and *M. extensa* varieties *extensa* and *curta* (@braun1982). All of these were transferred to the genus *Erysiphe* (@braun2000powdery).  *E. extensa* var. *curta* was confirmed on blue, valley, Oregon white, and California black oak.  
+Historically, many powdery mildew specimens on oaks in California were assigned to *Microsphaera penicillata* (= *M. alni*). *M. penicillata* was reported on a wide variety of California native oaks, including coast live, interior live, blue, valley, leather, Engelmann, Oregon white, California black, and various scrub oaks.  It was also reported on several cultivated non-native oaks, including English oak. In 1982, *M. penicillata* was split into numerous host-specific species. The species reported on oaks in N. America were *M. alphitoides*, *M. abbreviata*, *M. calocladophora*, and *M. extensa* varieties *extensa* and *curta* [@braun1982]. All of these were transferred to the genus *Erysiphe* [@braun2000powdery].  *E. extensa* var. *curta* was confirmed on blue, valley, Oregon white, and California black oak.  
 
-A re-examination of some species of *Erysiphe*  in North America by genetic sequencing led to *E. extensa* var. *curta* being included in the species *E. densissima*, which is restricted to a few *Quercus* species in the eastern U.S. (@bradshaw2025powdery). The western specimens previously identified as *E. extensa* var. *curta* were assigned to a newly created species: *E. occidentalis* (@bradshaw2025powdery).  Genetic sequencing also determined *E. penicillata* type material was restricted to *Alnus* host species in Europe (@bradshaw2024microsphaera1). That left the  material from California previously identified as *M. penicillata* without a current species name.  Without re-examination of the historic specimens, it is not possible to reassign material previously identified as *M. penicillata* to current species names.  
+A re-examination of some species of *Erysiphe*  in North America by genetic sequencing led to *E. extensa* var. *curta* being included in the species *E. densissima*, which is restricted to a few *Quercus* species in the eastern U.S. [@bradshaw2025powdery]. The western specimens previously identified as *E. extensa* var. *curta* were assigned to the newly described created species *E. occidentalis* [@bradshaw2025powdery].  Genetic sequencing also indicated that *E. penicillata* type material was restricted to *Alnus* host species in Europe [@bradshaw2024microsphaera1]. That left the  material from California previously identified as *M. penicillata* without a current species name.  Without re-examination of the historic specimens, it is not possible to reassign material previously identified as *M. penicillata* to current species names.  
 
-*Phyllactinia angulata*  (= *Phyllactinia corylea*, *P. guttata*) is distributed throughout North America on trees in the family Fagaceae (includes oak, chestnut, beech) and is reported in California on coast live, California black, and valley oak (@bradshaw2025phyllactinieae).  According to Braun (1987), the species of *Phyllactinia* previously identified as *P. corylea* on oaks in California should be assigned to this species. 
+*Phyllactinia angulata*  (= *Phyllactinia corylea*, *P. guttata*) is distributed throughout North America on trees in the family Fagaceae (includes oak, chestnut, beech) and is reported in California on coast live, California black, and valley oak [@bradshaw2025phyllactinieae].  According to @braun1987, the species of *Phyllactinia* previously identified as *P. corylea* on oaks in California should be assigned to this species. 
 
 
 #### Symptoms {-}
@@ -141,14 +141,14 @@ knitr::include_graphics("images/Disease-leaftwig/Erysiphe occidentalis on Q doug
 
 Powdery mildew fungi on California oaks are differentiated primarily on the basis of their sexual fruiting bodies (chasmothecia, also referred to as cleistothecia in older literature) and to a lesser degree on their microscopic asexual spores (conidia). Chasmothecia are just large enough to see without magnification, but observing their diagnostic appendages and other features requires a microscope.
 
-*E. trinae* chasmothecia are abundant, yellow-brown, somewhat transparent, small (60 μm diameter), and lack appendages.  Each chasmothecium contains two to three saclike structures (asci), each of which contains two spores (ascospores).  *E. trinae* produces almost no conidia.  
+*C. lanestris* chasmothecia are of intermediate size (95 μm diameter) with unbranched, flexuous appendages. Each chasmothecium encloses a single saclike structure (ascus) containing eight spores (ascospores). Conidia are abundant, barrel-shaped, and stick together end to end in chains.
 
-*C. lanestris* chasmothecia are of intermediate size (95 μm diameter) with unbranched, flexuous appendages. Each chasmothecium has a single ascus with eight ascospores. Conidia are abundant, barrel-shaped, and stick together end to end in chains.
+*E. trinae* chasmothecia are abundant, yellow-brown, somewhat transparent, small (60 μm diameter), and lack appendages.  Each chasmothecium contains two to three asci, each of which contains two ascospores.  *E. trinae* produces almost no conidia.  
 
 *E. occidentalis* chasmothecia are intermediate to fairly large (116-156 μm diameter). Each has  6 to 18 somewhat stiff appendages which are one to 2.5 times as long as the
-chasmothecium. Ends of mature appendages have many short dichotomous branches (figure \@ref(fig:LfDisPm8)). Each ascus has four to five ascospores. Conidia are roughly cylindrical to somewhat barrel shaped.
+chasmothecium. Ends of mature appendages have many short dichotomous branches (figure \@ref(fig:LfDisPm8)). Each chasmothecium contains six asci, each of which contain four to five ascospores. Conidia are ellipsoid-cylindrical, with ornamented walls that form yellowish warts and ridges when dry.
  
-*P. angulata* chasmothecia are large (about 270 μm diameter) and have needle-like appendages that are inflated at the base. Chasmothecia contain about 10 asci, each with two ascospores. Conidia are roughly cylindrical.
+*P. angulata* chasmothecia are large (about 270 μm diameter) and have needle-like appendages that are inflated at the base. Chasmothecia contain about 10 asci, each with two ascospores. Conidia have an angular dumbbell shape, being somewhat constricted in the center. 
 
 
 (ref:LfDisPm8) Micrograph of *Erysiphe occidentalis* chasmothecia with hyaline, dichotomously branched appendages; developing appendages are unbranched.  Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
@@ -163,16 +163,16 @@ knitr::include_graphics("images/Disease-leaftwig/Eryisphe occidentalis from QL N
 
 Powdery mildew fungi derive nutrition from living host cells, so infected host tissues are generally not directly killed by these parasitic fungi.  Most powdery mildew leaf infections affect only the outermost layer of leaf cells (epidermis), but the systemic infections caused by *C. lanestris* affect multiple cell layers.
 
-Powdery mildew fungi overwinter as chasmothecia or, in the case of *C. lanestris*, as mycelium in infected buds.  Chasmothecia may be less likely to form on evergreen oaks than on deciduous oaks.  In spring, ascospores are released from the chasmothecia and are blown or splashed onto host leaves.  After ascospores germinate, they form swollen structures (appressoria) on the leaf surface.  Hyphal pegs formed under the appressoria penetrate host epidermal cells.  Fungal structures (haustoria) are formed within living host cells and absorb nutrients that the fungus uses for growth and reproduction.  Most of the fungal mycelium grows on the outer surface of infected leaves and produces dry conidia.  Conidia are blown to young succulent shoots and initiate new infections throughout the growing season.  Powdery mildew infection is favored by warm days and cool nights and is inhibited by wet conditions.  Vigorous new growth produced late in the growing season, such as stump sprouts and epicormic shoots produced after heavy pruning, may develop severe powdery mildew infections.  Unlike the other powdery mildew infections, which are most noticeable in late summer and fall, infections by *E. trinae* can be found in the spring
+Powdery mildew fungi overwinter as chasmothecia or, in the case of *C. lanestris*, as mycelium in infected buds.  Chasmothecia may be less likely to form on evergreen oaks than on deciduous oaks.  In spring, ascospores are released from the chasmothecia and are blown or splashed onto host leaves.  After ascospores germinate, they form swollen structures (appressoria) on the leaf surface.  Hyphal pegs formed under the appressoria penetrate host epidermal cells.  Fungal structures (haustoria) are formed within living host cells and absorb nutrients that the fungus uses for growth and reproduction.  Most of the fungal mycelium grows on the outer surface of infected leaves and produces dry conidia.  Conidia are blown to young succulent shoots and initiate new infections throughout the growing season.  Powdery mildew infection is favored by warm days and cool nights and is inhibited by wet conditions.  Vigorous new growth produced late in the growing season, such as stump sprouts and epicormic shoots produced after heavy pruning, may develop severe powdery mildew infections.  Unlike the other powdery mildew infections, which are most noticeable in late summer and fall, infections by *E. trinae* can be found in the spring.
 
 
 #### Importance {-}
 
-Levels of infection are not normally severe enough to substantially affect plant health, except possibly in small seedlings.  Symptoms, including mycelium, witches’ brooms, and leaf distortion, may be unsightly.
+Levels of infection are not normally severe enough to substantially affect plant health, except possibly in small seedlings. Young shoots that develop witches’ brooms may be killed. Symptoms, including mycelium, witches’ brooms, and leaf distortion, may be unsightly.
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Powdery mildews. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
+Bernhardt, E.A., Swiecki, T.J. 2026. Powdery mildews. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Oak leaf blister {-}
 
@@ -181,7 +181,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Powdery mildews. In Swiecki, T.J., et al. (
 #### Distribution / Hosts {-}
 
 *Taphrina caerulescens* is reported to affect more than 50 species of oaks in the North America, Mexico, Europe, and Asia. In California, this pathogen is reported on native blue, valley, Engelmann, California black, and coast live
-oak and on some non-native oaks. Oaks in the subsection Lobatae (red/black oaks) are generally more susceptible than those in subsection Quercus (white oaks).
+oak and on some non-native oaks. Oaks in the subgenus Lobatae (red/black oaks) are generally more susceptible than those in subgenus Quercus (white oaks).
 
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of *Taphrina caerulescens* (orange shading) and native oak species (green) in California.", out.width='30%'}
@@ -193,13 +193,13 @@ knitr::include_graphics("images/distributions/Tapcae.png")
 
 Rounded, wrinkled blisters develop on the upper surface of young leaves (figure \@ref(fig:LfDis2A)). These blisters appear as depressions when the lower leaf surface is viewed. Blisters range in size from 3 to 30 mm and sometimes coalesce, affecting large areas of the leaf. Severe leaf distortion may result, and young leaves may drop if heavily infected. Blisters are initially light green, yellowish, or whitish on the upper leaf surface and yellow-brown to gray on the underside of the leaf (figure \@ref(fig:LfDis2B)). As blisters age, their upper surfaces may turn reddish or purplish and then brown. On coast live oak, symptoms caused by erineum mites mayappear similar to oak leaf blister. Inspection of symptomatic tissues under a microscope may be necessary to confirm whether symptoms are associated with erineum mites or *T. caerulescens*.
 
-(ref:LfDis2A) Oak leaf blister symptoms on the upper surfaces of Oracle oak leaves. Photo: Phytosphere Research.
+(ref:LfDis2A) Oak leaf blister symptoms on the upper surfaces of *Quercus* × *morehus* leaves. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfDis2A, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis2A)"}
 knitr::include_graphics("images/Disease-leaftwig/Tapcae-QxM-Phytosphere-1.jpg")
 ```
 
-(ref:LfDis2B) Oak leaf blister symptoms on the lower surfaces of Oracle oak leaves. Photo: Phytosphere Research.
+(ref:LfDis2B) Oak leaf blister symptoms on the lower surfaces of *Quercus* × *morehus* leaves. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfDis2B, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis2B)"}
 knitr::include_graphics("images/Disease-leaftwig/Tapcae-QxM-Phytosphere-2.jpg")
@@ -221,7 +221,7 @@ In California, oak leaf blister is generally uncommon and typically does not cau
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Oak leaf blister. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
+Swiecki, T.J.; Bernhardt, E.A. 2026. Oak leaf blister. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 
 ## Oak anthracnose, leaf spot, and twig blight {-}
@@ -350,14 +350,14 @@ knitr::include_graphics("images/Disease-leaftwig/TubCal-QW_1029 Tubakia leaf spo
 
 
 
-(ref:LfDis5C) Shoot tip dieback caused by *Tubakia californica* on California black oak. Photo: Phytosphere Research.
+(ref:LfDis5C) Shoot tip dieback caused by *Tubakia californica* on California black oak. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfDis5C, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis5C)"}
 knitr::include_graphics("images/Disease-leaftwig/TubCal-QK-Phytosphere-Research-2.jpg")
 ```
 On the deciduous California black oak, dead leaves remain attached and hanging from branches throughout the winter and through the next  year (figure \@ref(fig:LfDis5B)). On the evergreen tanoak, infected leaves drop. Defoliation is most severe in early spring before new leaves emerge. Severely affected trees can sometimes lose enough leaves in the lower three-quarters of the crowns that the lower crown appears noticeably sparse.
 
-(ref:LfDis5B) Persistent previous year dead leaves (marcescence) infected by *Tubakia californica* on California black oak in August. Photo: Phytosphere Research.
+(ref:LfDis5B) Persistent previous year dead leaves (marcescence) infected by *Tubakia californica* on California black oak in August. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfDis5B, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis5B)"}
 knitr::include_graphics("images/Disease-leaftwig/TubCal-QK-Phytosphere-Research.jpg")
@@ -409,7 +409,7 @@ knitr::include_graphics("images/distributions/early browning.png")
 
 In low rainfall years, leaves of mature trees turn brown prematurely and begin to drop well in advance of the normal November-December leaf drop period (figure \@ref(fig:LfDis1)). This drought–deciduous characteristic is seen in a more extreme form in California buckeye and is also common in chaparral and desert plants. Drought-induced defoliation can be differentiated from branch dieback by the fact that buds and twigs of drought-defoliated branches remain alive and normally leaf out the following spring. In 1987, following extreme drought conditions in the preceding rainy season, foliar browning and leaf drop in blue oak occurred by mid-August in affected areas. During droughts lasting multiple years, symptoms may be widespread. In less extreme drought years, only blue oaks growing in drought-prone areas may be affected, and defoliation may occur later in the season, but still earlier than the usual late fall leaf drop.
 
-(ref:LfDis1) Early leaf browning and defoliation associated with drought stress in a stand of blue oaks. Photo: Phytosphere Research.
+(ref:LfDis1) Early leaf browning and defoliation associated with drought stress in a stand of blue oaks. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfDis1, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis1)"}
 knitr::include_graphics("images/Disease-leaftwig/Defol-QDtree2-Phytosphere.jpg")
@@ -418,7 +418,7 @@ knitr::include_graphics("images/Disease-leaftwig/Defol-QDtree2-Phytosphere.jpg")
 Blue oak seedling advance regeneration also undergoes early defoliation in response to drought stress. Blue oak advance regeneration typically consists of persistent understory seedlings less than about 10–15 cm tall that range in age from a few years to decades. Drought-stressed seedlings may begin losing leaves by June or July (figure \@ref(fig:LfDis2)). Drought stress in seedlings is strongly influenced by competition with both overstory trees and non-native understory grasses and forbs. Young seedling shoots may also die back partly or completely to ground level by midsummer in response to severe drought stress.
 
 
-(ref:LfDis2) Early leaf browning and defoliation associated with drought stress in a stand of blue oaks. Photo: Phytosphere Research.
+(ref:LfDis2) Early leaf browning and defoliation associated with drought stress in a stand of blue oaks. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r LfDis2, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:LfDis2)"}
 knitr::include_graphics("images/Disease-leaftwig/Defol-QDseedling-Phytosphere.jpg")
@@ -427,9 +427,9 @@ knitr::include_graphics("images/Disease-leaftwig/Defol-QDseedling-Phytosphere.jp
 
 #### Biology {-}
 
-Blue oak may be the most drought-tolerant of California’s tree-sized oaks. Early defoliation in response to extreme drought reduces water loss to a minimum and presumably favors tree survival under these conditions. One year of early defoliation had no discernable effect on tree health in one study [@mccreary1990blue]. Trees that defoliated early were among the earliest to leaf out the following spring. However, some trees that defoliated early in response to the extreme 1976–1977 drought (the most severe drought in California during the 20th century) were subsequently leafless for an entire growing season before leafing out in the following year. 
+Blue oak may be the most drought-tolerant of California’s tree-sized oaks. Early defoliation in response to extreme drought reduces water loss to a minimum and presumably favors tree survival under these conditions. One year of early defoliation had no discernible effect on tree health in one study [@mccreary1990blue]. Trees that defoliated early were among the earliest to leaf out the following spring. However, some trees that defoliated early in response to the extreme 1976–1977 drought (the most severe drought in California during the 20th century) were subsequently leafless for an entire growing season before leafing out in the following year. 
 
-The combination of longer hotter summers and drought conditions, can increase water stress in blue oak and other oaks to lethal levels. Excessive levels of blue oak mortality were documented in the southern Sierra Nevada in response to the megadrought that affected much of California from 2013 through 2016 [@Das2020]. Drought-related oak decline and mortality are most likely to occur with low available water storage in surface soils and deeper subsoil or fractured rock layers, on hotter south and west-facingslopes, and where high stand densities create greater competition for moisture. Drought stress can also favor the activity and damage caused by various oak pests and pathogens, and these interactions may accelerate tree decline and mortality. 
+The combination of longer hotter summers and drought conditions, can increase water stress in blue oak and other oaks to lethal levels. Excessive levels of blue oak mortality were documented in the southern Sierra Nevada in response to the megadrought that affected much of California from 2013 through 2016 [@Das2020]. Drought-related oak decline and mortality are most likely to occur with low available water storage in surface soils and deeper subsoil or fractured rock layers, on hotter south and west-facing slopes, and where high stand densities create greater competition for moisture. Drought stress can also favor the activity and damage caused by various oak pests and pathogens, and these interactions may accelerate tree decline and mortality. 
 
 Early seasonal defoliation is one of the factors that suppress understory advance regeneration. Well-established seedling advance regeneration can resprout from the base to produce new shoots if the previous season’s shoot has been completely killed by drought. However, successive years of early defoliation and shoot death are associated with reduced seedling survival.
 
