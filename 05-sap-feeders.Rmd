@@ -6,16 +6,24 @@
 
 #### Distribution / Hosts {-}
 
-One or more *Phylloxera* spp. are found through much of California west of the Sierra Nevada, as well as in the southeastern U.S. and the Pacific Northwest to British Columbia.  Oaks in the white oak subgroup are attacked, including valley, Oregon white, Engelmann, and blue oak.
+The family Phylloxeridae (phylloxerans) are a group of sap-sucking insects related to aphids. It includes seven genera and about 70 species. The best known phylloxeran is the grape phylloxera, *Daktulsphaira vitifoliae*, which attacks roots and can cause leaf galls in grape (*Vitis*) species. The genus *Phylloxera* includes about 55 species in North America and Europe. Most North American *Phylloxera* species form galls on *Carya* (hickories and pecan) or cause leaf folding or small yellow or brown spots on oaks or chestnuts (*Castanea*). 
+
+Eight *Phylloxera* spp. have been recorded feeding on oaks in California west of the Sierra Nevada. Information on the California oak hosts of these *Phylloxera* spp. is incomplete. Seven of these occur on white oaks (subgenus *Quercus*), one (*P. reticulata*) occurs on black oaks (subgenus *Lobatae*). Three *Phylloxera* spp. were originally described on oaks in California: *P. davidsoni* on *Q. engelmannii*;  *P. stanfordiana* on *Q. douglasii* and *Q. lobata*; and *P. reticulata* on *Q. kelloggii*. 
+
+Four species were originally described from white oaks in North America (Texas - *P. stellata*, *P.tuberculifera*; Missouri - *P. rileyi*; and Washington DC - *P. querceti*). In California, these four species have been observed on scrub oaks (may include *Q. berberidifolia*, *Q. dumosa*, and others) and other undetermined oak species. The eighth phylloxeran, *P. glabra*, is a European species that occurs on various white oaks, including blue, Oregon, and valley oak. It was first reported in California in 2018 but was likely present well before then. *P. glabra* was first detected in North America in Victoria, British Columbia, in 1961, but was found in Washington and New Zealand by the 1990s.  
 
 
-```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of *Phylloxera* spp. (orange shading) and native oak species (green) in California.", out.width='30%'}
-knitr::include_graphics("images/distributions/Tapcae.png")
+```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate aggregate range of *Phylloxera* spp. (orange shading) and native oak species (green) in California.", out.width='30%'}
+knitr::include_graphics("images/distributions/Phylloxera.png")
 ```
 
 #### Symptoms {-}
 
-Small (about 1 mm diameter) yellow and brown spots are visible on the upper and lower surfaces of affected leaves (figure  \@ref(fig:SapFdrs1)); spots are most noticeable in mid summer to early fall.  Spots form where the small, yellow to brownish, wingless insects feed.  Spots may be located primarily along veins or spread over the entire leaf surface.  Different species may have different distribution patterns on leaves.  If population levels are high enough, part or all of an affected leaf may turn brown and die (figure  \@ref(fig:SapFdrs2)).  Symptoms are commonly most severe on oak seedlings and saplings.
+Feeding by most oak phylloxeras in California induces small (about 1 mm diameter) yellow or brownish spots on oak leaves that are visible on both the upper and lower surfaces (figure  \@ref(fig:SapFdrs1)). Depending on the *Phylloxera* species, spots may be located primarily along veins or spread over the entire leaf surface. Spots become most noticeable in mid summer to early fall. If population levels are high enough, part or all of an affected leaf may turn brown and die (figure  \@ref(fig:SapFdrs2)). 
+
+*P. glabra* first generation (fundatrices) nymphs and adults feed near leaf edges, which causes the leaf edge to fold over, but without the reddining and thickening caused by the wooly oak aphid *Stegophylla essigi*. *P. stanfordiana* was described as occurring on twigs of *Q. douglasii* [@ferris1919].  
+
+Wingless adults and immatures normally occur on the undersides of affected leaves. All are less than 1 mm long, somewhat pear-shaped, and mostly orange to yellow, but some are brownish. Small ovoid yellowish to orange eggs may also be present, either scattered or in somewhat circular patterns.    
 
 (ref:SapFdrs1) Oak leaf phylloxera symptoms on valley oak; this unidentified species tends to congregate along veins. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
@@ -32,12 +40,20 @@ knitr::include_graphics("images/Insect-sap/Phyll-QL_Vacaville 1995_Phytosphere.j
 
 #### Agent Description {-}
 
-Eggs are oval, about 0.3 mm long.  Nymphs and adults are oval, with fine ridges and short spine-like projections (tubercles), and very short legs (figure  \@ref(fig:SapFdrs3)).  The taxonomic status of some species reported in California is not completely resolved.  The species described on oaks in California include: 
+Eggs are oval, about 0.3 mm long.  Nymphs and adults are oval to pyriform (pear-shaped), with fine ridges and short spine-like projections (tubercles), and very short legs (figure  \@ref(fig:SapFdrs3)).  The taxonomic status of some species reported in California is not completely resolved.  The species described on oaks in California include: 
 *P. davidsoni* wingless adults (apterae) are light orange to yellowish-brown and about 0.7 mm long.  Winged adults (alatae) are orange with a black thorax.  Immatures are pale yellow.
 *P. querceti* apterae are yellow to orange and 0.6—1 mm long.
 *P. reticulata* apterae are bright orange-yellow, about 0.8 mm long, and have reddish eyes.
 *P. rileyi* apterae are dark brown with almost black dorsal tubercles and are about 0.6 mm long.  Paler forms also occur.
 *P. stanfordiana* apterae are pale yellow and about 0.75 mm long
+
+
+(ref:SapFdrs3A) Diagrams of seven *Phylloxera* species recorded on oaks in California from original drawings by @ferris1919 (*P. stanfordiana*) and @Duncan1922 (all others). Dorsal side of each insect is drawn left of the center line; the ventral side is drawn on the right. Scale bars to the left of each insect is hte reported body length.  Graphic (using published images): Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+
+```{r SapFdrs3A, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs3A)", out.width="90%"}
+knitr::include_graphics("images/Insect-sap/Phylloxera diagrams.png")
+```
+
 
 
 (ref:SapFdrs3) Close-up of several phylloxera nymphs on the underside of a valley oak leaf. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
@@ -52,7 +68,7 @@ Life cycles of these species have not been studied in California.  Data from oth
 
 #### Importance {-}
 
-The species of oak leaf phylloxera known from California are apparently of minor importance, although damage to seedlings may be significant in some situations.  The oak leaf phylloxera (*P. glabra*) is reported to be a severe pest of Oregon white oak in British Columbia, causing significant scorching and defoliation of mature trees.  *P. glabra* has not been reported in California as of 2006.
+The NOrth American species of oak leaf phylloxera found in California are usually of minor importance to mature trees. However, heavy infestations on oak seedlings and saplings could reduce growth and vigor. .although damage to seedlings may be significant in some situations. The oak leaf phylloxera (*P. glabra*) is reported to be a severe pest of Oregon white oak in British Columbia, causing significant scorching and defoliation of mature trees.  *P. glabra* has not been reported in California as of 2006.
 
 #### Citation {-}
 
