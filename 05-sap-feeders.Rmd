@@ -11,7 +11,7 @@ The family Phylloxeridae (phylloxerans) are a group of sap-sucking insects relat
 Eight *Phylloxera* spp. have been recorded feeding on oaks in California west of the Sierra Nevada. Information on the California oak hosts of these *Phylloxera* spp. is incomplete. Seven of these occur on white oaks (subgenus *Quercus*), one (*P. reticulata*) occurs on black oaks (subgenus *Lobatae*). 
 
 Three *Phylloxera* spp. were originally described on oaks in California: *P. davidsoni* on *Q. engelmannii*;  *P. stanfordiana* on *Q. douglasii*; and *P. reticulata* on *Q. kelloggii*. 
-Four species were originally described from white oaks in other areas of the US:  *P. stellata* and *P. tuberculifera* - Texas;  *P. rileyi* - Missouri; and *P. querceti* - Washington DC. In California, these four species have been observed on scrub oaks (may include *Q. berberidifolia*, *Q. dumosa*, and others) and other undetermined oak species. The eighth phylloxera, *P. glabra*, is a European species that occurs on various white oaks, including blue, Oregon, and valley oak. It was first reported in California in 2018 but was likely present well before then. *P. glabra* was first detected in North America in Victoria, British Columbia, in 1961. It was found in Washington and New Zealand by the 1990s.  
+Four species were originally described from white oaks in other areas of the US:  *P. stellata* and *P. tuberculifera* - Texas;  *P. rileyi* - Missouri; and *P. querceti* - Washington DC. In California, these four species have been observed on scrub oaks (may include *Q. berberidifolia*, *Q. dumosa*, and others) and other undetermined oak species. The eighth phylloxera, *P. glabra*, is a European species that occurs on various white oaks, including blue, Oregon, and valley oak. It was first reported in California in 2018 but was likely present well before then. *P. glabra* was first detected in North America in Victoria, British Columbia, in 1961 [@Duncan1997]. It was found in Washington and New Zealand by the 1990s.  
 
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate aggregate range of *Phylloxera* spp. (orange shading) and native oak species (green) in California.", out.width='30%'}
@@ -26,7 +26,7 @@ In addition to causing chlorotic spots, feeding by *P. glabra* first generation 
 
 *P. stanfordiana* differs from other California oak phylloxeras in that it was described as occurring on twigs of *Q. douglasii* [@ferris1919]. However, other *Phylloxera* species, such as *P. glabra*, overwinter as eggs or first instar nymphs in sheltered locations on twigs [@Duncan1997]   
 
-Wingless adults and immatures (nymphs) normally occur on the undersides of affected leaves. All are less than 1 mm long, somewhat pear-shaped, and mostly orange to yellow, but one species is brownish. Small ovoid yellowish to orange eggs may also be present, either scattered or in circular patterns.    
+Wingless nymphs and adults normally occur on the undersides of affected leaves. All are less than 1 mm long, somewhat pear-shaped, and mostly orange to yellow; but *P. rileyi* can be brownish. Small ovoid yellowish to orange eggs may also be present, either scattered or in circular patterns.    
 
 (ref:SapFdrs1) Oak leaf phylloxera symptoms on valley oak; this unidentified species tends to congregate along veins. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
@@ -34,7 +34,7 @@ Wingless adults and immatures (nymphs) normally occur on the undersides of affec
 knitr::include_graphics("images/Insect-sap/Phyll-QL_Vacaville Nov 18 2003 h_Phytosphere.jpg")
 ```
 
-(ref:SapFdrs2) Damage associated with high oak leaf phylloxera populations, here on valley oak, may include leaf scorch (right).  Pupal case and adult of a lady beetle, which prey on phylloxera, are also visible. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:SapFdrs2) Damage associated with high oak leaf phylloxera populations may include leaf necrosis or scorch as seen on this valley oak.  Predators of oak leaf phylloxeras include lady beetles (adult and empty pupal case  visible on two leaves). Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r SapFdrs2, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs2)", out.width="75%"}
 knitr::include_graphics("images/Insect-sap/Phyll-QL_Vacaville 1995_Phytosphere.jpg")
@@ -72,7 +72,7 @@ knitr::include_graphics("images/Insect-sap/Phylloxera diagrams.png")
 (ref:SapFdrs3) Close-up of several phylloxera nymphs on the underside of a valley oak leaf. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r SapFdrs3, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs3)", out.width="60%"}
-knitr::include_graphics("images/Insect-sap/Phyll-QL_ Nov 17 03 a_Phytosphere.jpg")
+knitr::include_graphics("images/Insect-sap/Phylloxera QL Nov 17 03 a_Phytosphere.jpg")
 ```
 
 #### Biology {-}
