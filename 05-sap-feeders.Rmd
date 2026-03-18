@@ -6,13 +6,12 @@
 
 #### Distribution / Hosts {-}
 
-The family Phylloxeridae (phylloxerans) are a group of sap-sucking insects related to aphids. It includes seven genera and about 70 species. The best known phylloxeran is the grape phylloxera, *Daktulsphaira vitifoliae*, which attacks roots and can cause leaf galls in grape (*Vitis*) species. The genus *Phylloxera* includes about 55 species in North America and Europe. Most North American *Phylloxera* species form galls on *Carya* (hickories and pecan) or cause leaf folding or small yellow or brown spots on oaks or chestnuts (*Castanea*). 
+The family Phylloxeridae (phylloxerans) are a group of sap-sucking insects related to aphids. It includes seven genera and about 70 species.  The genus *Phylloxera* includes about 55 species in North America and Europe that occur on trees in the Juglandaceae and Fagaceae [@Favret2026]. Most North American *Phylloxera* species form galls on *Carya* (hickory and pecan). Others cause leaf folding or small yellow or brown spots on chestnuts (*Castanea*) and oaks. The best known phylloxeran is the grape phylloxera, *Daktulsphaira vitifoliae*, which attacks roots and can cause leaf galls in grape (*Vitis*) species.
 
-Eight *Phylloxera* spp. have been recorded feeding on oaks in California west of the Sierra Nevada. Information on the California oak hosts of these *Phylloxera* spp. is incomplete. Seven of these occur on white oaks (subgenus *Quercus*), one (*P. reticulata*) occurs on black oaks (subgenus *Lobatae*). Three *Phylloxera* spp. were originally described on oaks in California: *P. davidsoni* on *Q. engelmannii*;  *P. stanfordiana* on *Q. douglasii*; and *P. reticulata* on *Q. kelloggii*. 
+Eight *Phylloxera* spp. have been recorded feeding on oaks in California west of the Sierra Nevada. Information on the California oak hosts of these *Phylloxera* spp. is incomplete. Seven of these occur on white oaks (subgenus *Quercus*), one (*P. reticulata*) occurs on black oaks (subgenus *Lobatae*). 
 
-Four species were originally described from white oaks in North America (Texas - *P. stellata*, *P.tuberculifera*; Missouri - *P. rileyi*; and Washington DC - *P. querceti*). In California, these four species have been observed on scrub oaks (may include *Q. berberidifolia*, *Q. dumosa*, and others) and other undetermined oak species. 
-
-The eighth phylloxera, *P. glabra*, is a European species that occurs on various white oaks, including blue, Oregon, and valley oak. It was first reported in California in 2018 but was likely present well before then. *P. glabra* was first detected in North America in Victoria, British Columbia, in 1961. It was found in Washington and New Zealand by the 1990s.  
+Three *Phylloxera* spp. were originally described on oaks in California: *P. davidsoni* on *Q. engelmannii*;  *P. stanfordiana* on *Q. douglasii*; and *P. reticulata* on *Q. kelloggii*. 
+Four species were originally described from white oaks in other areas of the US:  *P. stellata* and *P. tuberculifera* - Texas;  *P. rileyi* - Missouri; and *P. querceti* - Washington DC. In California, these four species have been observed on scrub oaks (may include *Q. berberidifolia*, *Q. dumosa*, and others) and other undetermined oak species. The eighth phylloxera, *P. glabra*, is a European species that occurs on various white oaks, including blue, Oregon, and valley oak. It was first reported in California in 2018 but was likely present well before then. *P. glabra* was first detected in North America in Victoria, British Columbia, in 1961. It was found in Washington and New Zealand by the 1990s.  
 
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate aggregate range of *Phylloxera* spp. (orange shading) and native oak species (green) in California.", out.width='30%'}
@@ -23,7 +22,7 @@ knitr::include_graphics("images/distributions/Phylloxera.png")
 
 In California, feeding by most oak phylloxeras induces small (1 mm diameter or less), yellow or brownish spots on oak leaves that are visible on both the upper and lower surfaces (figure  \@ref(fig:SapFdrs1)). Depending on the *Phylloxera* species, spots may be located primarily along veins or spread over the entire leaf surface. Closely-spaced spots can merge together, especially along leaf veins. Spots become most noticeable in mid summer to early fall. If population levels are high enough, part or all of an affected leaf may turn brown and die (figure  \@ref(fig:SapFdrs2)). 
 
-In addition to causing chlorotic spots, feeding by *P. glabra* first generation nymphs and adults (fundatrices) near leaf edges causes the leaf edge to fold over. Unlike the leaf edge pseudogalls caused by the woolly oak aphid *Stegophylla essigi*, there is no distinct thickening or reddish discoloration of the folded tissue. 
+In addition to causing chlorotic spots, feeding by *P. glabra* first generation nymphs and adults (fundatrices) near leaf edges causes the leaf edge to fold over. Unlike the leaf edge pseudogalls caused by the woolly oak aphid *Stegophylla essigi* (figure  \@ref(fig:SapFdrs5)), there is no distinct thickening or reddish discoloration of the folded tissue. 
 
 *P. stanfordiana* differs from other California oak phylloxeras in that it was described as occurring on twigs of *Q. douglasii* [@ferris1919]. However, other *Phylloxera* species, such as *P. glabra*, overwinter as eggs or first instar nymphs in sheltered locations on twigs [@Duncan1997]   
 
@@ -44,11 +43,11 @@ knitr::include_graphics("images/Insect-sap/Phyll-QL_Vacaville 1995_Phytosphere.j
 
 #### Agent Description {-}
 
-Eggs are oval, about 0.3 mm long.  Nymphs and adults are oval to pyriform (pear-shaped), with fine ridges and short spine-like projections (tubercles), and very short legs (figure  \@ref(fig:SapFdrs3A)). Species descriptions are primarily based on the wingless (apterous) asexually-reproducing (agamic) females. Characteristics such as the length of the rostrum, dorsal tubercles, etc., are based on the relative lengths compared to other body parts on the same insect [@Duncan1922]. Because species descriptions were mostly made from mounted specimens, not all field-observable characteristics (e.g., body and eye color, egg laying pattern, distribution on leaf) are recorded for each species.  
+Eggs are oval, about 0.3 mm long.  Nymphs and adults are oval to pyriform (pear-shaped), with fine ridges and short spine-like projections (tubercles), and very short legs (figure  \@ref(fig:SapFdrs3A)). Species descriptions are primarily based on the wingless (apterous) asexually-reproducing (agamic) females. Characteristics such as the length of the beak-like mouthpart  (rostrum), dorsal tubercles, etc., are based on the relative lengths compared to other body parts on the same insect [@Duncan1922]. Because species descriptions were mostly made from  specimens mounted on microscope slides, not all field-observable characteristics (e.g., body and eye color, egg laying pattern, distribution on leaf) are recorded for each species.  
 
 *P. davidsoni* wingless adults (apterae) are about 0.73 mm long and light orange to yellowish-brown, with prominent elongate conical tubercles. Winged adults (alatae) are orange with a black thorax.  Immatures are pale yellow.
 
-*P. glabra* apterae are 0.7—0.85 mm long, yellowish orange and may have reddish flecks. Tubercles are sparse and small. On smooth leaves, eggs are laid in concentric patterns, but on oaks such as *Q. garryana*, dense hairs on the bottom leaf surface interfere with this the pivoting that produces this pattern and eggs are laid singly [@Duncan1997]. Damage is dispersed across the leaf. Alatae are orange with wings held flat over the abdomen. 
+*P. glabra* apterae are 0.7—0.85 mm long, yellowish orange and may have reddish flecks. Tubercles are sparse and small. On smooth leaves, eggs are laid in concentric patterns, but on oaks such as *Q. garryana*, dense hairs on the bottom leaf surface interfere with the pivoting that produces this pattern and eggs are laid singly [@Duncan1997]. Damage is dispersed across the leaf. Alatae are orange with wings held flat over the abdomen. 
 
 *P. querceti* apterae are 0.45—0.5 mm long, yellow to orange, with prominent elongate conical tubercles. Damage is mainly along veins.
 
@@ -59,7 +58,7 @@ Eggs are oval, about 0.3 mm long.  Nymphs and adults are oval to pyriform (pear-
 *P. stanfordiana* apterae are about 0.75 mm long and pale yellow. Tubercles are very small and sparse. Reported to occur on twigs, especially in sheltered spots, including under egg masses of moths. 
 
 *P. stellata* apterae are about 0.45 mm long, color not noted in original description. Tubercles are large and globular, each 
-with a multiple knob-like secondary projections and small spines, providing giving a stellate appearance. Damage is dispersed across the leaf.
+with a multiple knob-like secondary projections and small spines,  giving a stellate appearance. Damage is dispersed across the leaf.
 
 *P. tuberculifera* apterae are about 0.5 mm long, color not noted in original description. Tubercles are very small, slightly taller than their basal diameter. Damage is dispersed across the leaf.
 
@@ -78,19 +77,19 @@ knitr::include_graphics("images/Insect-sap/Phyll-QL_ Nov 17 03 a_Phytosphere.jpg
 
 #### Biology {-}
 
-Life cycles of these species have not been studied in California, but are expected to generally correspond with that observed in other oak-infesting species. Overwintering occurs as eggs or first-instar nymphs in sheltered locations on the bark of branches. When buds break in the spring, nymphs of the first overwintered generation (fundatrices) migrate to expanding leaves where they either disperse or move to preferred locations, such as leaf veins. One or more asexually reproducing generations may develop occur over the spring and summer. Populations build up over the summer and are highest in September and October. A sexual generation may be involved in the production of overwintering eggs.
+Life cycles of these species have not been studied in California, but are expected to generally correspond with that observed in other oak-infesting species. Overwintering occurs as eggs or first-instar nymphs in sheltered locations on the bark of branches. When buds break in the spring, nymphs of the first overwintered generation (fundatrices) migrate to expanding leaves where they either disperse or move to preferred locations, such as leaf veins. One or more asexually reproducing generations may develop over the spring and summer. Populations build up over the summer and are highest in September and October. A sexual generation may be involved in the production of overwintering eggs.
 
-In *P. glabra*, fundatrix adults move to leaf edges, where eggs are laid in the folded edge that develops. Nymphs from that asexual generation disperse across the leaf lower surface to feed. Winged (alate) adults develop in in mid to late summer and disperse via flight. These sexuparae adults lay eggs that give rise to a nonfeeding sexual generation (sexuales) in early fall. Mated females from this generation lay a single overwintering egg [@Duncan1997].
+In *P. glabra*, fundatrix adults move to leaf edges, where eggs are laid in the folded edge that develops. Nymphs from that asexual generation disperse across the leaf lower surface to feed. Winged (alate) females develop in mid to late summer and disperse via flight. These sexuparae lay eggs that give rise to a nonfeeding sexual generation (sexuales) in early fall. Mated females from this generation lay a single overwintering egg [@Duncan1997].
 
-In nurseries, high populations of oak phylloxera can build up due to cultural conditions, including prolonged production of new leaves and overlapping canopies that facilitate allow spread between plants. The winged sexuparae generation may be delayed until later in the fall. Dispersal of winged phylloxeras is very limited, but long-range spread occurs readily through the movement of infested nursery stock. Initial spread of the invasive *P. glabra* in British Columbia was associated with the planting of English oak (*Q. robur*) as an ornamental [@Duncan1997]. 
+In nurseries, high populations of oak phylloxera can build up due to cultural conditions, including prolonged production of new leaves and overlapping canopies that facilitate spread between plants. The winged sexuparae generation may be delayed until later in the fall. Dispersal of winged phylloxeras is very limited, but long-range spread occurs readily through the movement of infested nursery stock. Initial spread of the invasive *P. glabra* in British Columbia was associated with the planting of English oak (*Q. robur*) as an ornamental [@Duncan1997]. 
 
-Oak phylloxera populations can be held in check by natural enemies, which include predators such as ladybird beetles and lacewings. Parasitoids of oak phylloxeras found in California have not been reported.  
+Oak phylloxera populations can be held in check by natural enemies, which include predators such as ladybird beetles and lacewings. No parasitoids of oak phylloxeras found in California are reported.  
 
 #### Importance {-}
 
 The North American species of oak leaf phylloxera found in California are usually of minor importance to mature trees. However, heavy infestations on oak seedlings and saplings can  reduce growth and vigor. High populations that develop in oak nursery stock can seriously weaken or damage seedlings. 
 
-The invasive *P. glabra* is reported to be a severe pest of Oregon white oak in British Columbia, causing significant scorching and defoliation of mature trees. Repeated defoliation of *Q. garryana* can lead to poor growth, canopy dieback, epicormic sprouting, and tree decline. Individual trees Within a given oak species vary in their susceptibility to severe damage by *P. glabra*. In Victoria, British Columbia, about 10% of *Q. garryana* were subject to repeated, severe infestations, whereas others developed localized infestations on specific branches or had low overall levels of damage.   
+The invasive *P. glabra* is reported to be a severe pest of Oregon white oak in British Columbia, causing significant scorching and defoliation of mature trees. Repeated defoliation of *Q. garryana* can lead to poor growth, canopy dieback, epicormic sprouting, and tree decline. Individual trees within a given oak species vary in their susceptibility to severe damage by *P. glabra*. In Victoria, British Columbia, about 10% of *Q. garryana* were subject to repeated, severe infestations, whereas others developed localized infestations on specific branches or had low overall levels of damage [@Duncan1997].   
 
 #### Citation {-}
 
