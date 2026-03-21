@@ -282,11 +282,11 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Treehoppers. In Swiecki, T.J., et al. (Eds.
 
 ## Kuwana oak scale {-}
 
-### *Kuwania quercus* (Margarodidae) {-}
+### *Kuwania raygilli* (Margarodidae) {-}
 
 #### Distribution / Hosts {-}
 
-In California, *Kuwania quercus* has been found in Amador, Napa, San Joaquin, San Mateo, Santa Clara, Solano, Sonoma, and Yolo Counties, but may be more widespread.  It has been observed on blue oak and unidentified live oaks (probably coast live and/or interior live oak) and in an American chestnut orchard.  It was originally described on oaks in Japan, but also occurs on oaks in China and Formosa.  Gill (1993) indicates that California specimens may actually be a different species from the Asian species
+In California, *Kuwania raygilli*  has been found in Amador, Napa, San Joaquin, San Mateo, Santa Clara, Solano, Sonoma, and Yolo Counties, but may be more widespread.  It has been observed on blue and valley oak, unidentified live oaks, - and in an American chestnut orchard. This species was originally identified as *K. quercus*, but [@gill1993] suggested that California specimens may actually be a different species from this species from oaks in Japan and China. [@wu2013] redescribed *K. quercus* and determined that California specimens were a separate species which they named *Kuwania raygilli* Wu & Gullan which more closely resembles the Chinese species *K. bipora* that *K. quercus*. Although *K. raygilli* is only known from California, [@wu2013] notes that it could be introduced rather than native, as these cryptic insects are very difficult to observe.   
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of Kuwana oak scale (orange shading) and native oak species (green) in California.", out.width='30%'}
 knitr::include_graphics("images/distributions/kuwana.png")
@@ -294,7 +294,7 @@ knitr::include_graphics("images/distributions/kuwana.png")
 
 #### Symptoms {-}
 
-In blue oak, infestations are associated with obvious roughening and exfoliation of bark (figure  \@ref(fig:SapFdrs12),  \@ref(fig:SapFdrs13)).  The ground close to the trunk of infected trees may be covered with pieces of bark that have flaked off the tree.  Hard grayish or whitish waxen capsules that surround the pre-adult females can be seen under loose bark in spring.
+In blue oak, infestations are associated with obvious roughening and exfoliation of bark (figure \@ref(fig:SapFdrs12),  \@ref(fig:SapFdrs13)).  The ground close to the trunk of infected trees may be covered with pieces of bark that have flaked off the tree.  Hard grayish or whitish waxen capsules that surround the red pre-adult females can be seen under loose bark in spring.
 
 
 (ref:SapFdrs12) Exfoliating bark of blue oaks infested with Kuwana oak scale. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
@@ -311,7 +311,7 @@ knitr::include_graphics("images/Insect-sap/KuwQue-QD_Kuwana oak scale_Ione 5-27-
 
 #### Agent Description {-}
 
-Bright red ovate-shaped adults are about 1.75—2.25 mm long.  Adult females produce a dorsal mass of white, waxy threads.  They are secretive and often hide under rough, loosened bark.  The pre-adult female is bright red, legless and covered with a hard grayish or whitish waxy capsule. Only waxy residue may be visible on the bark of affected trees through much of the summer and fall (figure  \@ref(fig:SapFdrs14),  \@ref(fig:SapFdrs15)).
+Bright red ovate-shaped adult females are about 1.75—2.25 mm long.  Adult females produce a dorsal mass of white, waxy threads.  They are secretive and often hide under rough, loosened bark.  The pre-adult female is bright red, legless and covered with a hard grayish or whitish waxy capsule. Only waxy residue may be visible on the bark of affected trees through much of the summer and fall (figure  \@ref(fig:SapFdrs14),  \@ref(fig:SapFdrs15)). Males of this species have not been observed.
 
 (ref:SapFdrs14) Reddish Kuwana oak scale females and associated waxy filaments under blue oak bark. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
