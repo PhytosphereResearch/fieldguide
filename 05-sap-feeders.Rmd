@@ -286,10 +286,10 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Treehoppers. In Swiecki, T.J., et al. (Eds.
 
 #### Distribution / Hosts {-}
 
-In California, *Kuwania raygilli*  has been found in Amador, Napa, San Joaquin, San Mateo, Santa Clara, Solano, Sonoma, and Yolo Counties, but may be more widespread.  It has been observed on blue and valley oak, unidentified live oaks, - and in an American chestnut orchard. This species was originally identified as *K. quercus*, but [@gill1993] suggested that California specimens may actually be a different species from this species from oaks in Japan and China. [@wu2013] redescribed *K. quercus* and determined that California specimens were a separate species which they named *Kuwania raygilli* Wu & Gullan which more closely resembles the Chinese species *K. bipora* that *K. quercus*. Although *K. raygilli* is only known from California, [@wu2013] notes that it could be introduced rather than native, as these cryptic insects are very difficult to observe.   
+In California, *Kuwania raygilli* has been observed in Amador, Napa, Placer, San Joaquin, San Mateo, Santa Clara, Solano, Sonoma, and Yolo Counties, but may be more widespread.  It has been observed on blue and valley oak, unidentified oaks, and on American chestnut (*Castanea sativa*) in an orchard. This species was originally identified as *K. quercus*, but [@gill1993] suggested that California specimens may actually be a different species from *K. quercus*, which occurs on oaks in Japan and China. [@wu2013] redescribed *K. quercus* and determined that California specimens were a separate species which they named *Kuwania raygilli* Wu & Gullan. *K. raygilli* is more similar in appearance to the Chinese species *K. bipora* than it is to *K. quercus*. *K. raygilli* is currently only known from California. [@wu2013] notes that it could be introduced rather than native, as these cryptic insects are very difficult to observe.   
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of Kuwana oak scale (orange shading) and native oak species (green) in California.", out.width='30%'}
-knitr::include_graphics("images/distributions/kuwana.png")
+knitr::include_graphics("images/distributions/Kuwray.png")
 ```
 
 #### Symptoms {-}
@@ -311,7 +311,13 @@ knitr::include_graphics("images/Insect-sap/KuwQue-QD_Kuwana oak scale_Ione 5-27-
 
 #### Agent Description {-}
 
-Bright red ovate-shaped adult females are about 1.75—2.25 mm long.  Adult females produce a dorsal mass of white, waxy threads.  They are secretive and often hide under rough, loosened bark.  The pre-adult female is bright red, legless and covered with a hard grayish or whitish waxy capsule. Only waxy residue may be visible on the bark of affected trees through much of the summer and fall (figure  \@ref(fig:SapFdrs14),  \@ref(fig:SapFdrs15)). Males of this species have not been observed.
+Three wingless life stages have been described.  [@wu2013] provides detailed descriptions and drawings of these three stages. 
+
+**Adult females** are bright red, ovate-shaped, about 1.58—2.78 mm long and 1.05-1.78 mm wide.  Adult females have eyes, 9-segmented antennae, and produce a dorsal mass of white, waxy threads but lack mouthparts.  They are secretive and often hide under rough, loosened bark. 
+
+**First instar nymphs** are smaller and are more narrow (length 0.32-0.39 mm, width 0,12-0.15). Eyes are present and prominent, antennae are 6-segmented, mouthparts are well developed with long stylets. 
+
+**Pre-adult intermediate stage females** are bright red, broadly oval to almost round (when mounted on a slide), 1.25-1.88 mm long and 1.05-1.55 mm wide. Mouthparts and antennae are much reduced. Eves and legs are absent. Intermediate stage females are covered with a hard grayish or whitish waxy capsule. Only waxy residue may be visible on the bark of affected trees through much of the summer and fall (figure  \@ref(fig:SapFdrs14),  \@ref(fig:SapFdrs15)), often under loose patches of bark.  
 
 (ref:SapFdrs14) Reddish Kuwana oak scale females and associated waxy filaments under blue oak bark. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
@@ -328,15 +334,15 @@ knitr::include_graphics("images/Insect-sap/KuwQue-QD_Kuwana oak scale closeup- I
 
 #### Biology {-}
 
-The life cycle of this insect in California is unknown.  In Solano County, pre-adult females have been observed in mid-March; mature females laid eggs by mid- to late April.
+The life cycle of this insect in California is unknown.  Based on Solano and Yolo County collections from various years, adult females and nymphs of various instars may be present between March and July and in November and immature males present in at least March  [@wu2013]. The apparent variation in development may be associated with differences in temperatures and hosts between sites and years, multiple generations developing over the warm season, an extended period of reproduction by long-lived adult females, or other factors.
 
 #### Importance {-}
 
-Infestations tend to be highly localized in distribution.  Other than obvious visual impacts due to bark flaking, long-term impacts on tree health are unknown.
+Infestations tend to be highly localized in distribution. Other than obvious visual impacts due to bark flaking, long-term impacts on tree health are unknown. Reduction in outer bark thickness due to exfoliation in blue oak could increase susceptibility to lethal cambium heating in low to moderate intensity fires.
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Kuwana oak scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
+Swiecki, T.J.; Bernhardt, E.A. 2026. Kuwana oak scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Oak lecanium scale {-}
 
