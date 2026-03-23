@@ -300,7 +300,7 @@ In blue oak, infestations are associated with obvious roughening and exfoliation
 (ref:SapFdrs12) Exfoliating bark of blue oak infested with Kuwana oak scale. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r SapFdrs12, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs12)", out.width="75%"}
-knitr::include_graphics("images/Insect-sap/KuwQue-QD_Kuwana oak scale blue oak Pope Valley Nov 18 2003 d_Phytosphere.jpg")
+knitr::include_graphics("images/Insect-sap/Kuwana_oak_scale_QD_MtDiablo_20120217_37_Phytosphere_adj.jpg")
 ```
 
 (ref:SapFdrs13) Exfoliating bark of blue oak infested with Kuwana oak scale. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
