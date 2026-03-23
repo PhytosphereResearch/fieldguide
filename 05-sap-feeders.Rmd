@@ -294,16 +294,16 @@ knitr::include_graphics("images/distributions/Kuwray.png")
 
 #### Symptoms {-}
 
-In blue oak, infestations are associated with obvious roughening and exfoliation of bark (figure \@ref(fig:SapFdrs12),  \@ref(fig:SapFdrs13)).  The ground close to the trunk of infected trees may be covered with pieces of bark that have flaked off the tree. Exfoliation may be due to damage caused by feeding or birds prying off bark to access the insects. Hard grayish or whitish waxen capsules that surround the red pre-adult females can be seen under loose bark in spring.
+In blue oak, infestations are associated with obvious roughening and exfoliation of bark (figure \@ref(fig:SapFdrs12),  \@ref(fig:SapFdrs13)).  The ground close to the trunk of infected trees may be covered with pieces of bark that have flaked off the tree. The exact mechanism causing bark exfoliation is not known. Exfoliation may be due to damage caused by the scales or  by birds prying off bark to access the insects. Hard grayish or whitish waxen capsules that surround the red pre-adult females can be seen under loose bark in spring.
 
 
-(ref:SapFdrs12) Exfoliating bark of blue oaks infested with Kuwana oak scale. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:SapFdrs12) Exfoliating bark of blue oak infested with Kuwana oak scale. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r SapFdrs12, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs12)", out.width="75%"}
 knitr::include_graphics("images/Insect-sap/KuwQue-QD_Kuwana oak scale blue oak Pope Valley Nov 18 2003 d_Phytosphere.jpg")
 ```
 
-(ref:SapFdrs13) Exfoliating bark of blue oaks infested with Kuwana oak scale. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:SapFdrs13) Exfoliating bark of blue oak infested with Kuwana oak scale. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r SapFdrs13, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs13)", out.width="75%"}
 knitr::include_graphics("images/Insect-sap/KuwQue-QD_Kuwana oak scale_Ione 5-27-04_Phytosphere.jpg")
@@ -328,7 +328,7 @@ knitr::include_graphics("images/Insect-sap/KuwQue-QD_Kuwana oak scale Quercus do
 
 (ref:SapFdrs15) Reddish Kuwana oak scale females and associated waxy filaments (arrows). Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
-```{r SapFdrs15, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs13)", out.width="75%"}
+```{r SapFdrs15, fig.align='center', fig.asp=.75, fig.cap="(ref:SapFdrs15)", out.width="75%"}
 knitr::include_graphics("images/Insect-sap/KuwQue-QD_Kuwana oak scale closeup- Ione, 5-27-04_Phytosphere.jpg")
 ```
 
