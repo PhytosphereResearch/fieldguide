@@ -286,7 +286,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Treehoppers. In Swiecki, T.J., et al. (Eds.
 
 #### Distribution / Hosts {-}
 
-In California, *Kuwania raygilli* has been observed in Amador, Napa, Placer, San Joaquin, San Mateo, Santa Clara, Solano, Sonoma, and Yolo Counties, but may be more widespread.  It has been observed on blue and valley oak, unidentified oaks, and on American chestnut (*Castanea sativa*) in an orchard. This species was originally identified as *K. quercus*, but [@gill1993] suggested that California specimens may actually be a different species from *K. quercus*, which occurs on oaks in Japan and China. [@wu2013] redescribed *K. quercus* and determined that California specimens were a separate species which they named *Kuwania raygilli* Wu & Gullan. *K. raygilli* is more similar in appearance to the Chinese species *K. bipora* than it is to *K. quercus*. *K. raygilli* is currently only known from California. [@wu2013] notes that it could be introduced rather than native, as these cryptic insects are very difficult to observe.   
+In California, *Kuwania raygilli* has been observed in Amador, COnta Costa, El Dorado, Napa, Placer, San Joaquin, San Mateo, Santa Clara, Solano, Sonoma, and Yolo Counties, but may be more widespread.  It has been observed on blue and valley oak, unidentified oaks, and on American chestnut (*Castanea sativa*) in an orchard. This species was originally identified as *K. quercus*, but [@gill1993] suggested that California specimens may actually be a different species from *K. quercus*, which occurs on oaks in Japan and China. [@wu2013] redescribed *K. quercus* and determined that California specimens were a separate species which they named *Kuwania raygilli* Wu & Gullan. *K. raygilli* is more similar in appearance to the Chinese species *K. bipora* than it is to *K. quercus*. *K. raygilli* is currently only known from California. [@wu2013] notes that it could be introduced rather than native, as these cryptic insects are very difficult to observe.   
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of Kuwana oak scale (orange shading) and native oak species (green) in California.", out.width='30%'}
 knitr::include_graphics("images/distributions/Kuwray.png")
@@ -294,7 +294,7 @@ knitr::include_graphics("images/distributions/Kuwray.png")
 
 #### Symptoms {-}
 
-In blue oak, infestations are associated with obvious roughening and exfoliation of bark (figure \@ref(fig:SapFdrs12),  \@ref(fig:SapFdrs13)).  The ground close to the trunk of infected trees may be covered with pieces of bark that have flaked off the tree.  Hard grayish or whitish waxen capsules that surround the red pre-adult females can be seen under loose bark in spring.
+In blue oak, infestations are associated with obvious roughening and exfoliation of bark (figure \@ref(fig:SapFdrs12),  \@ref(fig:SapFdrs13)).  The ground close to the trunk of infected trees may be covered with pieces of bark that have flaked off the tree. Exfoliation may be due to damage caused by feeding or birds prying off bark to access the insects. Hard grayish or whitish waxen capsules that surround the red pre-adult females can be seen under loose bark in spring.
 
 
 (ref:SapFdrs12) Exfoliating bark of blue oaks infested with Kuwana oak scale. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
