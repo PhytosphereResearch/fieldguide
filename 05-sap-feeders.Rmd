@@ -351,7 +351,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2026. Kuwana oak scale. In Swiecki, T.J., et al. 
 
 #### Distribution / Hosts {-}
 
-In California, oak lecanium scale is reported on coast live, California black, Engelmann, and valley oak.  It is distributed in low elevations west of the Sierra Nevada throughout California. It is also found on oaks in many parts of the eastern U.S. Other reported hosts include oaks and other Fagaceae such as giant chinquapin. Some other reported hosts may be due to confusion between this species and *P. corni*.
+In California, oak lecanium scale is reported on coast live, California black, Engelmann, and valley oak.  It is distributed in low elevations west of the Sierra Nevada throughout California. It is also found on oaks in many parts of the eastern U.S. Other reported hosts include other Fagaceae such as giant chinquapin. Some other reported hosts may be due to confusion between this species and *P. corni*.
 
 The related European fruit lecanium, *P. corni*, is common throughout California and the U.S. on many tree and woody shrub hosts, including native, landscape, and crop species. It is infrequently found on oaks in California, but has been found on California black oak in the northern Sierra Nevada and on unidentified or introduced oaks in  Marin, Mendocino, Sacramento, and Tulare Counties.  *P. corni* is highly variable in appearance, making it difficult to distinguish from *P. quercifex*.
 
@@ -364,7 +364,7 @@ Globose brown scale insects occur on twigs and produce honeydew.  Black sooty mo
 
 #### Agent Description {-}
 
-Mobile nymphs (crawlers) are flat, yellow-brown to orangish, and occur on leaves or twigs. Adult scales are immobile and occur on twigs.  Adults are hemispherical with a brown, smooth, shiny surface, about 4—7 mm long and 3-5 mm wide. Adult females have a usually faint broad yellow-brown or orange longitudinal median stripe and median areas of the thorax may be covered with short curls of white wax, which may appear as powdery material. (figure  \@ref(fig:SapFdrs16),  \@ref(fig:SapFdrs17)). Late instar nymphs are brownish with yellow mottling [@gill1988].
+Mobile nymphs (crawlers) are flat, yellow-brown to orangish, and occur on leaves or twigs. Adult scales are immobile and occur on twigs.  Adults are hemispherical with a brown, smooth, shiny surface, about 4-7 mm long and 3-5 mm wide. Adult females have a usually faint broad yellow-brown or orange longitudinal median stripe and median areas of the thorax may be covered with short curls of white wax, which may appear as powdery material. (figure  \@ref(fig:SapFdrs16),  \@ref(fig:SapFdrs17)). Late instar nymphs are brownish with yellow mottling [@gill1988].
 
 
 (ref:SapFdrs16) Close-up of oak lecanium scale. Photo: Bruce Hagen, CalFire, retired.
