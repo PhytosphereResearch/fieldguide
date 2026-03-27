@@ -236,6 +236,7 @@ Whiteflies do not cause significant damage to oaks and are typically of little o
 Swiecki, T.J.; Bernhardt, E.A. 2025. Whiteflies. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Treehoppers {-}
+
 ### *Platycotis vittata*, *P. vittata quadrivittata*, *P. minax* (Membracidae) {-}
 
 #### Distribution / Hosts {-}
@@ -286,7 +287,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. Treehoppers. In Swiecki, T.J., et al. (Eds.
 
 #### Distribution / Hosts {-}
 
-In California, *Kuwania raygilli* has been observed in Amador, COnta Costa, El Dorado, Napa, Placer, San Joaquin, San Mateo, Santa Clara, Solano, Sonoma, and Yolo Counties, but may be more widespread.  It has been observed on blue and valley oak, unidentified oaks, and on American chestnut (*Castanea sativa*) in an orchard. This species was originally identified as *K. quercus*, but [@gill1993] suggested that California specimens may actually be a different species from *K. quercus*, which occurs on oaks in Japan and China. [@wu2013] redescribed *K. quercus* and determined that California specimens were a separate species which they named *Kuwania raygilli* Wu & Gullan. *K. raygilli* is more similar in appearance to the Chinese species *K. bipora* than it is to *K. quercus*. *K. raygilli* is currently only known from California. [@wu2013] notes that it could be introduced rather than native, as these cryptic insects are very difficult to observe.   
+In California, *Kuwania raygilli* has been observed in Amador, COnta Costa, El Dorado, Napa, Placer, San Joaquin, San Mateo, Santa Clara, Solano, Sonoma, and Yolo Counties, but may be more widespread.  It has been observed on blue and valley oak, unidentified oaks, and on chestnut (*Castanea* sp.) in an orchard. This species was originally identified as *K. quercus*, but [@gill1993] suggested that California specimens may actually be a different species from *K. quercus*, which occurs on oaks in Japan and China. [@wu2013] redescribed *K. quercus* and determined that California specimens were a separate species which they named *Kuwania raygilli* Wu & Gullan. *K. raygilli* is more similar in appearance to the Chinese species *K. bipora* than it is to *K. quercus*. *K. raygilli* is currently only known from California. [@wu2013] notes that it could be introduced rather than native, as these cryptic insects are very difficult to observe.   
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of Kuwana oak scale (orange shading) and native oak species (green) in California.", out.width='30%'}
 knitr::include_graphics("images/distributions/Kuwray.png")
@@ -350,20 +351,20 @@ Swiecki, T.J.; Bernhardt, E.A. 2026. Kuwana oak scale. In Swiecki, T.J., et al. 
 
 #### Distribution / Hosts {-}
 
-Oak lecanium scale is found on oaks in many parts of the eastern U.S.  In California, it is reported on coast live and valley oak from the Sacramento Valley and the San Francisco Bay Area to southern California.  Other reported hosts include other oak species, sycamore, pecan, chestnut, birch, persimmon, and pricklyash.
+In California, oak lecanium scale is reported on coast live, California black, Engelmann, and valley oak.  It is distributed in low elevations west of the Sierra Nevada throughout California. It is also found on oaks in many parts of the eastern U.S. Other reported hosts include oaks and other Fagaceae such as giant chinquapin. Some other reported hosts may be due to confusion between this species and *P. corni*.
 
-The very similar and related European fruit lecanium, *P. corni*, is reported on California black oak in the northern Sierra Nevada.  *P. corni* is common throughout California and the U.S. on many hosts.
+The related European fruit lecanium, *P. corni*, is common throughout California and the U.S. on many tree and woody shrub hosts, including native, landscape, and crop species. It is infrequently found on oaks in California, but has been found on California black oak in the northern Sierra Nevada and on unidentified or introduced oaks in  Marin, Mendocino, Sacramento, and Tulare Counties.  *P. corni* is highly variable in appearance, making it difficult to distinguish from *P. quercifex*.
 
 ```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of oak lecanium scale (orange shading) and native oak species (green) in California.", out.width='30%'}
-knitr::include_graphics("images/distributions/lecanium.png")
+knitr::include_graphics("images/distributions/Parque.png")
 ```
 #### Symptoms {-}
 
-Globose brown scale insects occur on twigs and produce honeydew.  Black sooty mold grows on the honeydew that drips on leaves and twigs.  Very heavy infestations can cause twig dieback and stunted leaves.
+Globose brown scale insects occur on twigs and produce honeydew.  Black sooty mold grows on the honeydew that drips on leaves and twigs.  Very heavy infestations can cause twig dieback and stunted leaves. Heavier infestations are associated with stressed trees and in situations that suppress parasitism of the scales. 
 
 #### Agent Description {-}
 
-Mobile nymphs (crawlers) are flat and orangish and occur on leaves or twigs. Adult scales are immobile and occur on twigs.  Adults are hemispherical, 4—6 mm long, brown, and have a smooth, shiny surface that may include some white powdery material (figure  \@ref(fig:SapFdrs16),  \@ref(fig:SapFdrs17)). Females have a pair of lateral bumps. 
+Mobile nymphs (crawlers) are flat, yellow-brown to orangish, and occur on leaves or twigs. Adult scales are immobile and occur on twigs.  Adults are hemispherical with a brown, smooth, shiny surface, about 4—7 mm long and 3-5 mm wide. Adult females have a usually faint broad yellow-brown or orange longitudinal median stripe and median areas of the thorax may be covered with short curls of white wax, which may appear as powdery material. (figure  \@ref(fig:SapFdrs16),  \@ref(fig:SapFdrs17)). Late instar nymphs are brownish with yellow mottling [@gill1988].
 
 
 (ref:SapFdrs16) Close-up of oak lecanium scale. Photo: Bruce Hagen, CalFire, retired.
@@ -380,18 +381,17 @@ knitr::include_graphics("images/Insect-sap/ParQue-QK_OAK LECANIUM SCALE Q KELLOG
 ```
 
 
-
 #### Biology {-}
 
-Nymphs overwinter and mature into adults in the spring.  Winged adult males mate with wingless females.  Eggs are laid beneath the female in late spring.  First-instar nymphs emerge from beneath the female and crawl to the leaves where they feed.  After settling they retain their tiny legs and antennae and are able to move very slowly.  The second-instar nymphs migrate back to twigs in late summer, where they overwinter.  This insect has one generation per year.
+One generation occurs per year. Mature adult females are present in spring. They are immobile and feed on the sugary sap of the phloem, excreting the excess as honeydew, which can attract ants. Adult males are winged and move freely to mate with wingless females. In late spring, females lay hundreds to thousands of small white eggs under their brown body cover, which is attached to the twig. The female then dies, leaving the eggs sheltered under the body cover. First instar nymphs (crawlers) hatch in May to July, emerge from beneath the cover and crawl to the leaves where they feed. After settling, they retain their tiny legs and antennae and are able to move very slowly. Crawlers migrate back to twigs in late summer where they molt into second instar nymphs. These second instar nymphs overwinter on twigs and mature in the spring. Males pupate within translucent cases before emerging as winged adults.  
 
 #### Importance {-}
 
-Honeydew dripping and subsequent sooty mold growth may become a nuisance.  Greatest impacts of this insect reportedly occur on coast live oak in southern California.
+Honeydew dripping and subsequent sooty mold growth may become a nuisance. Greatest impacts of this insect reportedly occur on coast live oak in southern California. Heavy infestations can cause twig dieback.
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Oak lecanium scale (Coccidae). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
+Swiecki, T.J.; Bernhardt, E.A. 2026. Oak lecanium scale. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 
 ## Obscure scale {-}
