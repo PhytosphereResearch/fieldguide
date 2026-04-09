@@ -1,5 +1,5 @@
 --- 
-title: "A FIELD GUIDE TO INSECTS AND DISEASES OF CALIFORNIA OAKS - Online Edition - WORKING DRAFT"
+title: "FIELD GUIDE TO INSECTS AND DISEASES OF CALIFORNIA OAKS - Online Edition - WORKING DRAFT"
 author: "Editors: Tedmund J. Swiecki and Elizabeth A. Bernhardt"
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
@@ -42,7 +42,7 @@ The original 2006 version of this document (PSW-GTR-197) was written by Tedmund 
 
 ## Acknowledgements {-} 
 
-Financial support for the production of this publication was provided by the US Department of Agriculture Forest Service, Pacific Southwest Region, State and Private Forestry, and the Resource Conservation District of Greater San Diego County, with additional support provided by Phytosphere Research.
+Financial support for the production of this publication was provided by the US Department of Agriculture Forest Service, Pacific Southwest Region, State and Private Forestry, and the Resource Conservation District of Greater San Diego County, with additional support provided by Phytosphere Research. We wish to thank California Wildlife Foundation/California Oaks for their assistance in identifying funding sources to develop this update. 
 
 The photographs and illustrations in this publication are under copyright by the photographers or illustrators and may not be reproduced in any form without obtaining permission in writing from them.
 
