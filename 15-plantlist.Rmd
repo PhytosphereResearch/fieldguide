@@ -2,3 +2,12 @@
 
 Common and scientific names for plants other than California native oaks.  See Table 1 for common and scientific names of California native oaks.  Only the genus name is noted for common names that include multiple species.
 
+beech
+cherry
+chestnut
+elm
+
+hornbeam
+maple
+walnut
+ 
