@@ -348,7 +348,7 @@ knitr::include_graphics("images/Disease-trunk/QA6-190 sunburn canker 10-6-04dPhy
 
 During tree growth and development, the structure of oak bark changes in response to its environment. Bark that is exposed to heating by sunlight normally develops a thicker layer of dead bark layers that insulate the underlying live bark (phloem) tissues and the cambium. Sunburn develops in portions of the bark of trees that are not adapted to high sun exposure and are abruptly subjected to high levels of solar radiation particularly in the summer and fall. Sunburn is more likely to develop in water-stressed trees and following episodes of unusually high temperatures. The combination of high temperatures, high solar intensity, and elevated levels of plant water stress result in heating of live bark and cambium to temperatures that kill these tissues, resulting in localized necrosis. In both young and mature trees, areas affected by sunburn may be subsequently attacked by wood boring beetles and colonized by canker or wood decay fungi.
 
-Sunburn typically develops in parts of trees with relatively thin outer bark, which provides less protection from heating caused by sun exposure. This includes young stems of many oaks and mature stems of coast live and interior live oak. Species with relatively thick outer layers of corky or flaky bark seldom develop sunscald.  
+Sunburn typically develops in parts of trees with relatively thin outer bark, which provides less protection from heating caused by sun exposure. This includes young stems of many oaks and mature stems of coast live and interior live oak. Species with relatively thick outer layers of corky or flaky bark seldom develop sunburn.  
 
 Sunburn commonly develops on the south and west sides of sun-exposed lower trunks of newly transplanted young trees. This is typically associated with stock that has been being propagated under nursery conditions where the lower trunk has been shaded by surrounding plants, which is not adapted to extended periods of solar heating. Such trees also typically lack low branches needed to shade the trunk and experience greater levels of water stress after planting than they did in the nursery. 
 
@@ -520,7 +520,7 @@ Swiecki, T.J.; Bernhardt, E.A. 2025. *Annulohypoxylon thouarsianum*. In Swiecki,
 These canker rot fungi are distributed throughout oak woodlands in California, the Pacific Coast and the southwestern U.S. as well as in the oak-hardwood forests of the eastern U.S.
 
 *Inonotus andersonii* is reported from coast live, California black, blue, and valley oak in California, but probably infects other oak species as well.  In addition to oaks, it reportedly occurs on *Carya*, *Populus*, and willow.
-*Inocutis dryophilus* is reported on coast live, interior live, canyon live, California black, Oregon white, blue, and valley oak in California.  It is primarily found on living oaks, but is also reported on maple, *Populus*, *Prunus*, *Schinus*, and willow.
+*Inocutis dryophila* is reported on coast live, interior live, canyon live, California black, Oregon white, blue, and valley oak in California.  It is primarily found on living oaks, but is also reported on maple, *Populus*, *Prunus*, *Schinus*, and willow.
 
 
 
@@ -533,7 +533,7 @@ The fruiting bodies (basidiocarps) may appear on living trees or on recently-fai
 
 
 
-(ref:BrDis1B) Blue oak with typical elongate canker rot cankers and fruiting body of *Inocutis dryophilus*. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:BrDis1B) Blue oak with typical elongate canker rot cankers and fruiting body of *Inocutis dryophila*. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r BrDis1B, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis1B)"}
 knitr::include_graphics("images/Disease-trunk/INODRY_QUDO1_Phytosphere.jpg")
@@ -570,11 +570,11 @@ knitr::include_graphics("images/Disease-trunk/InoAnd_Inonotus andersonii old QA 
 knitr::include_graphics("images/Disease-trunk/INOAND_QUAG3_Phytosphere.jpg")
 ```
 
-*Inocutis dryophilus* basidiocarps are annual, hoof-shaped, up to 11 by 19 by 9 cm, usually solitary, and firm and corky when fresh (figure  \@ref(fig:BrDis2B).  The upper surface of the basiodiocarp (pileus) is buff to reddish-brown.  The lower surface is covered with a layer of tubes up to 3 cm thick that terminate in a smooth layer of small angular pores (1—3 per mm).  The pore surface is white to buff at first, but becomes dark reddish-brown with age.  Basidiospores are brownish.  The context (sterile tissue between the tube layer and the pileus) mostly consists of a hard, granular core of intermixed brown and whitish mycelium.
+*Inocutis dryophila* basidiocarps are annual, hoof-shaped, up to 11 by 19 by 9 cm, usually solitary, and firm and corky when fresh (figure  \@ref(fig:BrDis2B).  The upper surface of the basiodiocarp (pileus) is buff to reddish-brown.  The lower surface is covered with a layer of tubes up to 3 cm thick that terminate in a smooth layer of small angular pores (1—3 per mm).  The pore surface is white to buff at first, but becomes dark reddish-brown with age.  Basidiospores are brownish.  The context (sterile tissue between the tube layer and the pileus) mostly consists of a hard, granular core of intermixed brown and whitish mycelium.
 
 
 
-(ref:BrDis5B) Close-up of *Inocutis dryophilus* fruiting on interior live oak. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
+(ref:BrDis5B) Close-up of *Inocutis dryophila* fruiting on interior live oak. Photo: Tedmund J. Swiecki and Elizabeth A. Bernhardt, Phytosphere Research.
 
 ```{r BrDis5B, out.width='75%', fig.asp=.75, fig.align='center', fig.cap = "(ref:BrDis5B)"}
 knitr::include_graphics("images/Disease-trunk/InoDry_Inonotus dryophilus QW Rockville Park Dec 8 2003 b_Phytosphere.jpg")
@@ -584,15 +584,15 @@ knitr::include_graphics("images/Disease-trunk/InoDry_Inonotus dryophilus QW Rock
 
 #### Biology {-}
 
-Basidiocarps mature mainly between fall and spring.  *I. dryophilus* typically fruits on living stems.  *I. andersonii* only fruits on dead wood, including dead portions of living stems, dead branches, or on stems that have failed due to decay.  Basidiospores are produced along the inner walls of the tubes in the basidiocarp.  They are discharged though the pores on the lower surface of the basidiocarp and are disseminated by air currents.  Basidiospores initiate new infections, most likely by invading wounds such as broken branch stubs or pruning cuts.  
+Basidiocarps mature mainly between fall and spring.  *I. dryophila* typically fruits on living stems.  *I. andersonii* only fruits on dead wood, including dead portions of living stems, dead branches, or on stems that have failed due to decay.  Basidiospores are produced along the inner walls of the tubes in the basidiocarp.  They are discharged though the pores on the lower surface of the basidiocarp and are disseminated by air currents.  Basidiospores initiate new infections, most likely by invading wounds such as broken branch stubs or pruning cuts.  
 
 #### Importance {-}
 
-*I. andersonii* and *I. dryophilus* are among the most frequently observed wood decay fungi on living oaks in many types of hardwood forests.  These fungi are serious pathogens of California oaks and are associated with oak decline, failure, and mortality in many California oak woodlands.
+*I. andersonii* and *I. dryophila* are among the most frequently observed wood decay fungi on living oaks in many types of hardwood forests.  These fungi are serious pathogens of California oaks and are associated with oak decline, failure, and mortality in many California oak woodlands.
 
 #### Citation {-}
 
-Swiecki, T.J.; Bernhardt, E.A. 2025. Canker rots. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
+Swiecki, T.J.; Bernhardt, E.A. 2026. Canker rots. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ## Orange hobnail canker {-}
 
