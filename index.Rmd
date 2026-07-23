@@ -35,7 +35,8 @@ The original 2006 version of this document (PSW-GTR-197) was written by Tedmund 
 * Tedmund J. Swiecki, Phytosphere Research
 * Elizabeth A. Bernhardt, Phytosphere Research
 * Cheryl L. Blomquist, California Department of Food and Agriculture
-* Chris Lee, CalFire
+* Curtis Ewing, CalFire,
+* Chris Lee, CalFire, 
 * Suzanne Rooney-Latham, California Department of Food and Agriculture
 * 
 * 
