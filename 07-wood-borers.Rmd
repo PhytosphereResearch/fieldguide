@@ -11,10 +11,6 @@ Needs to be drafted.
 #### Distribution / Hosts  {-}
 
 
-```{r, fig.align='center', fig.asp=.75, fig.cap="Approximate ranges of pit scales (orange shading) and native oak species (green) in California.", out.width='30%'}
-knitr::include_graphics("images/distributions/statewide.png")
-```
-
 
 
 #### Symptoms  {-}
@@ -40,16 +36,15 @@ knitr::include_graphics("images/distributions/Xylmon.png")
 ```
 
 
-The Mediterranean oak borer (MOB) is an introduced species known from Europe, North Africa, and Asia. MOB  was first detected in the U.S. in Calistoga, California on valley oak in 2019 [@Rabaglia2020], [@Ewing2023].  Blue oak is a less commonly infected host. As of July 2026, MOB has been found in 11 counties in California: Amador, El Dorado, Lake, Marin, Mendocino, Napa, Placer, Sacramento,  Sonoma, Sutter, and Yolo  and it continues to spread. MOB has also recently been found on Oregon oak (*Quercus garryana*) in Napa County and northwest Oregon. In its native range, the most common hosts of MOB are other white oaks in the subgenus Quercus, oaks in the subgenus Cerris (including cork oak, *Q. suber*), and rarely on other trees including maple, walnut, elm, beech, cherry, chestnut, and hornbeam. Based on genetic data, the MOB infestation in California originated in France and the Oregon infestation appears to originate from a separate introduction from the Rhine Valley in Germany, rather than spread from the California infestation. Introduction to North America appears to be due to the movement of beetles and their associated fungi in infested wood, possibly through the wine industry in oak packaging or raw barrel staves. Spread in California is facilitated by the movement of firewood and green waste and short range dispersal of foundress females from infested host trees. 
-
+The Mediterranean oak borer (MOB) is an introduced species known from Europe, North Africa, and Asia. MOB  was first detected in the U.S. in Calistoga, California on valley oak in 2019 [@Rabaglia2020], [@Ewing2023].  Blue oak is a less commonly infected host. As of July 2026, MOB has been found in 11 counties in California: Amador, El Dorado, Lake, Marin, Mendocino, Napa, Placer, Sacramento,  Sonoma, Sutter, and Yolo  and it continues to spread. MOB has also recently been found on Oregon oak (*Quercus garryana*) in Napa County and northwest Oregon. In its native range, the most common hosts of MOB are other white oaks in the subgenus *Quercus* and oaks in the subgenus *Cerris* (including cork oak, *Q. suber*). Based on genetic data, the MOB infestation in California originated in France and the Oregon infestation appears to originate from a separate introduction from the Rhine Valley in Germany, rather than spread from the California infestation. Introduction to North America appears to be due to the movement of beetles and their associated fungi in infested wood, possibly through the wine industry in oak packaging or raw barrel staves. Spread in California is facilitated by the movement of firewood and green waste and short range dispersal of foundress females from infested host trees. 
 
 
 #### Symptoms {-}
 
-Symptoms of MOB are due to both boring by the beetles and the growth of a fungus that is vectored by the beetle. The fungus is introduced into the tree when the female beetle bores into the tree. Entrance holes are 1.3-1.5 mm in diameter and initial attacks are usually in branches six to eight inches in diameter in the upper crown. The entrance holes created by the foundress are hidden in bark crevices and are only evident when bark is removed from the tree. The presence of fine, light colored, boring dust trapped in bark crevices and spider webs on the bole is evidence of late stage infestations. In cross sections of infested stems, MOB galleries are often in a single transverse plane and separate galleries become interconnected. The galleries have many dense branches near the entrance forming a “trellis like” pattern which is unique to *X. monographus* (figure 1). These characteristics help distinguish MOB galleries from those of the native *X. xylographus* and *Monarthrum* spp. ambrosia beetles, which normally infest recently killed or severely stressed branches or trunks. MOB galleries and associated fungal decay also create areas of structural weakness that contribute to branch failures.
+Symptoms of MOB are due to both boring by the beetles and the growth of a fungus that is vectored by the beetle. The fungus is introduced into the tree when the female beetle bores into the tree. Entrance holes are 1.3-1.5 mm in diameter and initial attacks are usually in branches six to eight inches in diameter in the upper crown. The entrance holes created by the foundress are hidden in bark crevices and are only evident when bark is removed from the tree. The presence of fine, light-colored boring dust trapped in bark crevices and spider webs on the bole is evidence of late-stage infestations. In cross sections of infested stems, MOB galleries are often in a single transverse plane and separate galleries become interconnected. The galleries have many dense branches near the entrance forming a “trellis-like” pattern which is unique to *X. monographus* (figure \@ref(fig:WdBorXylMon1)). These characteristics help distinguish MOB galleries from those of the native *X. xylographus* and *Monarthrum* spp. ambrosia beetles, which normally infest recently killed or severely stressed branches or trunks. MOB galleries and associated fungal decay also create areas of structural weakness that contribute to branch failures.
 
 
-(ref:WdBorXylMon1) Figure 1. Galleries of *Xyleborus monographus* in valley oak. Photo: Curtis Ewing, CalFire.
+(ref:WdBorXylMon1) Galleries of *Xyleborus monographus* in valley oak. Photo: Curtis Ewing, CalFire.
 
 
 ```{r WdBorXylMon1, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorXylMon1)", out.width="75%"}
@@ -58,15 +53,42 @@ knitr::include_graphics("images/Insect-wood/MOB galleries DSC_0004_CEwing_adj2.j
 
 
 
-In valley oak, symptoms typically develop first on live branches in the tops of trees. Some evidence suggests that trees under greater water stress due to drought or damage to their root systems are more susceptible to MOB infestation. Affected branches may develop wilting, dieback, and eventually fail. Infestations may work their way down into larger branches preferentially on one side of a tree, and can eventually girdle the trunk, causing tree death. In large trees, five to ten or more years may elapse between initial attacks and tree mortality. In Oregon, the first symptom of infestation in Oregon oak is often sudden dieback of an entire branch, followed by dieback of the entire tree within 3 years. 
+In valley oak, symptoms typically develop first on live branches in the tops of trees (figure \@ref(fig:WdBorXylMon2)). Some evidence suggests that trees under greater water stress due to drought or damage to their root systems are more susceptible to MOB infestation. Affected branches may develop wilting, dieback, and eventually fail. Infestations may work their way down into larger branches preferentially on one side of a tree, and can eventually girdle the trunk, causing tree death. In large trees, 5 to 10 or more years may elapse between initial attacks and tree mortality. In Oregon, the first symptom of infestation in Oregon oak is often sudden dieback of an entire branch, followed by dieback of the entire tree within 3 years. 
+
+
+(ref:WdBorXylMon2) MOB symptoms in valley oak. Photo: Curtis Ewing, CalFire.
+
+
+```{r WdBorXylMon2, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorXylMon2)", out.width="75%"}
+knitr::include_graphics("images/Insect-wood/MOBcanopyVO_IMG_1270_CEwing_adj.jpg")
+```
+
 
 #### Agent Description {-}
 
-Adult beetles are very small, cylindrical in shape, and dark reddish brown in color. In California, females measure about 3.1 mm long, and males 2-2.5 mm long. Adult females are winged and can fly. Males have only rudimentary wings, do not fly, and are rarely observed. Adult males have a small rhinoceros-like horn on the pronotum.
+Adult beetles  are very small, cylindrical in shape, and dark reddish brown in color (figure \@ref(fig:WdBorXylMon3)). In California, females measure about 3.1 mm long, and males 2-2.5 mm long. Adult females are winged and can fly. Males have only rudimentary wings, do not fly, and are rarely observed. Adult males have a small rhinoceros-like horn on the pronotum.
+
+
+(ref:WdBorXylMon3) Adult *Xyleborus monographus*, male (top), female (lower). Photo: Curtis Ewing, CalFire. Photo: Curtis Ewing, CalFire.
+
+
+```{r WdBorXylMon3, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorXylMon3)", out.width="75%"}
+knitr::include_graphics("images/Insect-wood/XylMon_adult_C_Ewing.jpg")
+```
+
 
 #### Biology {-}
 
-Mated female beetles fly to the upper part of the tree canopy and bore through thin or cracked bark into living wood. Females carry fungal spores in specialized structures called mycangia located at the base of their mandibles. he female beetle creates galleries of interconnecting tunnels. (figure) Within the galleries, the fungal spores germinate and infect the walls of the tunnels, coating them with dark-colored mycelium. The beetles and their larvae feed on the fungi in the galleries. Larvae are tiny white grubs that pupate in the “trellis like” area of the gallery near the entrance. Xyleborus species are haplo-diploid with fertilized eggs being female and unfertilized eggs being male. The founding females will typically have mated before leaving the parental gallery and if not mated produce an all male brood with which the foundress subsequently mates to produce females in the second generation.
+Mated female beetles fly to the upper part of the tree canopy and bore through thin or cracked bark into living wood. Females carry fungal spores in specialized structures called mycangia located at the base of their mandibles. The female beetle creates galleries of interconnecting tunnels (figure \@ref(fig:WdBorXylMon1)). Within the galleries, the fungal spores germinate and infect the walls of the tunnels, coating them with dark-colored mycelium. The beetles and their larvae feed on the fungi in the galleries. Larvae are tiny white grubs that pupate in the “trellis like” area of the gallery near the entrance (figure \@ref(fig:WdBorXylMon4)). *Xyleborus* species are haplo-diploid with fertilized eggs being female and unfertilized eggs being male. The founding females will typically have mated before leaving the parental gallery and if not mated produce an all male brood with which the foundress subsequently mates to produce females in the second generation.
+
+
+(ref:WdBorXylMon4) *Xyleborus monographus* gallery tunnels with larvae (left) and pupa (right). Photo: Curtis Ewing, CalFire.
+
+
+```{r WdBorXylMon4, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorXylMon4)", out.width="75%"}
+knitr::include_graphics("images/Insect-wood/XylMon_larva_pupa_C_Ewing.jpg")
+```
+
 
 Fertile females leave galleries with fungal spores in their mycangia to initiate new infestations. The whole life cycle takes about 6 to 8 weeks. Peak flight time for dispersing females is from March through May, but small numbers disperse all year round when the sapwood temperature reaches 63° to 65° F, typically at ambient daytime temperatures of 65° to 80° F. Egg laying occurs spring through fall and there are at least 3 generations a year. 
 Multiple fungal species have been isolated from the beetle MOB galleries in California. Of these, *Raffaelea montetyi* is most commonly isolated in Europe and its pathogenicity to cork oak has been shown. *Raffaelea montetyi* is an asexual species of the genus *Ophiostoma*, which includes species that cause lethal vascular wilt diseases of various tree species. Research to assess the pathogenicity of fungi that have been recovered from beetle galleries is continuing. At least 2 species of *Fusarium* are also associated with MOB in California and Europe and also contribute to vascular wilt.
@@ -78,7 +100,7 @@ Mediterranean oak borer is an emerging invasive pest with potential to cause sub
 
 #### Citation {-}
 
-Ewing, J.C. 2026. Mediterranean oak borer (MOB). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
+Ewing, C.; E.A. Bernhardt. 2026. Mediterranean oak borer (MOB). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### *Monarthrum dentiger*, *M. scutellare* {-}
 
