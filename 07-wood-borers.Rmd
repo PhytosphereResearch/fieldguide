@@ -26,6 +26,14 @@ Both species have wide and overlapping hosts ranges. PSHB and KSHB have been rec
 The beetles prefer to attack vigorous trees with moist xylem. Symptoms are due to the beetles directly and to death of the xylem caused by fungi the beetle vector. Symptoms of beetle attack include round entrance and exit holes about 0.85 mm in diameter (figure \@ref(fig:WdBorPSHB1)). Holes may be surrounded by watery exudate (figure \@ref(fig:WdBorPSHB2)). Beetle holes penetrate about 1-4 cm into the wood. The abdomen of the female beetles are sometimes visible protruding from the holes as they guard the developing offspring in the galleries. The beetles bore into, but do not feed on the wood; they feed on the fungi they vector. Tightly packed cylindrical columns of fine white boring dust pushed out by the beetles may emanate from the holes as the beetles bore through trees with moist xylem. Sawdust and frass can also be found around entrance holes and at the base of trees. High levels of PSHB/KSHB attacks on susceptible trees can cause crown thinning, branch dieback, and stem or branch failures. Both species attack trees in a wide range of diameter size classes; down to as little as 2.0 cm DBH (Coleman et al. 2019).
 
 
+(ref:WdBorPSHB1) Symptoms of invasive shothole borer attack on English oak (*Quercus robur*). Photo: Ted Swiecki, Phytosphere Research.
+
+
+```{r WdBorPSHB1, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorPSHB1)", out.width="75%"}
+knitr::include_graphics("images/Insect-wood/PSHB trunk QueRob Phytosphere.jpg")
+```
+
+
 #### Agent Description  {-}
 
 PSHB and KSHB are morphologically identical, but DNA analysis supports that they are different closely related species. Females are black, 1.8 – 2.5 mm long. Males are smaller (1.5 mm long), brown, and wingless. Males are uncommon and rarely seen. Larvae are (color?) legless grubs.
@@ -37,9 +45,9 @@ PSHB and KSHB are members of a group of ambrosia beetles that form a symbiotic r
 Several adaptations allow these beetles to produce large populations quickly. Among these is arrhenotokous haplodiploidy: unfertilized eggs develop into haploid males and fertilized eggs develop into female adults. Sibling adults can mate in the galleries so that emerging females are already pregnant when they exit the galleries and initiate new galleries of their own. An unmated female can start a new colony by mating with her haploid sons to produce female offspring. Long range spread is by movement of infested wood and branches including firewood, nursery stock, and greenwaste, while local spread is by flight of the beetles to new trees.
 
 
-PSHB in California is known to carry three symbiotic fungi: Fusarium euwallaceae, Graphium euwallaceae, and Paracremonium pembeum (Freeman et al. 2013, Lynch et al. 2016). In oaks, these fungi produce small necrotic cankers around infection sites which are visible when the outer bark is removed around exit holes. Heavy infestation of the beetles can lead to branch dieback and death as these localized infections merge. Not all species that are attacked by the beetle are suitable for beetle reproduction, presumably because the symbiotic fungi cannot grow in the wood and therefore the attacking beetles do not have a food source. Hosts can therefore be classified as those susceptible to attack and those suitable for reproduction. Fusarium euwallaceae was originally found to be the most prevalent fungal species in the xylem of infected trees, hence the disease caused by beetle infestation was named Fusarium dieback.
+PSHB in California is known to carry three symbiotic fungi: *Fusarium euwallaceae*, *Graphium euwallaceae*, and *Paracremonium pembeum* (Freeman et al. 2013, Lynch et al. 2016). In oaks, these fungi produce small necrotic cankers around infection sites which are visible when the outer bark is removed around exit holes. Heavy infestation of the beetles can lead to branch dieback and death as these localized infections merge. Not all species that are attacked by the beetle are suitable for beetle reproduction, presumably because the symbiotic fungi cannot grow in the wood and therefore the attacking beetles do not have a food source. Hosts can therefore be classified as those susceptible to attack and those suitable for reproduction. *Fusarium euwallaceae* was originally found to be the most prevalent fungal species in the xylem of infected trees, hence the disease caused by beetle infestation was named Fusarium dieback.
 
-KSHB in California is known to vector two symbiotic fungi: F. kuroshium and G. kuroshium (Na et al. 2018). These fungi are closely related to their counterparts carried by PSHB and produce similar symptoms. Carrillo et al. (2019) reported that within their native ranges, both PSHB and KSHB may carry a wider variety of symbiont fungi and fungal species are not limited to a particular beetle species as they are currently in California.
+KSHB in California is known to vector two symbiotic fungi: *F. kuroshium* and *G. kuroshium* (Na et al. 2018). These fungi are closely related to their counterparts carried by PSHB and produce similar symptoms. Carrillo et al. (2019) reported that within their native ranges, both PSHB and KSHB may carry a wider variety of symbiont fungi and fungal species are not limited to a particular beetle species as they are currently in California.
 
 #### Importance  {-}
 
@@ -47,7 +55,7 @@ PSHB and KSHB are likely to be a significant new cause of injury to oak trees an
 
 #### Citation  {-}
 
-_____________ 2025. Invasive shot hole borers (ISHB). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
+Bernhardt, E.A. 2026. Invasive shot hole borers (ISHB). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### Mediterranean oak borer (MOB) {-}
 
@@ -124,7 +132,7 @@ Mediterranean oak borer is an emerging invasive pest with potential to cause sub
 
 #### Citation {-}
 
-Ewing, C.; E.A. Bernhardt. 2026. Mediterranean oak borer (MOB). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
+Ewing, C.; Bernhardt, E.A. 2026. Mediterranean oak borer (MOB). In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### *Monarthrum dentiger*, *M. scutellare* {-}
 
