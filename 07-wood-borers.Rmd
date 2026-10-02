@@ -16,7 +16,7 @@
 
 
 
-PSHB and KSHB, native to southeast Asia, were documented to be present in Los Angeles County by 2004 and San Diego County by 2013 ([@umeda2016PSHB], [@coleman2019PSHB). Due to the abundance of suitable hosts, they have since spread widely in southern California. PSHB is currently known from Los Angeles, Orange, Riverside, San Bernardino, San Diego, and Santa Cruz counties while KSHB is known from San Diego, Orange, Santa Barbara, and San Luis Obispo counties. 
+PSHB and KSHB, native to southeast Asia, were documented to be present in Los Angeles County by 2004 and San Diego County by 2013 (@umeda2016PSHB), (@coleman2019PSHB). Due to the abundance of suitable hosts, they have since spread widely in southern California. PSHB is currently known from Los Angeles, Orange, Riverside, San Bernardino, San Diego, and Santa Cruz counties while KSHB is known from San Diego, Orange, Santa Barbara, and San Luis Obispo counties. 
 
 Both species have wide and overlapping hosts ranges. PSHB and KSHB have been recorded in southern California on hundreds of tree species, particularly on trees in the Sapindaceae and Salicaceae. Among oak species, coast live oak, canyon live oak, cork oak, Engelmann oak, English oak, holly oak, and valley oak are known to be attacked by PSHB and are suitable for its reproduction. Coast live oak and cork oak are also known to be suitable for reproduction of KSHB. Emory oak is apparently not attacked. In general, oak species are not favorite hosts of the beetles. When beetles build up to high numbers in favored hosts they are likely to attack nearby trees even if they are nonhosts.
 
@@ -32,7 +32,7 @@ The beetles prefer to attack vigorous trees with moist xylem. Symptoms are due t
 knitr::include_graphics("images/Insect-wood/PSHB trunk QueRob Phytosphere.jpg")
 ```
 
-(ref:WdBorPSHB2) Boring holes surrounded by watery exudate symptoms caused by invasive shothole borer attack on English oak. Photo: Ted Swiecki, Phytosphere Research.
+(ref:WdBorPSHB2) Boring holes surrounded by watery exudate symptoms caused by invasive shothole borer attack on coast live oak. Photo: Ted Swiecki, Phytosphere Research.
 
 
 ```{r WdBorPSHB2, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorPSHB2)", out.width="75%"}
@@ -60,9 +60,9 @@ PSHB and KSHB are members of a group of ambrosia beetles that form a symbiotic r
 Several adaptations allow these beetles to produce large populations quickly. Among these is arrhenotokous haplodiploidy: unfertilized eggs develop into haploid males and fertilized eggs develop into female adults. Sibling adults can mate in the galleries so that emerging females are already pregnant when they exit the galleries and initiate new galleries of their own. An unmated female can start a new colony by mating with her haploid sons to produce female offspring. Long range spread is by movement of infested wood and branches including firewood, nursery stock, and greenwaste, while local spread is by flight of the beetles to new trees.
 
 
-PSHB in California is known to carry three symbiotic fungi: *Fusarium euwallaceae*, *Graphium euwallaceae*, and *Paracremonium pembeum* ([@freeman2013PSHB], [@lynch2016PSHB]). In oaks, these fungi produce small necrotic cankers around infection sites which are visible when the outer bark is removed around exit holes. Heavy infestation of the beetles can lead to branch dieback and death as these localized infections merge. Not all species that are attacked by the beetle are suitable for beetle reproduction, presumably because the symbiotic fungi cannot grow in the wood and therefore the attacking beetles do not have a food source. Hosts can therefore be classified as those susceptible to attack and those suitable for reproduction. *Fusarium euwallaceae* was originally found to be the most prevalent fungal species in the xylem of infected trees, hence the disease caused by beetle infestation was named Fusarium dieback.
+PSHB in California is known to carry three symbiotic fungi: *Fusarium euwallaceae*, *Graphium euwallaceae*, and *Paracremonium pembeum* (@freeman2013PSHB, @lynch2016PSHB). In oaks, these fungi produce small necrotic cankers around infection sites which are visible when the outer bark is removed around exit holes. Heavy infestation of the beetles can lead to branch dieback and death as these localized infections merge. Not all species that are attacked by the beetle are suitable for beetle reproduction, presumably because the symbiotic fungi cannot grow in the wood and therefore the attacking beetles do not have a food source. Hosts can therefore be classified as those susceptible to attack and those suitable for reproduction. *Fusarium euwallaceae* was originally found to be the most prevalent fungal species in the xylem of infected trees, hence the disease caused by beetle infestation was named Fusarium dieback.
 
-KSHB in California is known to vector two symbiotic fungi: *F. kuroshium* and *G. kuroshium* ([@na2018PSHB]). These fungi are closely related to their counterparts carried by PSHB and produce similar symptoms. [@carrillo2019PSHB] reported that within their native ranges, both PSHB and KSHB may carry a wider variety of symbiont fungi and fungal species are not limited to a particular beetle species as they are currently in California.
+KSHB in California is known to vector two symbiotic fungi: *F. kuroshium* and *G. kuroshium* (@na2018PSHB). These fungi are closely related to their counterparts carried by PSHB and produce similar symptoms. [@carrillo2019PSHB] reported that within their native ranges, both PSHB and KSHB may carry a wider variety of symbiont fungi and fungal species are not limited to a particular beetle species as they are currently in California.
 
 #### Importance  {-}
 
@@ -260,12 +260,6 @@ knitr::include_graphics("images/Insect-wood/DON OWENS BARK BEETLES.jpg")
 knitr::include_graphics("images/Insect-wood/AMBROSIA AND oak beetle  DUST B HAGEN.jpg")
 ```
 
-
-(ref:WdBorMon7) White ooze associated with oak bark beetle attack on interior live oak. Photo: Don Owen, CalFire, retired.
-
-```{r WdBorMon7, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorMon7)", out.width="50%"}
-knitr::include_graphics("images/Insect-wood/D OWEN Interior live oak Pseudopityophthorus.jpg")
-```
 
 
 #### Agent Description {-}

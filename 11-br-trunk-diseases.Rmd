@@ -4,61 +4,46 @@
 
 ### Foamy bark canker {-} 
 
-#### *Geosmithia* sp. - writeup needed {-}
+#### *Geosmithia* sp. 41 {-}
 
 
 #### Distribution / Hosts {-}
 
-
+Reported on coast live oak from Los Angeles, Orange, Riverside, Santa Barbara, Ventura, and Monterey counties in association with western oak bark beetles (*Pseudopityophthorus pubipennis*) [@lynch2014foamy]. Also reported from northern California on various oak species [@swain2017scolytid]. Probably can occur on oaks anywhere in California that are within the range of western oak bark beetles.
 
 #### Symptoms {-}
+
+The beetle creates multiple 0.95-mm-diameter entry holes through the bark of the bole of the tree, which responds by exuding a cinnamon-colored gum through the holes. This is followed by exudation of copious amounts of cream-colored foamy liquid. Wiping away the foam reveals the tiny round entry holes of the beetle. When the foamy exudate subsides a watery stain is left on the bark. Below the holes necrosis can be observed in the phloem and xylem. The fungal infection can cause branch decline, dieback, and tree death [@lynch2014foamy], [@swain2017scolytid].
+
+
+(ref:WdBorMon7) White ooze associated with oak bark beetle attack on interior live oak. Photo: Don Owen, CalFire, retired.
+
+```{r WdBorMon7, fig.align='center', fig.asp=.75, fig.cap="(ref:WdBorMon7)", out.width="50%"}
+knitr::include_graphics("images/Insect-wood/D OWEN Interior live oak Pseudopityophthorus.jpg")
+```
+
 
 
 
 #### Agent Description {-}
 
-
+Fungi in the genus *Geosmithia* are common symbionts of wood-boring, bark, and ambrosia beetles. *Geosmithia* species are microscopic filamentous fungi with no known sexual stage. They reproduce asexually by forming spores on specialized branched hyphae. Genetic analysis shows *Geosmithia* is a member of the Hypocreales, an order in the Ascomycota. *Geosmithia* sp. 41 is an undescribed species that was originally called *Geosmithia pallida* in the first report of this disease [@lynch2014foamy], [@swain2017scolytid]. The western oak bark beetle is covered in Chapter 7 this book.
 
 #### Biology {-}
 
-
+Spores of the fungus can sometimes be present on the elytra of the beetle. When the beetle bores into the phloem, the spores can rub off and subsequently germinate and infect the host tissue around the beetle gallery. The fungus produces spores as it grows. The beetle lays eggs and a new generation completes its life cycle in the gallery. Beetles that emerge after larvae pupate become contaminated with fungal spores as they make their way out of the gallery and exit the tree [@lynch2014foamy], [@swain2017scolytid].
 
 #### Importance {-}
 
-
+This disease is reported to have killed many coast live oak trees in southern California since 2012 when it was first observed [@lynch2014foamy] and presumably it has caused tree death in other areas of California as well [@swain2017scolytid]. The disease is not always fatal. 
 
 #### Citation {-}
 
-------------------- 2026. Foamy bark canker. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
+Bernhardt, E.A. 2026. Foamy bark canker. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
 
 ### Fusarium dieback {-}
 
-#### *Fusarium* - writeup needed {-}
-
-
-#### Distribution / Hosts {-}
-
-
-
-#### Symptoms {-}
-
-
-
-#### Agent Description {-}
-
-
-
-#### Biology {-}
-
-
-
-#### Importance {-}
-
-
-
-#### Citation {-}
-
------------- 2026. Fusarium dieback. In Swiecki, T.J., et al. (Eds.) Field Guide to Insects and Diseases of California Oaks, Online edition `r Sys.Date()`.
+See Invasive shot hole borers in Chapter 7 - Bark and wood boring insects- Ambrosia and bark beetles (Curculionidae:Scolytinae).
 
 ## Diseases affecting bark and sapwood {-}
 
